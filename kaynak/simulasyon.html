@@ -1,0 +1,370 @@
+<!-- ===== MESELE ATÖLYESİ (simülasyon) — sablon.html'den ayrı deneme parçası ===== -->
+<style>
+.atl{max-width:860px;margin:0 auto;padding:4px 16px 120px}
+.atl h2{margin:18px 0 4px}
+.atl .lead{color:var(--muted);margin:0 0 12px}
+.seg{display:flex;gap:4px;background:#efe8d8;border:1px solid var(--line);border-radius:12px;padding:4px;margin:8px 0 12px;max-width:420px}
+.seg button{flex:1;border:0;background:transparent;border-radius:9px;padding:9px 10px;font-weight:600;color:var(--muted);font-size:.92rem}
+.seg button.on{background:var(--card);color:var(--green);box-shadow:0 1px 3px rgba(40,30,10,.12)}
+.hazir{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:8px}
+.hz{border:1px solid var(--line);background:var(--card);border-radius:12px;padding:10px 12px;text-align:left;box-shadow:var(--shadow)}
+.hz b{display:block;color:var(--green);font-size:.95rem}
+.hz span{font-family:var(--ar);font-size:1.12rem;display:block;direction:rtl;text-align:right;margin-top:2px}
+.hz small{color:var(--muted);font-size:.78rem}
+.hz.cz{border-color:#cfe0d6;background:#f6faf7}
+details.agrp{margin:10px 0;border:1px solid var(--line);border-radius:12px;background:#fbf8f1;padding:0 10px}
+details.agrp summary{cursor:pointer;padding:11px 4px;font-weight:700;color:var(--green)}
+details.agrp summary small{color:var(--muted);font-weight:400;margin-left:6px}
+details.agrp .hazir{padding:0 0 10px}
+.vgrp{margin:10px 0 4px;font-size:.74rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--gold)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{display:flex;align-items:center;gap:0;border:1px solid var(--line);background:var(--card);border-radius:999px;overflow:hidden}
+.chip .cb{border:0;background:transparent;padding:6px 10px 6px 12px;display:flex;flex-direction:column;align-items:flex-start;line-height:1.15;text-align:left}
+.chip .cb .a{font-family:var(--ar);font-size:1.05rem}.chip .cb .t{font-size:.72rem;color:var(--muted)}
+.chip.on{border-color:var(--green);background:var(--green-soft)}
+.chip .n{min-width:22px;text-align:center;font-weight:700;color:var(--green)}
+.chip .pm{border:0;background:transparent;width:30px;height:40px;font-size:1.1rem;color:var(--green)}
+.terike{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:12px 0}
+.terike input{width:150px;padding:8px 10px;border:1px solid var(--line);border-radius:10px;font-size:1rem}
+.steps5{display:flex;gap:4px;margin:14px 0 10px;flex-wrap:wrap}
+.steps5 span{font-size:.76rem;padding:4px 10px;border-radius:999px;background:#efe8d8;color:var(--muted);font-weight:600}
+.steps5 span.on{background:var(--green);color:#fff}.steps5 span.ok{background:var(--green-soft);color:var(--green)}
+.gorev{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:12px 14px;margin:8px 0 12px;box-shadow:var(--shadow)}
+.gorev b{color:var(--green)}
+.tablo{overflow-x:auto;-webkit-overflow-scrolling:touch;padding:4px 0 6px}
+table.at{border-collapse:collapse;font-family:var(--sans);direction:ltr;margin:4px 0}
+table.at td{border:1.5px solid #3b4a42;padding:4px 6px;text-align:center;min-width:52px;height:42px;background:#fff;vertical-align:middle}
+table.at td.nb{border:0;background:transparent}
+table.at td.vc{font-family:var(--ar);font-size:1.22rem;direction:rtl;text-align:right;min-width:100px;white-space:nowrap;padding:4px 10px}
+table.at td.pc{border:0;background:transparent;text-align:left;min-width:96px}
+table.at tr.ust td{border:0;background:transparent;height:auto;font-size:.74rem;color:var(--gold);font-weight:700}
+table.at tr.alt td{border:0;background:transparent;height:auto;font-size:.74rem;color:var(--muted);padding-top:2px}
+table.at input{width:56px;padding:6px 4px;border:1px solid #c9c1ad;border-radius:7px;text-align:center;font-size:1rem;font-weight:700;background:#fffdf6}
+table.at td.mh input{border-color:var(--green);color:var(--green)}
+table.at select{padding:6px 4px;border:1px solid #c9c1ad;border-radius:7px;font-size:.95rem;background:#fffdf6;max-width:110px}
+table.at .dogru{background:var(--green-soft)!important;border-color:var(--green)!important}
+table.at .yanlis{background:var(--red-soft)!important;border-color:var(--red)!important}
+table.at .sabit{font-weight:700}
+table.at s{color:var(--red);opacity:.7;margin-right:4px}
+table.at .arp{font-family:var(--ar);font-size:1.1rem}
+.btns{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}
+.btn2{border:1px solid var(--line);background:var(--card);border-radius:10px;padding:9px 14px;font-weight:600;color:var(--green)}
+.btn2.ana{background:var(--green);color:#fff;border-color:var(--green)}
+.geri{margin:8px 0;padding:10px 14px;border-radius:10px;font-size:.93rem;line-height:1.55}
+.geri.ok{background:var(--green-soft);border-left:4px solid var(--green)}
+.geri.no{background:var(--red-soft);border-left:4px solid var(--red)}
+.geri ul{margin:6px 0 0;padding-left:18px}
+.tur{display:flex;gap:6px;flex-wrap:wrap}
+.tur button{border:1px solid var(--line);background:var(--card);border-radius:10px;padding:9px 14px;font-weight:600}
+.tur button.sec{border-color:var(--green);background:var(--green-soft);color:var(--green)}
+.sonuc{width:100%;border-collapse:collapse;font-size:.92rem;margin-top:6px}
+.sonuc th,.sonuc td{border-bottom:1px solid var(--line);padding:7px 8px;text-align:left}
+.sonuc td.a{font-family:var(--ar);font-size:1.1rem}
+.ipucu{font-size:.88rem;color:var(--muted);margin:4px 0 0}
+.anlat ol{margin:8px 0 4px;padding-left:20px}.anlat ol>li{margin:0 0 10px;line-height:1.55}.anlat ul{margin:4px 0 0;padding-left:18px}.anlat li li{margin:2px 0}
+.geri ul{line-height:1.6}
+@media (max-width:560px){
+  table.at td{min-width:44px;padding:3px 4px;height:40px}
+  table.at td.vc{min-width:78px;font-size:1.1rem;padding:3px 6px}
+  table.at input{width:46px;font-size:.95rem}
+  table.at select{max-width:92px;font-size:.9rem}
+  table.at td.pc{min-width:88px}
+}
+</style>
+<script>
+/*MOTOR*/
+const HAZIR = [
+  {ad: 'Mesele 1', g: {zevce: 1, ibn: 1, bint: 1}},
+  {ad: 'Mesele 2', g: {zevc: 1, um: 1, eb: 1}},
+  {ad: 'Mesele 3', g: {zevce: 1, bint: 2, eb: 1, um: 1}},
+  {ad: 'Mesele 4', g: {zevce: 1, um: 1, bint: 2, ahS: 12, uhtS: 1}, t: 600, n: 'Terike: 600 dinar'},
+  {ad: 'Mesele 5', g: {zevc: 1, um: 1, uhtS: 2, uhtU: 2}},
+  {ad: 'Mesele 6', g: {zevce: 1, bint: 1, um: 1}},
+  {ad: 'Mesele 7', g: {zevc: 1, um: 1, ahU: 2, ahS: 1}},
+  {ad: 'Mesele 8', g: {bint: 1, uhtS: 1, amS: 1}},
+];
+const GRUPLAR = [['Eşler', ['zevc', 'zevce']], ['Usul', ['eb', 'cedd', 'um', 'ceddeU', 'ceddeB']], ['Fürû', ['ibn', 'bint', 'ibnIbn', 'bintIbn']],
+  ['Kardeşler', ['ahS', 'uhtS', 'ahB', 'uhtB', 'ahU', 'uhtU']], ['Kardeş çocukları ve amcalar', ['ibnAhS', 'ibnAhB', 'amS', 'amB', 'ibnAmS', 'ibnAmB']]];
+const IPUCU = {
+  zevc: 'Ölenin fürûu (çocuğu ya da oğlunun çocuğu) var mı?', zevce: 'Ölenin fürûu (çocuğu ya da oğlunun çocuğu) var mı?',
+  eb: 'Ölenin erkek fürûu mu var, yalnız kız fürûu mu, yoksa hiç fürûu yok mu?',
+  cedd: 'Önce baba var mı diye bak; yoksa dede babanın hallerini alır.',
+  um: 'Fürû var mı? Birden fazla kardeş var mı? Baba ve eşlerden biri birlikte mi?',
+  ceddeU: 'Anne var mı? Birden fazla nene var mı?', ceddeB: 'Anne var mı? Baba var mı?',
+  ibn: 'Oğul kimin yanında asabe olur?', bint: 'Oğul var mı? Kız tek mi, birden fazla mı?',
+  ibnIbn: 'Ölenin oğlu var mı?', bintIbn: 'Oğul var mı? Kaç kız var? Oğlun oğlu var mı?',
+  ahS: 'Ölenin erkek fürûu, babası ya da dedesi var mı?', uhtS: 'Erkek fürû, baba, dede var mı? Öz erkek kardeş var mı? Kız ya da oğlun kızı var mı? Kaç tane?',
+  ahB: 'Erkek fürû, baba, dede, öz erkek kardeş var mı? Kız kardeşler asabe maa’l-gayr mı?', uhtB: 'Öz kız kardeş kaç tane, nasıl pay alıyor? Baba bir erkek kardeş var mı? Kız ya da oğlun kızı var mı?',
+  ahU: 'Fürû ya da erkek usul var mı? Anne bir kardeşler kaç kişi?', uhtU: 'Fürû ya da erkek usul var mı? Anne bir kardeşler kaç kişi?',
+};
+const ipucu = k => IPUCU[k] || 'Cihet, derece, kuvvet: bu varisten daha önde bir asabe var mı?';
+const HALLER = ['1/2', '1/4', '1/8', '2/3', '1/3', '1/6', '1/6+ع', 'ع', '1/3 الباقي', 'م'];
+/* ---- alıştırmalar: ünitelerdeki (KITAP_AL) ve tablolardaki (ALIS) ---- */
+const atlKayit = () => { try { return JSON.parse(localStorage.getItem('fr_atl') || '{}'); } catch (e) { return {}; } };
+const atlYaz = (id, v) => { try { const k = atlKayit(); if (k[id] !== 'tam') k[id] = v; localStorage.setItem('fr_atl', JSON.stringify(k)); } catch (e) {} };
+function cozulebilir(v) { const {g, bilinmeyen} = cevir(v); if (bilinmeyen.length || !Object.keys(g).length) return null; try { return coz(g).destek ? g : null; } catch (e) { return null; } }
+let _ALL = null;
+function tumAlis() {
+  if (_ALL) return _ALL;
+  const kat = g => { const k = Object.keys(g);
+    if (k.some(x => /^cedde|^ebUm/.test(x))) return 'Neneler';
+    if (k.some(x => ['bintIbn', 'ibnIbn', 'ibn3', 'bint3', 'ibn4', 'bint4', 'bintBint', 'ibnBint'].includes(x))) return 'Oğlun çocukları';
+    if (k.some(x => /^(ah|uht|ibnAh|am|ibnAm)/.test(x))) return 'Kardeşler ve amcalar';
+    return 'Eşler, anne-baba ve çocuklar'; };
+  const out = [];
+  (typeof KITAP_AL !== 'undefined' ? KITAP_AL : []).forEach((x, i) => { const g = cozulebilir(x.v); if (g) out.push({id: 'k' + i, v: x.v, g, n: x.n, grup: (x.u + 1) + '. ünite · ' + UNITELER[x.u].t, ad: (x.u + 1) + '. ünite alıştırması'}); });
+  let no = 0;
+  (typeof ALIS !== 'undefined' ? ALIS : []).forEach((v, i) => { const g = cozulebilir(v); if (g) { no++; out.push({id: 't' + i, v, g, grup: kat(g), ad: 'Alıştırma ' + no}); } });
+  return (_ALL = out);
+}
+function alisAc(id, sinavda) {
+  const x = tumAlis().find(a => a.id === id); if (!x) return;
+  A.g = Object.assign({}, x.g); A.terike = ''; A.ad = x.ad; A.alisId = id; if (!sinavda) A.sinav = null; kur(true);
+  if (curView !== 'atolye') go('atolye'); else atolye();
+}
+function atlAcV(btn) { const v = btn.getAttribute('data-v'); const x = tumAlis().find(a => a.id[0] === 'k' && a.v === v); if (x) alisAc(x.id); }
+function siradaki() { const k = atlKayit(), x = tumAlis().find(a => !k[a.id]) || tumAlis()[0]; alisAc(x.id); }
+function sinavBasla() {
+  const L = shuffle(tumAlis().map(a => a.id)).slice(0, 5);
+  A.sinav = {ids: L, i: 0, sonuc: []}; alisAc(L[0], true);
+}
+let A = {mod: 'hazir', g: {}, terike: '', r: null, adim: 0, tur: null, hal: {}, cev: {}, ok: {}};
+const esc2 = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
+const say = v => { if (v === '-' || v === '–' || v === '' || v == null) return 0; return String(v).split('+').reduce((t, x) => t + (+x || 0), 0); };
+
+function atolye() {
+  const el = document.getElementById('app');
+  if (!A.r) {
+    el.innerHTML = `<div class="atl">
+      <h2>Mesele Atölyesi</h2>
+      <p class="lead">Varisleri seç, mesele tablosunu adım adım kendin doldur: önce haller, sonra meseleyi kaçtan kuracağın (mahreç) ve sihâmlar, sonra mesele türü ve tashih. Her adımda kontrol et; takılırsan ipucuna bak.</p>
+      <div class="seg"><button class="${A.mod === 'hazir' ? 'on' : ''}" onclick="A.mod='hazir';atolye()">Kitaptaki meseleler</button><button class="${A.mod === 'alis' ? 'on' : ''}" onclick="A.mod='alis';atolye()">Alıştırmalar</button><button class="${A.mod === 'kur' ? 'on' : ''}" onclick="A.mod='kur';atolye()">Kendin kur</button></div>
+      ${A.sinav && A.sinav.bitti ? sinavSonuc() : ''}
+      ${A.mod === 'alis' ? alisListe() : A.mod === 'hazir' ? `<div class="hazir">${HAZIR.map((h, i) => `<button class="hz" onclick="hazirAc(${i})"><b>${esc2(h.ad)}</b><span>${Object.entries(h.g).map(([k, n]) => VAR[k].a + (n > 1 ? ` (${n})` : '')).join(' ، ')}</span>${h.n ? `<small>${esc2(h.n)}</small>` : ''}</button>`).join('')}</div>`
+      : `${GRUPLAR.map(([ad, ks]) => `<div class="vgrp">${ad}</div><div class="chips">${ks.map(k => { const n = A.g[k] || 0; return `<span class="chip ${n ? 'on' : ''}"><button class="cb" onclick="ekle('${k}',1)"><span class="a">${VAR[k].a}</span><span class="t">${VAR[k].t}</span></button>${n ? `<button class="pm" onclick="ekle('${k}',-1)" aria-label="Azalt">−</button><span class="n">${n}</span><button class="pm" onclick="ekle('${k}',1)" aria-label="Artır">+</button>` : ''}</span>`; }).join('')}</div>`).join('')}
+        <div class="terike"><label for="trk">Terike (isteğe bağlı):</label><input id="trk" inputmode="decimal" placeholder="ör. 600" value="${esc2(A.terike)}" oninput="A.terike=this.value"></div>
+        <div class="btns"><button class="btn2 ana" onclick="kur()" ${Object.keys(A.g).length ? '' : 'disabled'}>Meseleyi kur →</button>${Object.keys(A.g).length ? '<button class="btn2" onclick="A.g={};atolye()">Temizle</button>' : ''}</div>`}
+    </div>`;
+    return;
+  }
+  ciz();
+}
+function alisListe() {
+  const L = tumAlis(), k = atlKayit(), bitti = L.filter(a => k[a.id]).length, tam = L.filter(a => k[a.id] === 'tam').length;
+  const SIRA = ['Eşler, anne-baba ve çocuklar', 'Oğlun çocukları', 'Neneler', 'Kardeşler ve amcalar'];
+  const gruplar = [...new Set(L.map(a => a.grup))].sort((x, y) => (SIRA.indexOf(x) + 1 || parseInt(x) + 10) - (SIRA.indexOf(y) + 1 || parseInt(y) + 10));
+  return `<div class="gorev"><b>${bitti} / ${L.length}</b> alıştırma çözüldü${tam ? ` · ${tam} tanesi hiç yardım almadan` : ''}.
+      <div class="btns" style="margin-bottom:0"><button class="btn2 ana" onclick="siradaki()">Sıradaki alıştırma →</button><button class="btn2" onclick="sinavBasla()">Sınav: rastgele 5 mesele</button></div>
+      <p class="ipucu">Sınavda ipucu ve “çözümü göster” yoktur; her mesele için kaç denemede çözdüğün puanlanır.</p></div>
+    ${gruplar.map(gr => `<details class="agrp" ${gr === 'Eşler, anne-baba ve çocuklar' ? 'open' : ''}><summary>${esc2(gr)} <small>${L.filter(a => a.grup === gr && k[a.id]).length} / ${L.filter(a => a.grup === gr).length}</small></summary>
+      <div class="hazir">${L.filter(a => a.grup === gr).map(a => `<button class="hz ${k[a.id] ? 'cz' : ''}" onclick="alisAc('${a.id}')"><b>${k[a.id] === 'tam' ? '✓ ' : k[a.id] ? '◐ ' : ''}${esc2(a.ad)}</b><span>${esc2(a.v)}</span>${a.n ? `<small>${esc2(a.n)}</small>` : ''}</button>`).join('')}</div></details>`).join('')}`;
+}
+function sinavSonuc() {
+  const S = A.sinav, puan = S.sonuc.reduce((t, x) => t + x.p, 0);
+  return `<div class="gorev"><b>Sınav sonucu: ${puan} / ${S.sonuc.length * 4}</b><ul>${S.sonuc.map((x, i) => `<li>${i + 1}. ${esc2(x.ad)}: ${x.hata ? `${x.hata} yanlış deneme` : 'ilk denemede'} · ${x.p} puan</li>`).join('')}</ul><p class="ipucu">Her mesele 4 puan; her yanlış deneme 1 puan düşürür.</p>
+    <div class="btns"><button class="btn2 ana" onclick="sinavBasla()">Yeni sınav</button><button class="btn2" onclick="A.sinav=null;atolye()">Kapat</button></div></div>`;
+}
+function ekle(k, d) {
+  const n = Math.max(0, Math.min(VAR[k].m, (A.g[k] || 0) + d));
+  if (n) A.g[k] = n; else delete A.g[k];
+  if (d > 0 && k === 'zevc') delete A.g.zevce; if (d > 0 && k === 'zevce') delete A.g.zevc;
+  atolye();
+}
+function hazirAc(i) { A.g = Object.assign({}, HAZIR[i].g); A.terike = HAZIR[i].t ? String(HAZIR[i].t) : ''; A.ad = HAZIR[i].ad; A.alisId = null; A.sinav = null; kur(); }
+function kur(kendi) {
+  if (!kendi && A.mod === 'kur') { A.alisId = null; A.sinav = null; }
+  A.kaydedildi = false; A.r = coz(A.g); A.adim = 1; A.tur = null; A.tashih = false; A.yardim = {}; A.hataSay = 0; A.hal = {}; A.cev = {}; A.ok = {}; A.geri = '';
+  if (!A.ad) A.ad = 'Kendi meselen';
+  atolye();
+}
+function yeni() { A.r = null; A.ad = null; A.g = {}; A.terike = ''; if (A.sinav && !A.sinav.bitti) A.sinav = null; atolye(); }
+
+/* ---- adımlar ----
+   1 haller · 2 mahreç ve sihâm · 3 mesele türü (avl/red) · 4 tashih · 5 sonuç */
+function sutunlar() {
+  const r = A.r, cols = [{id: 'c1', m: r.mahrec, v: s => s.ilk, ad: ''}];
+  if ((A.adim > 3 || (A.adim === 3 && A.tur === r.tur)) && r.tur === 'reddiye') cols.push({id: 'c2', m: r.mahrec2, v: s => s.s2, ad: 'red'});
+  if ((A.adim > 4 || (A.adim === 4 && A.tashih)) && r.cuz > 1) cols.push({id: 'c3', m: r.mahrec3, v: s => s.sonS, ad: 'tashih', ust: A.adim === 4 ? 'CUZ' : '× ' + r.cuz});
+  return cols;
+}
+function hucre(col, s, i) {
+  const v = col.v(s);
+  const adimOf = {c1: 2, c2: 3, c3: 4};
+  if (A.adim < adimOf[col.id] && col.id !== 'c1') return '';   // henüz sırası gelmeyen sütun boş durur
+  const aktifSut = (col.id === 'c1' && A.adim <= 2) || (col.id === 'c2' && A.adim === 3) || (col.id === 'c3' && A.adim === 4);
+  if (v === '^' && !aktifSut) return null;   // birleşik (çözülmüş sütunda)
+  const id = col.id + '-' + i;
+  const aktif = (col.id === 'c1' && A.adim <= 2) || (col.id === 'c2' && A.adim === 3) || (col.id === 'c3' && A.adim === 4);
+  if (v === '-' && !aktif) return `<span class="sabit">–</span>`;
+  if (aktif) return `<input id="${id}" inputmode="numeric" value="${esc2(A.cev[id] ?? '')}" oninput="A.cev['${id}']=this.value" aria-label="sihâm">`;
+  return `<span class="sabit">${esc2(v)}</span>`;
+}
+function ciz() {
+  const r = A.r, cols = sutunlar(), sat = r.satir;
+  const aktifId = A.adim <= 2 ? 'c1' : A.adim === 3 ? 'c2' : A.adim === 4 ? 'c3' : '';
+  const span = cols.map(c => { const sp = {}; let top = -1; if (A.adim <= ({c1: 2, c2: 3, c3: 4})[c.id]) return sp; sat.forEach((s, i) => { if (c.v(s) === '^' && top >= 0) { sp[top] = (sp[top] || 1) + 1; sp[i] = 0; } else top = i; }); return sp; });
+  const cl = (id) => A.ok[id] === true ? 'dogru' : A.ok[id] === false ? 'yanlis' : '';
+  const ters = [...cols.keys()].reverse();
+  const mh = c => {
+    const id = c.id + '-m', aktif = (c.id === 'c1' && A.adim <= 2) || (c.id === 'c2' && A.adim === 3) || (c.id === 'c3' && A.adim === 4);
+    let ic = aktif ? `<input id="${id}" inputmode="numeric" value="${esc2(A.cev[id] ?? '')}" oninput="A.cev['${id}']=this.value" aria-label="mahreç">` : (A.adim > (c.id === 'c1' ? 2 : c.id === 'c2' ? 3 : 4) ? `<b>${c.m}</b>` : '');
+    if (c.id === 'c1' && r.tur === 'avliye' && (A.adim > 3 || (A.adim === 3 && A.tur === 'avliye'))) {
+      const aid = 'avl-m';
+      ic = A.adim === 3 ? `<s>${r.mahrec}</s><input id="${aid}" inputmode="numeric" value="${esc2(A.cev[aid] ?? '')}" oninput="A.cev['${aid}']=this.value" aria-label="avl mahreci">` : `<s>${r.mahrec}</s><b>${r.mahrec2}</b>`;
+      return `<td class="mh ${cl(aid)}">${ic}</td>`;
+    }
+    return `<td class="mh ${cl(id)}">${ic}</td>`;
+  };
+  const tablo = `<div class="tablo"><table class="at">
+    ${cols.some(c => c.ust) ? `<tr class="ust">${ters.map(j => `<td class="${cl('cuz')}">${cols[j].ust === 'CUZ' ? `× <input id="cuz" inputmode="numeric" style="width:44px" value="${esc2(A.cev.cuz ?? '')}" oninput="A.cev.cuz=this.value" aria-label="cüz'ü's-sehm">` : (cols[j].ust || '')}</td>`).join('')}<td class="nb"></td><td class="nb"></td></tr>` : ''}
+    <tr>${ters.map(j => mh(cols[j])).join('')}<td class="nb"></td><td class="nb"></td></tr>
+    ${sat.map((s, i) => `<tr>${ters.map(j => { const sp = span[j][i]; if (sp === 0) return ''; const h = hucre(cols[j], s, i); const id = cols[j].id + '-' + i; return `<td class="${cl(id)}"${sp > 1 ? ` rowspan="${sp}"` : ''}>${h}</td>`; }).join('')}
+      <td class="vc">${esc2(s.a)}</td>
+      <td class="pc ${cl('h-' + i)}">${A.adim === 1 ? `<select id="h-${i}" onchange="A.hal[${i}]=this.value" aria-label="${esc2(VAR[s.k].t)} hali"><option value="">Hal…</option>${HALLER.map(h => `<option ${A.hal[i] === h ? 'selected' : ''}>${h}</option>`).join('')}</select>` : `<span class="arp">${esc2(s.hal)}</span>`}</td></tr>`).join('')}
+    ${cols.length > 1 ? `<tr class="alt">${ters.map(j => `<td>${cols[j].ad}</td>`).join('')}<td class="nb"></td><td class="nb"></td></tr>` : ''}
+  </table></div>`;
+  const AD = ['', 'Haller', 'Mahreç ve sihâm', 'Mesele türü', 'Tashih', 'Sonuç'];
+  const gorev = {
+    1: 'Her varisin <b>halini</b> seç: pay mı alıyor (1/2, 1/6…), asabe mi (ع), yoksa mahcub mu (م)? İstersen aynı anda üstteki kutuya <b>mahreci</b>, satırlara <b>sihâmları</b> da yazabilirsin; “Kontrol et” hepsine bakar.',
+    2: 'Meseleyi kaçtan kuracağını bul: üstteki kutuya <b>mahreci</b>, satırlara her varisin <b>sihâmını</b> yaz. Pay ve asabelik birlikteyse “1+2” gibi yazabilirsin. Bir payı ya da kalanı birlikte alanlar için toplamı ilk satıra yazıp ötekileri boş bırakabilirsin. Mahcublar için “-” yaz.',
+    3: 'Sihâmları topla ve mahreçle karşılaştır: mesele <b>âdile</b> mi, <b>avliye</b> mi, <b>reddiye</b> mi?',
+    4: A.tashih ? '<b>Tashih</b>: tablonun üstüne cüz’ü’s-sehmi, yeni sütuna mahreci ve her satırın sihâmını yaz.' : 'Her grubun sihâmı kişi sayısına (erkek iki kişi sayılır) tam bölünüyor mu? <b>Tashih</b> gerekiyor mu?',
+    5: 'Mesele çözüldü.'
+  }[A.adim];
+  let alt = '';
+  if (A.adim === 3) alt = `<div class="tur">${['âdile', 'avliye', 'reddiye'].map(t => `<button class="${A.tur === t ? 'sec' : ''}" onclick="turSec('${t}')">${t[0].toLocaleUpperCase('tr') + t.slice(1)}</button>`).join('')}</div>
+    ${A.tur && A.tur === r.tur && r.tur === 'avliye' ? '<p class="ipucu">Doğru. Şimdi eski mahreç çizildi; yerine yeni (avl) mahreci yaz.</p>' : ''}
+    ${A.tur && A.tur === r.tur && r.tur === 'reddiye' ? '<p class="ipucu">Doğru. Reddiyenin hangi kısmı olduğunu düşün; yeni sütuna red mahrecini ve sihâmları yaz.</p>' : ''}`;
+  if (A.adim === 4 && !A.tashih) alt = `<div class="tur"><button onclick="tashihSec(false)">Tashihe gerek yok</button><button onclick="tashihSec(true)">Tashih gerekiyor</button></div>`;
+  const kontrolVar = A.adim === 1 || A.adim === 2 || (A.adim === 3 && A.tur === r.tur && r.tur !== 'âdile') || (A.adim === 4 && A.tashih);
+  document.getElementById('app').innerHTML = `<div class="atl">
+    <button class="backlink" onclick="yeni()">‹ ${A.sinav ? 'Sınavdan çık' : 'Başka mesele'}</button>
+    <h2>${esc2(A.ad)}</h2>${A.sinav ? `<p class="ipucu">Sınav · ${A.sinav.i + 1}. mesele / ${A.sinav.ids.length}</p>` : ''}
+    <div class="steps5">${AD.slice(1).map((a, i) => `<span class="${A.adim === i + 1 ? 'on' : A.adim > i + 1 ? 'ok' : ''}">${i + 1}. ${a}</span>`).join('')}</div>
+    <div class="gorev">${gorev}</div>
+    ${tablo}
+    ${alt}
+    ${A.geri || ''}
+    <div class="btns">${kontrolVar ? `<button class="btn2 ana" onclick="kontrol()">Kontrol et</button>` : ''}${A.adim < 5 && !A.sinav ? `<button class="btn2" onclick="goster()">Bu adımın çözümünü göster ve geç</button>` : ''}</div>
+    ${A.adim === 5 ? sonucHTML() : ''}
+  </div>`;
+}
+function redIpucu() {
+  return 'Önce eşlerden biri var mı, kaç ayrı farz sahibi var, ona bak. Eş yoksa: tek farzda mahreç aded-i rüûs, birden fazla farzda sihâmların toplamıdır. Eş varsa: tek farzda eşin payının paydası mahreç olur; birden fazla farzda keşf, zevciyye ve red sütunlarıyla çözülür.';
+}
+function turSec(t) {
+  A.tur = t;
+  if (t !== A.r.tur) { A.hataSay++; A.geri = A.sinav ? '<div class="geri no">Değil. Tekrar dene.</div>' : `<div class="geri no">Değil. Ashâb-ı ferâizin sihâmlarını topla ve mahreçle karşılaştır: eşitse âdile, büyükse avliye, küçükse (ve asabe yoksa) reddiyedir. Asabe varsa kalanı o alır.</div>`; }
+  else if (t === 'âdile') { A.geri = '<div class="geri ok">Doğru: mesele âdiledir.</div>'; A.adim = 4; }
+  else A.geri = '';
+  ciz();
+}
+function tashihSec(gerek) {
+  const dogru = (A.r.cuz > 1) === gerek;
+  if (!dogru) { A.hataSay++; } if (!dogru) A.geri = A.sinav ? '<div class="geri no">Değil. Tekrar dene.</div>' : `<div class="geri no">Değil. Her grubun sihâmını o gruptaki kişi sayısına (erkek iki kişi sayılır) bölmeyi dene.</div>`;
+  else if (gerek) { A.tashih = true; A.geri = '<div class="geri ok">Doğru: tam bölünmeyen bir grup var.</div>'; }
+  else { A.geri = '<div class="geri ok">Doğru: bütün grupların sihâmı kişi sayısına bölünüyor.</div>'; A.adim = 5; }
+  ciz();
+}
+function tashihYok(c) { tashihSec(!c); }
+function kontrol() {
+  const r = A.r, hata = [];
+  if (A.adim === 1) {
+    r.satir.forEach((s, i) => { const ok = (A.hal[i] || '') === s.hal; A.ok['h-' + i] = ok; if (!ok) hata.push(`<b>${esc2(VAR[s.k].t)}</b>: ${A.hal[i] ? 'seçtiğin hal yanlış.' : 'hal seçilmedi.'} <i>İpucu:</i> ${esc2(ipucu(s.k))}`); });
+    if (!hata.length) {
+      A.adim = 2;
+      const yazildi = Object.keys(A.cev).some(k => k.startsWith('c1-') && String(A.cev[k]).trim() !== '');
+      if (yazildi) return kontrol();
+      A.geri = '<div class="geri ok">Bütün haller doğru. Şimdi mahreci ve sihâmları yaz.</div>';
+    }
+  } else {
+    const c = sutunlar().find(c => c.id === (A.adim === 2 ? 'c1' : A.adim === 3 ? 'c2' : 'c3'));
+    if (A.adim === 3 && r.tur === 'avliye') {
+      const ok = +A.cev['avl-m'] === r.mahrec2; A.ok['avl-m'] = ok;
+      if (!ok) hata.push('Avl mahreci yanlış. Avliyede yeni mahreç neye eşittir?');
+    } else {
+      const mid = c.id + '-m', okm = +A.cev[mid] === c.m; A.ok[mid] = okm;
+      if (!okm) hata.push(A.adim === 2 ? 'Mahreç yanlış. Payların paydalarına bak: hepsini kalansız bölen en küçük sayı hangisi?' : A.adim === 3 ? 'Red mahreci yanlış. ' + redIpucu() : 'Tashih mahreci yanlış: eski mahreç ile cüz’ü’s-sehmi çarp.');
+      if (A.adim === 4) { const okc = +A.cev.cuz === r.cuz; A.ok.cuz = okc; if (!okc) hata.push('Cüz’ü’s-sehm yanlış. Tam bölünmeyen grubun kişi sayısı ile sihâmı arasındaki nisbete bak (temâsül, tedâhül, tevâfuk, tebâyün).'); }
+      // gruplar: bir satır + altındaki birleşik (^) satırlar; öğrencinin yazdıklarının toplamı karşılaştırılır
+      const gr = []; r.satir.forEach((s, i) => { const v = c.v(s); if (v === '^' && gr.length) gr[gr.length - 1].i.push(i); else gr.push({v, i: [i]}); });
+      gr.forEach(g => {
+        const ids = g.i.map(i => c.id + '-' + i), dolu = ids.some(id => String(A.cev[id] ?? '').trim() !== '');
+        const ok = g.v === '-' ? ids.every(id => say(A.cev[id]) === 0) : dolu && ids.reduce((t, id) => t + say(A.cev[id]), 0) === say(g.v);
+        ids.forEach(id => A.ok[id] = ok);
+        if (!ok) { const ad = g.i.map(i => esc2(r.satir[i].a)).join(' + '); hata.push(`<b>${ad}</b> yanlış.${A.adim === 2 ? (g.v === '-' ? ' Bu varis pay alıyor mu?' : r.satir[g.i[0]].f ? ' Payını mahrece göre hesapla.' : ' Asabe, ashâb-ı ferâiz paylarını aldıktan sonra kalanı alır.') : ''}`); }
+      });
+    }
+    if (!hata.length) { A.geri = '<div class="geri ok">Doğru.</div>'; A.adim = A.adim === 2 ? 3 : A.adim === 3 ? 4 : 5; if (A.adim === 4 && r.cuz === 1) {} }
+  }
+  if (hata.length) { A.hataSay++; A.geri = A.sinav ? '<div class="geri no">Kırmızı kutular yanlış. Tekrar dene.</div>' : `<div class="geri no">Kontrol et:<ul>${hata.map(h => `<li>${h}</li>`).join('')}</ul></div>`; }
+  ciz();
+}
+const NIS = (s, h) => s % h === 0 ? null : gcd(s, h) === 1 ? 'tebâyün' : (h % s === 0 ? 'tedâhül' : 'tevâfuk');
+function aciklama(n) {
+  const r = A.r, li = a => `<li dir="ltr">${a}</li>`, ar = x => String(x).split(' + ').map(y => `<bdi class="arp" dir="rtl">${esc2(y)}</bdi>`).join(' + ');
+  if (n === 1) return `<b>Haller</b><ul>${r.satir.map(s => li(`${ar(s.a)} — <b>${esc2(s.hal)}</b>: ${esc2(s.neden)}`)).join('')}</ul>`;
+  if (n === 2) {
+    const pd = [...new Set(r.farz.map(f => f.f[1]))];
+    return `<b>Mahreç ve sihâm</b><ul>${r.farz.length ? li(`Payların paydaları: ${pd.join(', ')}. Hepsini kalansız bölen en küçük sayı <b>${r.mahrec}</b>; mesele ${r.mahrec}’den kurulur.`) : li('Pay sahibi yok; mal asabeye kalır, mahreç asabelerin kişi sayısıdır (önce 1 alınır).')}
+      ${r.farz.map(f => li(f.hal.includes('الباقي') ? `${ar(f.ad)}: kalanın üçte biri. Eşin sihâmı çıkınca kalan ${r.mahrec - r.farz.filter(x => /^(زوج|زوجة)/.test(x.ad)).reduce((t, x) => t + x.s, 0)}, bunun 1/3’ü = <b>${f.s}</b>` : `${ar(f.ad)}: ${f.f[0]}/${f.f[1]} × ${r.mahrec} = <b>${f.s}</b>${f.ad.includes('+') ? ' (birlikte)' : ''}`)).join('')}
+      ${r.asabeAd ? li(`Ashâb-ı ferâizin toplamı ${r.toplam}; kalan ${r.mahrec} − ${r.toplam} = <b>${Math.max(r.mahrec - r.toplam, 0)}</b> asabeye: ${ar(r.asabeAd)}.${r.mahrec - r.toplam <= 0 ? ' Asabeye bir şey kalmadı.' : ''}`) : ''}</ul>`;
+  }
+  if (n === 3) {
+    const T = r.toplam, M = r.mahrec;
+    if (r.tur === 'âdile') return `<b>Mesele türü</b><ul>${li(r.asabeAd ? `Meselede asabe var; kalanı aldığı için sihâmların toplamı mahrece (${M}) eşit olur: mesele <b>âdile</b>.` : `Sihâmların toplamı ${T}, mahreç ${M}: eşit, mesele <b>âdile</b>.`)}</ul>`;
+    if (r.tur === 'avliye') return `<b>Mesele türü</b><ul>${li(`Sihâmların toplamı ${T}, mahreç ${M}’den büyük: mesele <b>avliye</b>. Mahreç ${M} çizilir, yerine sihâmların toplamı <b>${r.mahrec2}</b> yazılır; sihâmlar aynı kalır, her varisin payı kendi farzı nispetinde azalır.`)}</ul>`;
+    const k = r.red.kisim, es = r.satir.find(s => s.k === 'zevc' || s.k === 'zevce');
+    const ad = {1: 'eşler yok, tek farz', 2: 'eşler yok, birden fazla farz', 3: 'eşlerden biri ve tek farz', 4: 'eşlerden biri ve birden fazla farz'}[k];
+    let yol = '';
+    if (k === 1 || k === 2) yol = `Eş olmadığı için artan, ashâb-ı ferâize payları oranında döner: sihâmlar sadeleştirilip toplanır, toplam (<b>${r.mahrec2}</b>) yeni mahreç olur.`;
+    else if (k === 3) yol = `Eşin payının paydası (<b>${r.mahrec2}</b>) mahreç yapılır; eşe kendi sehmi verilir, kalanın hepsi diğer farz sahibine döner.`;
+    else yol = `Keşf: eş dışındakilerin sihâmları sadeleşir (${r.red.kesf.join(' : ')}, toplamı ${r.red.K}). Zevciyye: eşin payının paydası ${r.red.zev} mahreç olur; eşe 1, kalan ${r.red.kalan} diğerlerine. ${r.red.kalan} ile ${r.red.K} ${r.red.kalan % r.red.K === 0 ? 'bölünür' : 'bölünmez'}; red mahreci <b>${r.mahrec2}</b> olur ve her farz sahibine keşfteki oranı kadar düşer.`;
+    return `<b>Mesele türü</b><ul>${li(`Sihâmların toplamı ${T}, mahreç ${M}’den küçük ve asabe yok: mesele <b>reddiye</b> (${ad}). Red karı ve kocaya yapılmaz.`)}${li(yol)}</ul>`;
+  }
+  if (n === 4) {
+    const k = r.grup.filter(g => g.kisi > 1 && g.s > 0);
+    const satirlar = k.map(g => { const nb = NIS(g.s, g.kisi); return li(`${ar(g.ad)}: sihâm ${g.s}, kişi sayısı ${g.kisi}${g.ikili ? ' (erkek iki sayılır)' : ''} → ${nb ? `bölünmez; aralarında <b>${nb}</b> var, gereken çarpan ${g.kisi / gcd(g.s, g.kisi)}` : 'tam bölünür'}.`); });
+    if (r.cuz === 1) return `<b>Tashih</b><ul>${satirlar.join('') || li('Birden fazla kişiden oluşan grup yok.')}${li('Bütün gruplar kalansız bölündüğü için <b>tashihe gerek yok</b>.')}</ul>`;
+    return `<b>Tashih</b><ul>${satirlar.join('')}${li(`Cüz’ü’s-sehm <b>${r.cuz}</b>. Mahreç ${r.mahrec2} × ${r.cuz} = <b>${r.mahrec3}</b>; her satırın sihâmı da ${r.cuz} ile çarpılıp kişi sayısına bölünür.`)}</ul>`;
+  }
+  return '';
+}
+function goster() {
+  const r = A.r, n = A.adim;
+  A.yardim = A.yardim || {}; A.yardim[n] = true;
+  const doldur = c => { if (c.id === 'c3') { A.cev.cuz = String(r.cuz); A.ok.cuz = true; } const mid = c.id + '-m'; A.cev[mid] = String(c.m); A.ok[mid] = true;
+    r.satir.forEach((s, i) => { const v = c.v(s), id = c.id + '-' + i; A.cev[id] = v === '^' ? '' : v === '-' ? '-' : String(v); A.ok[id] = true; }); };
+  if (n === 1) { r.satir.forEach((s, i) => { A.hal[i] = s.hal; A.ok['h-' + i] = true; }); A.adim = 2; }
+  else if (n === 2) { doldur(sutunlar()[0]); A.adim = 3; }
+  else if (n === 3) {
+    A.tur = r.tur;
+    if (r.tur === 'avliye') { A.cev['avl-m'] = String(r.mahrec2); A.ok['avl-m'] = true; }
+    if (r.tur === 'reddiye') doldur(sutunlar().find(c => c.id === 'c2'));
+    A.adim = 4;
+  } else if (n === 4) {
+    if (r.cuz > 1) { A.tashih = true; doldur(sutunlar().find(c => c.id === 'c3')); }
+    A.adim = 5;
+  }
+  A.geri = `<div class="geri ok">${aciklama(n)}</div>`;
+  ciz();
+}
+function sonucHTML() {
+  const r = A.r, M = r.mahrec3, T = parseFloat(String(A.terike).replace(',', '.'));
+  if (A.alisId && !A.kaydedildi) { A.kaydedildi = true; atlYaz(A.alisId, Object.keys(A.yardim || {}).length ? 'yardim' : 'tam');
+    if (A.sinav && !A.sinav.bitti) A.sinav.sonuc.push({ad: A.ad, hata: A.hataSay, p: Math.max(0, 4 - A.hataSay)}); }
+  const sonraki = A.sinav ? (A.sinav.i + 1 < A.sinav.ids.length ? `<button class="btn2 ana" onclick="A.sinav.i++;alisAc(A.sinav.ids[A.sinav.i],true)">Sınavda sonraki mesele →</button>` : `<button class="btn2 ana" onclick="A.sinav.bitti=true;yeni()">Sınav sonucunu gör →</button>`)
+    : A.alisId ? `<button class="btn2 ana" onclick="siradaki()">Sıradaki alıştırma →</button>` : '';
+  const yardim = Object.keys(A.yardim || {}).length;
+  const anlat = `<div class="gorev anlat"><b>Meselenin çözümü</b><ol>${[1, 2, 3, 4].map(n => `<li>${aciklama(n)}</li>`).join('')}
+    <li><b>Sonuç</b><ul>${r.satir.filter(s => s.kisiBasi).map(s => `<li dir="ltr"><bdi class="arp" dir="rtl">${esc2(VAR[s.k].a)}</bdi>${s.say > 1 ? ` (${s.say} kişi, her biri)` : ''}: <b>${s.kisiBasi}/${M}</b></li>`).join('')}${r.satir.some(s => !s.kisiBasi) ? `<li dir="ltr">Pay alamayanlar: ${r.satir.filter(s => !s.kisiBasi).map(s => `<bdi class="arp" dir="rtl">${esc2(s.a)}</bdi>`).join(', ')}</li>` : ''}</ul></li></ol>
+    ${yardim ? `<p class="ipucu">${yardim} adımda “Çözümü göster” kullanıldı.</p>` : '<p class="ipucu">Bütün adımları kendin çözdün.</p>'}</div>`;
+  const tl = x => (Math.round(x * 100) / 100).toLocaleString('tr-TR');
+  return `<div class="gorev"><b>Sonuç</b> · Mahreç ${M}${r.tur !== 'âdile' ? ` · ${r.tur}` : ''}${r.cuz > 1 ? ` · tashih × ${r.cuz}` : ''}
+    <table class="sonuc"><tr><th>Varis</th><th>Hal</th><th>Kişi başı</th>${T ? '<th>Kişi başı tutar</th>' : ''}</tr>
+    ${r.satir.map(s => `<tr><td class="a">${esc2(s.a)}</td><td>${esc2(s.hal)}</td><td>${s.kisiBasi ? `${s.kisiBasi} / ${M}` : '—'}</td>${T ? `<td>${s.kisiBasi ? tl(T * s.kisiBasi / M) : '—'}</td>` : ''}</tr>`).join('')}</table></div>
+    ${A.sinav ? '' : anlat}
+    <div class="btns">${sonraki}<button class="btn2 ${sonraki ? '' : 'ana'}" onclick="yeni()">Başka mesele seç</button><button class="btn2" onclick="kur()">Bu meseleyi baştan çöz</button></div>`;
+}
+</script>
+<!-- ===== /MESELE ATÖLYESİ ===== -->

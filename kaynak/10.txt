@@ -1,0 +1,149 @@
+# Sulh-Tehârüc ve Münâsaha
+> Varislerden birinin mal karşılığında mirastan çekilmesinin dört hali ve çözümleri (قبل / بعد / جامعة bölümleri); miras paylaştırılmadan bir varisin de ölmesi (münâsaha) ve üç hali.
+
+## Sulh ve Tehârüc
+: Sulh = Tarafların mirasın belli bir şekilde paylaştırılması üzerine ittifak edip buna razı olmalarıdır. «اتِّفَاقُ الطَّرَفَيْنِ عَلَى تَقْسِيمِ الْمِيرَاثِ بِالرِّضَاءِ»
+: Tehârüc = Varislerden birinin, bir veya birkaç varis lehine mirastan çekilmesidir. «خُرُوجُ أَحَدٍ مِنَ الْوَرَثَةِ مِنَ التَّرِكَةِ لِغَيْرِهِ»
+@ الصُّلْحُ جَائِزٌ بَيْنَ الْمُسْلِمِينَ إِلَّا صُلْحًا أَحَلَّ حَرَامًا أَوْ حَرَّمَ حَلَالًا | Delil: Hazreti Peygamber'in hadisi şerifi
+### Sulhun 4 çeşidi
+¶ Konunun daha net anlaşılabilmesi için basit bir örnek üzerinden 4 çeşidi kısaca yazalım: Diyelim ki biri vefat etti ve geriye anne, baba ve iki kız, iki erkek olmak üzere 4 çocuk bıraktı. Çocukların ismi Ahmet, Mehmet, Ayşe ve Fatma'dır. Buna göre:
+@ الْحَالُ الْأَوَّلُ: أَنْ يَخْرُجَ أَحَدُ الْوَرَثَةِ عَنْ نَصِيبِهِ لِآخَرَ مُقَابِلَ مَالِ الْوَارِثِ الْخَاصِّ | Birinci hal: Varislerden Ayşe'nin kendi kardeşi Mehmet'in kendisine miras dışından 1000 dolar vermesi karşılığında onun lehine mirastan çekilmesidir. Bir başka ifade ile Ayşe mirastaki kendi payını Mehmet'e bırakıyor. Mehmet de bunun karşılığında kendisine mirasın dışında kendi cebinden bin dolar veriyor.
+@ الْحَالُ الثَّانِي: أَنْ يَخْرُجَ أَحَدٌ مِنَ الْوَارِثِينَ عَنْ نَصِيبِهِ لِبَقِيَّةِ الْوَرَثَةِ عَلَى قَدْرِ نَصِيبِهِمْ مُقَابِلَ مَالٍ يَدْفَعُونَهُ مِنْ خَارِجِ التَّرِكَةِ بِمِقْدَارِ نَصِيبِهِمْ | İkinci hal: Varislerden Ayşe'nin, diğer tüm varislerin kendisine mirastaki payları ölçüsüne göre miras dışından mal vermeleri karşılığında hepsinin lehine mirastaki kendi hakkından vazgeçmesidir. Ayşe diyor ki: “Ben mirastaki hakkımı istemiyorum, tüm varisler kendi aralarında paylaşsınlar. Ancak bütün varisler de mirastaki payları ne kadarsa o ölçüde bana miras dışından mal versinler.”
+@ الْحَالُ الثَّالِثُ: أَنْ يَخْرُجَ أَحَدٌ مِنَ الْوَارِثِينَ عَنْ نَصِيبِهِ لِبَاقِي الْوَرَثَةِ بِالتَّسَاوِي مُقَابِلَ مَالٍ مِنْ خَارِجِ التَّرِكَةِ يَدْفَعُونَهُ لَهُ بِالتَّسَاوِي | Üçüncü hal: Varislerden Ayşe'nin diğer tüm varislerin kendisine eşit miktarda miras dışından mal vermeleri karşılığında, hepsinin lehine mirastaki kendi hakkından vazgeçmesidir. Ayşe diyor ki: “Ben mirastaki hakkımı istemiyorum ama tüm varisler mirastaki kendi paylarına bakılmaksızın eşit derecede bana miras dışından mal versinler.”
+@ الْحَالُ الرَّابِعُ: أَنْ يَخْرُجَ أَحَدٌ مِنَ الْوَارِثِينَ عَنْ نَصِيبِهِ لِلْوَرَثَةِ مُقَابِلَ مَالٍ مِنْ نَفْسِ التَّرِكَةِ | Dördüncü hal: Varislerden Ayşe'nin mirasın bizzat kendisinden belli bir şey almak karşılığında tüm varislerin lehine geri kalan mallardan çekilmesidir. Ayşe diyor ki: “Bana sadece şu bir dönüm araziyi verin, geri kalan mallardaki hakkımdan vazgeçiyorum.”
+| Hal | Kimin lehine çekilir | Karşılığı nereden | Nasıl
+| **1** | Bir varis | Miras dışından | O varisin kendi malından
+| **2** | Bütün varisler | Miras dışından | Varislerin payları ölçüsünde
+| **3** | Bütün varisler | Miras dışından | Varislerden eşit olarak
+| **4** | Bütün varisler | Terikenin kendisinden | Belli bir mal
+!! Sulh/tehârüc ile taraflar arasında yapılan ittifak alışveriştir. Bu yüzden alışverişte hangi durumlar faizi meydana getiriyorsa sulh konusunda da aynı durumların meydana gelmesi halinde yine faiz söz konusu olur. Mesela Ayşe birinci halde olduğu gibi kardeşi Mehmed'in kendisine 1000 dolar vermesi karşılığında mirastaki payından onun lehine çekilmesi aralarında yaptıkları bir alışveriş hükmündedir. Dolayısıyla Ayşe'nin 1000 dolar karşısında vazgeçtiği şey para olmamalı. Aksi takdirde paranın parayla mübadelesi olur ki burada faiz terettüp eder. Aynı şekilde sulh yapılırken faizin söz konusu olmaması için karşılıklı tebâdül edilen mallar aynı cins olmamalı.
+* Tehârüc: bir varisin, bir veya birkaç varis lehine mirastan çekilmesi. Delil: «الصُّلْحُ جَائِزٌ بَيْنَ الْمُسْلِمِينَ…».
+* Sulh alışveriş hükmündedir; faize yol açmaması için karşılıklı verilen mallar aynı cinsten olmamalıdır.
+
+## Birinci Halin Çözümü
+¶ «أَنْ يَخْرُجَ أَحَدُ الْوَرَثَةِ عَنْ نَصِيبِهِ لِآخَرَ مُقَابِلَ مَالِ الْوَارِثِ الْخَاصِّ عَنْ خَارِجِ التَّرِكَةِ»
+~ Ahmet Efendi vefat etti, geriye Yunus, Hamza, Muhsin ve Fatih isimli 4 kardeş bıraktı. Ahmet Efendinin terikesi ise 4 dönüm arsadır. Muhsin kendisine yüz bin lira vermesi karşılığında mirastan Hamza lehine çekiliyor. Bu durumda mesele nasıl çözülür?
+$$ 4 ; 4
+$ أخ (يونس) | ع | 1 ; 1
+$ أخ (حمزة) | ^ | 1 ; 2
+$ أخ (محسن) | ^ | 1 ; -
+$ أخ (فاتح) | ^ | 1 ; 1
+$_ قبل ; بعد
+>> Mesele önce paylar dağıtılmak suretiyle çözülür. Bu ilk bölüme «قبل» denir.
+>> İkinci bölüme «بعد» denir. Bu bölümde önceki mesele aynen yazılır. Sadece mirastan çekilen kişinin sehmi, lehine çekildiği kişiye yazılır. Mahreç aynı şekilde kalır.
+¶ Yandaki meselede Muhsin'in payı Hamza'ya yazıldı. Bunun karşılığında Hamza Muhsin'e mirasın dışından 100.000 TL verdi.
+~ Şükûfe hanım vefat etti, geriye amca, anne bir kız kardeş, öz kız kardeş, öz erkek kardeş ve koca bıraktı. Öz kız kardeş kendisine mirasın dışından 100 gram altın vermesi karşılığında öz erkek kardeş lehine mirastan çekilmiştir. Bu durumda mesele nasıl çözülür?
+$$ 6 ; 18 ; 18 → 6
+$^ ; 3 ;
+$ زوج | 1/2 | 3 ; 9 ; 9 → 3
+$ أخ ش | ع | 2 ; 4 ; 6 → 2
+$ أخت ش | ^ | ^ ; 2 ; -
+$ أخت لأم | 1/6 | 1 ; 3 ; 3 → 1
+$ عم | م | - ; - ; -
+$_ ; قبل ; بعد → اختصار
+¶ Çözümü: Çözüm olarak yukarıdaki meseleden hiçbir farkı yoktur. Ancak bu meselede ekstra tashih ve sadeleştirme yapılması gerekti.
+>> Paylar normal bir şekilde dağıtıldı.
+>> Tashih yapıldı (cüz’ü’s-sehm 3). Bu bölüme «قبل» denir.
+>> Daha sonra «بعد» bölümünde mirastaki hakkından vazgeçen kişinin payı, lehine çekildiği kişiye yazıldı.
+>> Sadeleştirme «اختصار» yapıldı.
+* Birinci hal: «قبل» bölümünde mesele normal çözülür; «بعد» bölümünde çekilenin sehmi lehine çekildiği kişiye yazılır, mahreç değişmez.
+
+## İkinci Halin Çözümü
+¶ «أَنْ يَخْرُجَ أَحَدٌ مِنَ الْوَارِثِينَ عَنْ نَصِيبِهِ لِبَقِيَّةِ الْوَرَثَةِ مُقَابِلَ مَالٍ يَدْفَعُونَهُ لَهُ مِنْ خَارِجِ التَّرِكَةِ بِمِقْدَارِ نَصِيبِهِمْ»
+~ Ahmet Efendi vefat etti ve geriye 3 oğul 2 kız bıraktı. Fatma isimli kız, varislerin kendisine kendi miktarlarına göre mal vermeleri karşılığında, kendi miras hakkından çekiliyor. Bu durumda mesele nasıl çözülür?
+$$ 8 ; 7
+$ ابن (3) | ع | 6 ; 6
+$ بنت (فاطمة) | ^ | 1 ; -
+$ بنت | ^ | 1 ; 1
+$_ قبل ; بعد
+>> Önce «قبل» bölümünde paylar normal bir şekilde dağıtılır.
+>> Daha sonra «بعد» bölümünde mirastan çekilen kişinin payı çıkartılır. Geriye kalan sihamların toplamı mahreç yapılır.
+¶ Kısaca ikinci halin çözümü, «بعد» bölümünde sihamların toplamını mahreç yapmaktır.
+¶ Bu meselede diyelim ki vefat eden kişi geriye 8.000 metrekarelik bir arsa bıraktı. Sulh yapılmadan evvel kızlardan Fatma'ya 1000 metrekare arsa düşüyordu. Fatma kendi 1000 metrekarelik arsasından tüm varisler lehine çekildiği için artık 8000 metrekarelik arsayı «بعد» bölümündeki sihamların toplamı olan 7'ye bölüyoruz ve Fatma dışındaki varislere dağıtıyoruz. Daha sonra Fatma dışındaki varislerin tamamı kendi paylarına göre Fatma'ya para vermeleri gerekiyor. Bunun hesaplaması ise şöyle yapılır:
+¶ Diyelim ki Fatma’nın diğerleri için vazgeçtiği arsanın fiyatı 5 milyon değerindedir. 5 milyon 7'ye bölünür. Çıkan sayı 714.285'tir. Bu sayı 2 ile çarpılınca her bir oğlun Fatma'ya vermesi gereken paradır. 1 ile çarpılınca Fatma'nın kız kardeşinin kendisine vermesi gereken paradır.
+~ «خَرَجَتِ الزَّوْجَةُ عَنْ نَصِيبِهَا لِكُلِّ الْوَرَثَةِ، كَيْ يُعْطِيَ كُلُّ وَاحِدٍ مِنْهُمْ شَيْئًا مِنَ الْمَالِ عَلَى قَدْرِ نَصِيبِهِمْ»
+$$ 24 ; 21
+$ زوجة | 1/8 | 3 ; -
+$ بنت | 1/2 | 12 ; 12
+$ بنت ابن | 1/6 | 4 ; 4
+$ أم | 1/6 | 4 ; 4
+$ عم | ع | 1 ; 1
+$_ قبل ; بعد
+>> Paylar normal dağıtılır.
+>> Daha sonra «بعد» bölümünde ise sihamların toplamı mahreç yapılır.
+* İkinci hal: «بعد» bölümünde çekilenin sehmi silinir, kalan sihamların toplamı yeni mahreç olur; diğerleri çekilene paylarına göre öder.
+
+## Üçüncü Halin Çözümü
+¶ «أَنْ يَخْرُجَ أَحَدٌ مِنَ الْوَارِثِينَ عَنْ نَصِيبِهِ لِبَاقِي الْوَرَثَةِ مُقَابِلَ مَالٍ مِنْ خَارِجِ التَّرِكَةِ يَدْفَعُونَهُ لَهُ بِالتَّسَاوِي»
+~ Ahmet Efendi vefat etti ve geriye baba, anne, bir oğul ve iki kız bıraktı. Daha sonra baba, diğer varislerin kendisine kişi başı 100 dolar vermeleri karşılığında mirastaki kendi payından hepsinin lehine feragat etti. Bu durumda mesele nasıl çözülür?
+$$ 6 ; 4 ; 24
+$^ 4 ; 1 ;
+$ أب | 1/6 | 1 ; - ; -
+$ أم | 1/6 | 1 ; 1 ; 4+1=5
+$ ابن | ع | 2 ; 1 ; 8+1=9
+$ بنت | ^ | 1 ; 1 ; 4+1=5
+$ بنت | ^ | 1 ; 1 ; 4+1=5
+$_ قبل ; بعد ; جامعة
+>> Mesele normal bir şekilde paylar dağıtılarak çözülür.
+>> Daha sonra «بعد» bölümünde mirastan çekilen kişi hariç aded-i rüûsun toplamı mahreç yapılır.
+>> Sonra «جامعة» bölümünde ise «بعد» bölümünün mahreci (4) ile «قبل» bölümündeki mirastan çekilen kişinin sehmi (1) arasında münâsahat konusunda olduğu gibi mukarene yapılır (tebâyün). [[«بعد»ün mahreci «قبل»ün üzerine, çekilenin sehmi «بعد»ün üzerine yazılır; çarpımların toplamı «جامعة»ya geçer.]]
+! Burada baba mirastaki kendi payından yani söz gelimi bir dönüm arsadan vazgeçmiştir. Bunun karşılığında ise bütün varislerin eşit derecede kendisine miras dışından mal vermelerini istemiştir. Burada baba diğer varislerden kişi başı 100 dolar talep edebileceği gibi direk hepsinden eşit bir şekilde toplamda 750.000 lira şeklinde bir talebi de olabilir.
+* Üçüncü hal: «بعد» bölümünde mahreç, çekilen hariç kişi sayısıdır (aded-i rüûs); «جامعة» bölümünde münâsahadaki gibi birleştirilir.
+
+## Dördüncü Halin Çözümü
+¶ «أَنْ يَخْرُجَ أَحَدٌ مِنَ الْوَارِثِينَ عَنْ نَصِيبِهِ لِلْوَرَثَةِ مُقَابِلَ مَالٍ مِنْ نَفْسِ التَّرِكَةِ»
+~ Bir kişi vefat etti, geriye mal olarak 7 dönüm arsa ve 1000 dolar para bıraktı. Varisler olarak da koca, öz kız kardeş, anne bir kız kardeş ve anne bıraktı. Anne miras olarak kalan 1000 doların kendisine verilmesi karşılığında mirastaki diğer payından tüm varisler lehine feragat etti. Bu durumda mesele nasıl çözülür?
+$$ 6 → 8 ; 7
+$ زوج | 1/2 | 3 ; 3
+$ أخت ش | 1/2 | 3 ; 3
+$ أخت لأم | 1/6 | 1 ; 1
+$ أم | 1/6 | 1 ; -
+$_ قبل (عولية) ; بعد
+>> Mesele normal bir şekilde paylar dağıtılarak çözülür [[(mesele 6’dan 8’e avleder)]].
+>> Sonra «بعد» bölümünde ise mirastan çekilen kişi hariç diğerlerinin sihamlarının toplamı mahreç yapılır.
+* Dördüncü hal: çekilen terikenin kendisinden belli bir mal alır; «بعد» bölümünde onun hariç sihamların toplamı mahreç olur.
+
+## Münâsaha
+¶ Kelime manası: İzale etmek, değiştirmek ve nakletmek gibi anlamlara gelir.
+: Münâsaha «الْمُنَاسَخَة» = Vefat eden birinin malı henüz paylaştırılmadan evvel başka varis veya varislerin vefat etmesi meselesidir. «هِيَ مَوْتُ إِنْسَانٍ، وَقَبْلَ قِسْمَةِ تَرِكَتِهِ يَمُوتُ أَحَدُ وَرَثَتِهِ أَوْ أَكْثَرُ»
+¶ Münâsahanın 3 hali vardır.
+### Birinci hal
+¶ İkinci vefat eden kişinin geriye bıraktığı varislerin birinci vefat eden kişinin varislerinin bizzat kendisi olması. Diğer bir ifade ile ilk vefat eden kişinin malı henüz varisler arasında paylaştırılmadan o varislerden birinin vefat etmesi ve geriye kendisine varis olarak sadece birinci vefat eden kişinin varislerinin kalması durumudur.
+~ Ahmet Efendi vefat etti. Geriye üç erkek kardeş ve iki kız kardeş bıraktı. Ahmet Efendi'nin mirası henüz dağıtılmadan kardeşlerden Mehmet de vefat etti. Bu durumda mesele nasıl çözülür?
+| Varis | «قبر أحمد» (8) | «قبر محمد» (6)
+| «أخ (محمد)» | 2 | «ت» (vefat etti)
+| «أخ» | 2 | 2
+| «أخ» | 2 | 2
+| «أخت» | 1 | 1
+| «أخت» | 1 | 1
+¶ Çözümü: Birinci haldeki münâsahat meselesi çözülürken ilk etapta ilk vefat eden kişinin geriye bıraktığı varisler yazıldı ve aldıkları sihamların toplamı mahreç yapıldı. Bu bölüme, ilk vefat eden kimsenin varislerinin bulunduğu bölüm anlamında «قبر أحمد» yazıldı. 2. bölümde ise 2. vefat eden kişinin isminin hizasına vefat ettiğini gösteren «ت» harfi yazıldı ve paylar birinci bölümdeki gibi dağıtıldı. Böylelikle mesele çözülmüş oldu. Yani ortada 750.000 liralık bir mal varsa bunu 6'ya böleceğiz ve ona göre paylaşım yapacağız.
+### İkinci hal
+¶ İkinci vefat eden kişinin geriye bıraktığı varisler birinci vefat eden kişinin geriye bıraktığı varisler ile aynıdır. Ancak bu varislerin ikinci vefat eden kişiye olan yakınlıkları birinciden farklıdır. Bir diğer ifade ile birinci vefat eden kişinin annesi olan varis, ikinci vefat eden kişinin karısı olması durumudur. Yani burada birinci hal ile ikinci hal arasında tek fark, ikinci halde varislerin bir nevi isimlerinin değişmesidir. Daha önce anne diye yazılan varisin artık zevce diye yazılması gibi...
+~ Hasan Efendi vefat etti ve geriye baba, anne, bir oğul ve bir kız bıraktı. Daha sonra mal paylaştırılmadan evvel anne vefat etti ve geriye aynı kişiler kaldı. Bu durumda mesele nasıl çözülür?
+| Hasan’a göre | Pay | «قبر حسن» 6 | «تصحيح» 18 (× 4) | Anneye göre | Pay | «قبر الأم» 4 (× 3) | «العمود الجامعة» 72
+| «أب» | 1/6 | 1 | 3 | «زوج» | 1/4 | 1 | 12+3=15
+| «أم» | 1/6 | 1 | 3 | «ت» | | | —
+| «ابن» | ع | 4 (oğul ve kız birlikte) | 8 | «ابن ابن» | ع | 2 | 32+6=38
+| «بنت» | ع | ↑ | 4 | «بنت ابن» | ع | 1 | 16+3=19
+¶ Çözümü:
+>> **Birinci adım:** Mevcut varislerin ikinci vefat eden kişiye olan yakınlıklarının karışmaması için evvela bir tablo çizmek gerekir [[(ortada anne; babası koca, oğlu oğlun oğlu, kızı oğlun kızı olur)]].
+>> **İkinci adım:** İlk vefat eden kişinin geriye bıraktığı varisleri yazıp paylarını veriyoruz.
+>> **Üçüncü adım:** Bu meselenin tashihe ihtiyacı olduğu için meseleyi tashih ediyoruz. Şayet burada tashih olmasaydı direk bir sonraki aşamaya geçilecek ve tashih için ekstra bir sütun çizilmeyecekti.
+>> **Dördüncü adım:** İkinci vefat eden kişi olan annenin isminin hizasına “vefat eden kişi” anlamında «ت» harfi yazılıp geriye kalan varisler yazılır ve paylar verilir. Burada en çok dikkat edilmesi gereken şey eski varislerin ikinci vefat eden kişi olan anneye olan yakınlıklarını doğru belirlemektir. Mesela daha önce baba diye yazdığımız kişi şu an koca, daha önce oğul diye yazdığımız kişi oğlun oğlu, kız diye yazdığımız kişi şu an oğlun kızı diye yazıldı.
+>> **Beşinci adım:** İkinci vefat eden kişinin hayattaki sihamı (3) ile kendi kabrinin mahrecine (4) bakılır. 4 ile 3 arasında tebâyün olduğu için herhangi bir işlem yapılmadan çaprazlama olarak sütunların üzerine yazıldılar. Şayet aralarında tevâfuk olmuş olsaydı sadeleştirilir, ondan sonra çaprazlama sütunların üzerine yazılırlardı.
+>> **Altıncı adım:** İlk kabir üzerine yazılan 4 sayısı mahreç ile çarpılır ve câmia bölümüne mahreç olarak yazılır. Bu 4 sayısı ikinci vefat eden kişi olan anne hariç diğerlerinin sihamları ile de çarpılır. Ancak hemen câmia bölümüne yazılmaz; evvela ikinci kabirdeki 3 sayısı da bu varislerin bu bölümdeki sihamları ile çarpılır. İki çarpma işleminin toplamı câmia bölümüne yazılır.
+### Üçüncü hal
+¶ İkinci vefat eden kişinin yeni varislerinin olma durumudur. Diğer bir ifade ile birinci kabirde yazılan kimselerden farklı olarak ikinci kabirde yeni varislerin bulunmasıdır. Üçüncü halin ikinci hal ile tek farkı ikinci kabirde yeni varislerin bulunmasıdır. Üçüncü halin çözümü ikinci hal ile aynıdır. Üçüncü halde sadece ikinci kabirde eski varislerin yazımından sonra yeni varisler için aşağıda ekstra sütunlar açılır.
+~ Ahmet Efendi öldü. Geriye zevce, anne ve oğul bıraktı. Daha sonra henüz mal paylaştırılmadan anne vefat etti. Geriye koca ve önceki varisleri bıraktı. Bu durumda mal nasıl paylaştırılır?
+| Ahmed’e göre | Pay | «قبر أحمد» 24 (× 1) | Anneye göre | Pay | «قبر الأم» 4 (× 1) | «العمود الجامعة» 24
+| «زوجة» | 1/8 | 3 | «غ» «غريب» | | — | 3
+| «أم» | 1/6 | 4 | «ت» | | | —
+| «ابن» | ع | 17 | «ابن ابن» | ع | 3 | 20
+| — | | | «زوج» (yeni varis) | 1/4 | 1 | 1
+¶ Annenin sihamı (4) ile kendi kabrinin mahreci (4) sadeleşti: 4 → 1 ve 4 → 1. «غ»: «غريب» [[(yabancı) demektir; zevce anneye varis değildir.]]
+### Alıştırmalar
+~ Fatma Hanım vefat etti ve geriye koca, anne ve amca bıraktı. Daha sonra koca vefat etti, geriye başka bir kadından olan iki oğul bıraktı. Bu durumda mal paylaşma nasıl yapılır?
+~ Âişe hanım vefat etti ve geriye koca, anne ve amca bıraktı. Daha sonra mal paylaştırılmadan koca vefat etti ve geriye baba ve oğul bıraktı. Bu durumda mal paylaşma nasıl yapılır?
+* Münâsaha: miras paylaşılmadan bir varisin de ölmesi. Her ölü için bir “kabir” sütunu açılır; ölenin hizasına «ت» yazılır.
+* 1. hal: ikinci ölünün varisleri birinciyle aynı ve yakınlıkları aynı. 2. hal: aynı kişiler, farklı yakınlık (anne → zevce gibi). 3. hal: ikinci kabirde yeni varisler var.
+* İkinci ölünün sihamı ile kendi kabrinin mahreci arasında nispete bakılır (tebâyün: çaprazlama yazılır; tevâfuk: önce sadeleştirilir); çarpımların toplamı «العمود الجامعة»ya yazılır.

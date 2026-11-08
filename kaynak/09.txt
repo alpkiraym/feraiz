@@ -1,0 +1,163 @@
+# Avliye ve Reddiye
+> Sihamların toplamı mahreci aşınca avl, mahreçten az kalınca red: tanımları, mezheplerin görüşleri, avledebilen mahreçler, meşhur avliye meseleleri ve reddiyenin dört kısmının çözümü.
+
+## Avliyenin Tanımı
+: Avliye «عَوْلِيَّة» = Ashâb-ı ferâizin sihamlarının toplamının meselenin aslından yani mahreçten fazla olmasıdır. Bu durumda bütün ashâb-ı ferâizin payları aslında azalmış olur.
+¶ Kelime manası: «عَوْل» sözlükte yükselmek, sesi yükseltmek, zulüm ve fazlalık gibi anlamlara gelir.
+@ تَعْرِيفُهُ لُغَةً: أ- الظُّلْمُ وَالْجَوْرُ، يَقُولُ تَعَالَى: ﴿ذَلِكَ أَدْنَى أَلَّا تَعُولُوا﴾. ب- الِارْتِفَاعُ: عَالَ الْمَاءُ إِذَا ارْتَفَعَ. ج- الزِّيَادَةُ: عَالَ الْمِيزَانُ، زَادَتْ إِحْدَى الْكِفَّتَيْنِ
+@ اصْطِلَاحًا: زِيَادَةٌ فِي مَجْمُوعِ السِّهَامِ الْمَفْرُوضَةِ عَنْ أَصْلِ الْمَسْأَلَةِ، وَنَقْصٌ فِي نَصِيبِ الْوَرَثَةِ
+$$ 6 → 7
+$ زوج | 1/2 | 3
+$ أخت ش (2) | 2/3 | 4
+$= Koca malın 6'da üçünü alacakken 7'de 3'ünü alıyor. Aynı şekilde kız kardeşler de malın 6'da 4'ünü alacakken 7'de 4'ünü alıyor. Yani mesele avliye olunca bütün ashâb-ı ferâizin payı azalıyor.
+* Avl: sihamların toplamı mahreçten fazladır; bütün ashâb-ı ferâizin payı kendi farzı nispetinde azalır (koca+iki öz kız kardeş: 6 → 7).
+
+## Avliyenin Sübutu
+¶ Avliyenin sübutu konusunda iki görüş vardır:
+### 1. Cumhurun görüşü
+¶ İbn Abbas dışındaki sahabelerin tamamı, 4 mezhep imamları, İbn Teymiyye, İbn Kayyim ve alimlerin kâhir ekseriyetine göre avl vardır. Yani mesele avl olunca ashâb-ı ferâizden her birinin sihamı kendi farzı nispetinde azalır.
+### 2. İbn Abbas’ın görüşü
+¶ İbn Abbas, Dâvûd ez-Zâhirî, Saîd b. Müseyyeb ve İbn Hazm gibi bazı alimlere göre “avl” yoktur. Böyle bir mesele gelince önce ashâb-ı ferâizden kuvvetli olanlar kendi paylarını alırlar. Ashâb-ı ferâizden zayıf olanlar ise kalanı alırlar. Böylelikle mesele avl olmaktan çıkar.
+- Ashâb-ı ferâizden kuvvetli olanlar asabe olmayıp her zaman ashâb-ı ferâiz olanlardır. (karı, koca, anne, nene)
+- Ashâb-ı ferâizden zayıf olanlar ise bazen ashâb-ı ferâiz bazen de asabe bi-gayrihi olanlardır. (kız, oğlun kızı, öz kız kardeş ve baba bir kız kardeş)
+$$ 6 → 7 | Cumhur
+$ زوج | 1/2 | 3
+$ أخت ش (2) | 2/3 | 4
+$= Cumhura göre bu meselede avl vardır. Dolayısıyla ashâb-ı ferâizden olan koca ve kız kardeşlerin sihamları azaldı.
+$$ 2 ; 4 | İbn Abbas
+$^ 2
+$ زوج | 1/2 | 1 ; 2
+$ أخت ش (2) | الباقي | 1 ; 2
+$= İbn Abbas’a göre avl olmadığı için önce ashâb-ı ferâizden kuvvetli olana kendi payını verdikten sonra kalanı ashâb-ı ferâizden zayıf olana verdi. Kız kardeşleri asabe gibi değerlendirip onlara kalanı verdiği için mesele avl olmaktan çıktı.
+?? Avliye meselesi ilk olarak ne zaman vuku bulmuştur? | Hz. Peygamber ve Hz. Ebûbekir döneminde avl meselesi vuku bulmamıştı. Avl meselesi ilk defa Hz. Ömer döneminde vuku bulmuştur. Birinin vefat ettiği ve geriye sadece kocası ve iki kız kardeşini bıraktığı bir mesele sorulunca Hz. Ömer sahabelerle istişare etti ve avl yaptı. Bütün sahabeler ve sonra gelen alimler Hz. Ömer'in bu görüşü ile amel ettiler. İbn Abbas ise Hz. Ömer'in vefatından sonra ona muhalefet etti.
+¶ Hz. Ömer ile İbn Abbas arasında pratikte şu ihtilaf vardır: Hz. Ömer, payların toplamı mahreçten yüksek çıkıp ashâb-ı ferâizin sihamları azalınca bu azalmayı bütün ashâb-ı ferâize yayıyor. İbn Abbas ise kuvvetli olan ashâb-ı ferâiz ile zayıf olan ashâb-ı ferâiz arasında bir fark koyarak pay azalma faturasını sadece zayıf ashâb-ı ferâize kesiyor.
+@ قَالَ ابْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا: أَوَّلُ مَنْ أَعَالَ الْفَرَائِضَ عُمَرُ رَضِيَ اللَّهُ عَنْهُ، لَمَّا الْتَوَتْ (أَيْ كَثُرَتْ) عَلَيْهِ الْفَرَائِضُ وَدَافَعَ بَعْضُهَا بَعْضًا، فَقَالَ رَضِيَ اللَّهُ عَنْهُ: لَا أَدْرِي أَيُّكُمْ قَدَّمَ اللَّهُ وَلَا أَيُّكُمْ أَخَّرَ، وَكَانَ امْرَأً وَرِعًا، فَقَالَ: مَا أَجِدُ شَيْئًا أَوْسَعَ لِي مِنْ أَنْ أَقْسِمَ التَّرِكَةَ عَلَيْكُمْ بِالْحِصَصِ وَأُدْخِلَ عَلَى كُلِّ ذِي حَقٍّ مَا دَخَلَ مِنْ عَوْلِ الْفَرِيضَةِ، وَكَانَ عُمَرُ أَوَّلَ مَنْ أَعَالَ الْمَسَائِلَ
+| | Cumhur (Hz. Ömer) | İbn Abbas
+| **Avl var mı?** | Var | Yok
+| **Eksiklik kime?** | Bütün ashâb-ı ferâize, farzları nispetinde | Yalnız zayıf ashâb-ı ferâize (kız, oğlun kızı, öz ve baba bir kız kardeş)
+| **Kuvvetliler** | — | Karı, koca, anne, nene: paylarını tam alır
+* Avl ilk defa Hz. Ömer döneminde (koca ve iki kız kardeş meselesi) vuku buldu; sahabe ittifak etti, İbn Abbas Hz. Ömer’in vefatından sonra muhalefet etti.
+* İbn Abbas’a göre avl yoktur: kuvvetliler (karı, koca, anne, nene) tam alır, eksiklik zayıflara (kız, oğlun kızı, kız kardeşler) düşer.
+
+## Avledebilen Mahreçler
+?? Meseleler kaçtan kaça avledebilir? | [[Meselelerin asılları (mahreçleri) 1, 2, 3, 4, 6, 8, 12, 24'tür. Bunlardan yalnız 6, 12 ve 24 avleder: 6 → 7, 8, 9, 10; 12 → 13, 15, 17; 24 → 27.]]
+@ أُصُولُ الْمَسَائِلِ: ١-٢-٣-٤-٦-٨-١٢-٢٤. ٦ تَعُولُ إِلَى: ٧، ٨، ٩، ١٠. ١٢ تَعُولُ إِلَى: ١٣، ١٥، ١٧. ٢٤ تَعُولُ إِلَى: ٢٧
+| Mahreç | Avledebileceği sayılar
+| **6** | 7, 8, 9, 10
+| **12** | 13, 15, 17
+| **24** | 27
+| **1, 2, 3, 4, 8** | Avletmez
+* Mahreçler: 1, 2, 3, 4, 6, 8, 12, 24. Avledenler: 6 (→7, 8, 9, 10), 12 (→13, 15, 17), 24 (→27).
+
+## Avliye Misalleri
+### Alıştırmalar
+& زوج ، أخت ش ، أخت لأب
+& زوج ، أخت ش ، أخت لأب ، أم
+& زوج ، أخت ش ، أخت لأب ، أخت لأم ، أم
+& زوج ، بنت (2) ، أم ، أب
+& زوج ، بنت (2) ، أم
+& زوج ، أخت ش ، أخت لأب ، أخت لأم (2) ، أم
+& زوجة ، أخت ش (2) ، أخ لأم (2) ، أم
+& زوجة ، أب ، أم ، بنت (2)
+### Mübâhale meselesi
+& زوج ، أخت ش ، أم | Cumhura ve İbn Abbas'a göre ayrı ayrı çözün.
+: Mübâhale meselesi «الْمَسْأَلَةُ الْمُبَاهَلَة» = Koca, öz kız kardeş ve anne meselesi. İbn Abbas bu meselenin (avlsiz) kendi yöntemiyle çözüleceğini iddia etmiş ve meydan okumuştur. Hiç kimse bu konuda kendi karşısına çıkmamıştır.
+### Ümmü’l-ferûh
+& زوج ، أم ، أخت ش (2) ، أخت لأم (2)
+: Ümmü’l-ferûh «أُمُّ الْفُرُوخ» = Koca, anne, iki öz kız kardeş ve iki anne bir kız kardeş meselesi. Avliye meselelerinin çoğu bu şekilde gelmektedir. «فُرُوخ» civcivler, «أُمُّ الْفُرُوخ» ise tavuk demektir. Avliye konusunda çok sık karşılaşılan bir mesele olduğu için etrafındaki civcivlerle beraber gelen tavuğa benzetilmiştir.
+### Ümmü’l-erâmil
+& جدة (2) ، زوجة (3) ، أخت لأم (4) ، أخت ش (8)
+: Ümmü’l-erâmil / Ümmü’l-benât «أُمُّ الْأَرَامِلِ أَوْ أُمُّ الْبَنَات» = İki nene, üç karı, dört anne bir kız kardeş ve sekiz öz kız kardeş meselesi. Bütün varisler kadın olduğu için bu ad verilmiştir.
+* Meşhur avliye meseleleri: Mübâhale (koca, öz kız kardeş, anne), Ümmü’l-ferûh (en sık görülen avliye), Ümmü’l-erâmil (bütün varisler kadın).
+
+## Reddiyenin Tanımı ve Rükünleri
+¶ Kelime manası: “Red” kelime olarak dönmek, rücû etmek anlamına gelir.
+: Reddiye = Sihamların toplamının mahreçten az olması sebebiyle ashâb-ı ferâizden her birinin payının artmasıdır. «النَّقْصُ مِنْ مَجْمُوعِ السِّهَامِ مِمَّا يُؤَدِّي إِلَى زِيَادَةِ نَصِيبِ كُلِّ وَاحِدٍ مِنَ الْوَرَثَةِ»
+### Rükünleri
+1. Taksimattan sonra malın bir kısmının artması. «وُجُودُ فَائِضٍ مِنَ التَّرِكَةِ»
+2. Ashâb-ı ferâizin bulunması. «وُجُودُ صَاحِبِ الْفَرْضِ»
+3. Asabenin olmaması. «عَدَمُ وُجُودِ الْعَصَبَةِ»
+### Mezheplerin reddiye hakkındaki görüşleri
+1. Red yoktur. Artan mal beytülmâle verilir. Bu mütekaddimûn dönemi Şâfiî ve Mâlikîlerin görüşüdür.
+2. Red vardır. Yani taksimattan sonra artan para ashâb-ı ferâize dağıtılır.
+?? Mesele red olunca artan para kime dağıtılır? «مَنِ الَّذِي يُرَدُّ عَلَيْهِمْ» | Toplam 12 ashâb-ı ferâiz vardır. Bunlardan karı ve kocanın meyyit ile alakası sebebiyyet (nikâh bağı) olduğu için ikisini çıkarttık. Baba ve dedenin de asabelik yönü olduğu için onlar da istisna edildi. Zaten bir meselede asabe varsa veya baba ve dede herhangi bir durumda ise o meselenin reddiye olması imkansızdır. Geriye 8 sınıf kaldı.
+@ ١- بِنْت، ٢- بِنْتُ ابْن، ٣- أُخْتٌ شَقِيقَة، ٤- أُخْتٌ لِأَب، ٥- أُخْتٌ لِأُمّ، ٦- أَخٌ لِأُمّ، ٧- أُمّ، ٨- جَدَّة | Red yapılan 8 sınıf
+* Reddiyenin rükünleri: artan mal, ashâb-ı ferâiz, asabenin yokluğu. Mütekaddimûn Şâfiî ve Mâlikîlere göre red yoktur, artan beytülmâle gider.
+* Red yapılan 8 sınıf: kız, oğlun kızı, öz kız kardeş, baba bir kız kardeş, anne bir kız ve erkek kardeş, anne, nene (eşler, baba ve dede hariç).
+
+## Reddiyenin Kısımları ve Çözümü
+¶ Reddiye meselelerinin çözümü reddiyenin kısımlarına göre değişmektedir. Her bir kısmın çözüm şekli farklıdır. Öyleyse evvela reddiyenin kısımlarını ele alalım:
+| «أنواع الرد» | Tek farz «مع فرض واحد» | Birden fazla farz «مع فروض متعددة»
+| **Eşlerden biri yok** «بدون الزوجين» | 1. kısım | 2. kısım
+| **Eşlerden biri var** «مع وجود أحد الزوجين» | 3. kısım | 4. kısım
+### 1. Kısım: eşler olmadan tek farz
+@ النَّوْعُ الْأَوَّلُ: بِدُونِ الزَّوْجَيْنِ مَعَ فَرْضٍ وَاحِدٍ. الضَّابِطُ فِيهِ: فِي هَذِهِ الْحَالَةِ مَجْمُوعُ السِّهَامِ هُوَ أَصْلُ الْمَسْأَلَةِ الْجَدِيدُ، وَالْفَائِضُ يُقَسَّمُ عَلَى الْوَرَثَةِ بِحَسَبِ أَنْصِبَائِهِمْ
+! Bu tür meselelerde meselenin aslı aded-i rüûstur.
+& أخت لأب
+& أخت ش (7)
+& جدة (2)
+& بنت (3)
+& أخت لأم ، أخ لأم
+& أخ ش ، أخت ش (2) | Bu mesele reddiye değildir.
+& أخ ش (5) | Bu mesele reddiye değildir.
+!! Son iki mesele tıpkı reddiye gibi çözülse de aslında reddiye meseleleri değildirler. Çünkü içerisinde asabe olan bir mesele reddiye olamaz. (Burada sadece aded-i rüûs benzerliği vardır.)
+### 2. Kısım: eşler olmadan birden fazla farz
+@ النَّوْعُ الثَّانِي: بِدُونِ الزَّوْجَيْنِ مَعَ فُرُوضٍ مُتَعَدِّدَةٍ. الضَّابِطُ فِيهِ: أَصْلُ الْمَسْأَلَةِ مَجْمُوعُ السِّهَامِ كَمَا يَكُونُ فِي الْعَوْلِ
+! Bu tür meselelerde sihamların toplamı mahreçtir. Tıpkı avliye meselesinde olduğu gibi. Yani aşağıda vereceğimiz misallerde sihamların toplamı ne ise meselenin aslı odur. Bu yüzden murisin geride bıraktığı para sihamların toplamı olan o sayıya bölünür.
+& أخت ش ، أخت لأب ، أخ لأم
+& جدة ، أخت لأم
+& بنت ، بنت ابن
+### 3. Kısım: eşlerden biri ve tek farz
+@ النَّوْعُ الثَّالِثُ: مَعَ أَحَدِ الزَّوْجَيْنِ وَفَرْضٍ وَاحِدٍ. وَفِيهِ تُؤَصَّلُ الْمَسْأَلَةُ مِنْ فَرْضِ الزَّوْجِيَّةِ، وَيُعْطَى الْمَوْجُودُ مِنَ الزَّوْجَيْنِ سِهَامَهُ، وَمَا بَقِيَ يَأْخُذُهُ صَاحِبُ الرَّدِّ، فَإِنْ كَانَ فَرْدًا يَأْخُذُ الْكُلَّ، وَإِنْ كَانَ صِنْفًا قَاسَمُوهُ بِالسَّوِيَّةِ عَلَى عَدَدِ رُؤُوسِهِمْ
+! Bu tür meselelerde karı/kocanın payı meselenin aslı yapılır. Ona kendi payı verildikten sonra kalan diğerleri arasında paylaştırılır.
+$$ 4
+$ زوجة | 1/4 | 1
+$ أخ لأم | 1/6 | 3
+$= Çözümü: Bu mesele çözülürken sırasıyla 3 adım izlendi. 1. Karının payı mahreç yapıldı. 2. Karıya kendi sihamı verildi. 3. Geriye kalan ashâb-ı ferâize verildi.
+$$ 2
+$ زوج | 1/2 | 1
+$ أخ لأم | 1/6 | 1
+$= Çözümü: 1. Kocanın payı mahreç yapıldı. 2. Kocaya kendi sihamı verildi. 3. Geriye kalan ashâb-ı ferâize verildi. Bu üçüncü kısmın altındaki bütün meseleler bu şekilde çözülecektir.
+$$ 6 → 7 | Doğru: AVLİYE
+$ زوج | 1/2 | 3
+$ أخت لأب (2) | 2/3 | 4
+!! Koca ve iki baba bir kız kardeş meselesini reddiyenin 3. kısmı gibi çözmek (mahreç 2; kocaya 1, kız kardeşlere 1) hatadır. Çünkü bu reddiye değil avliyedir.
+! Klasik eserlerde bir meselenin âdile mi, reddiye mi, avliye mi olduğunu ölçmek için genelde şu yöntem kullanılır: Misalen yukarıda kocanın aldığı pay 1/2'dir. 1/2 bir saatin 30 dakikasına tekabül eder. Kız kardeşin aldığı pay ise 2/3'tür. 2/3 ise bir saatin 40 dakikasına tekabül eder. Bu 30 ve 40 dakikaları topladığımız zaman 70 dakika eder. Bu da meselenin avliye olduğunu göstermektedir. Çünkü 70 dakika ölçü olarak aldığımız bir saatten yani 60 dakikadan daha fazladır. Bir nevi payların toplamı mahreci geçmiş oldu.
+| Pay | Dakika (bir saat = 60)
+| 1/2 | 30
+| [[1/3]] | [[20]]
+| 2/3 | 40
+| [[1/4]] | [[15]]
+| [[1/6]] | [[10]]
+| [[1/8]] | [[7,5]]
+& زوج ، بنت (2)
+& زوجة ، جدة
+& زوجة ، بنت (7)
+& زوج ، جدة
+### 4. Kısım: eşlerden biri ve birden fazla farz
+¶ «النَّوْعُ الرَّابِعُ: مَعَ أَحَدِ الزَّوْجَيْنِ وَفُرُوضٍ مُتَعَدِّدَةٍ». [[Bu kısımda üç sütun açılır: «عمود الكشف» (keşf), «عمود الزوجية» (zevciyye) ve «عمود الرد» (red).]]
+$$ 12 → 7 ; 4 ; 8
+$ زوجة | 1/4 | 3 ; 1 ; 2
+$ جدة | 1/6 | 2 → 1 ; 3 ; 3
+$ أخت لأم | 1/6 | 2 → 1 ; ^ ; 3
+$_ عمود الكشف ; عمود الزوجية ; عمود الرد
+>> Amûdu’l-keşfte normal paylar dağıtılır.
+>> Zevceyn dışındaki ashâb-ı ferâizin payları sadeleştirilir [[(2 → 1, 2 → 1; toplamı 2)]].
+>> Amûdu’z-zevciyye bölümünde, tıpkı reddiyenin üçüncü kısmında olduğu gibi karı/kocanın payı olan (4) mahreç yapılır ve karıya kendi sehmi olan (1) verilir. Kalan (3) ise ashâb-ı ferâiz için yazılır.
+>> Amûdu’l-keşfte ashâb-ı ferâizin aldıkları payların sadeleştirilmiş halinin toplamı olan (2), amûdu’z-zevciyyede mahreç olan (4) ve karının payı olan (1) ile çarpılıp amûdu’r-redde yazılır [[(8 ve 2)]].
+>> Amûdu’l-keşfteki ashâb-ı ferâizin paylarının sadeleştirilmiş hali olan 1’ler amûdu’z-zevciyyede dağıtılması gereken sayı olan (3) ile çarpılır ve çıkan sonuç ashâb-ı ferâizin payı olarak amûdu’r-redde yazılır.
+$$ 24 → 19 ; 8 ; 32
+$ زوجة | 1/8 | 3 ; 1 ; 4
+$ بنت | 1/2 | 12 → 3 ; 7 ; 21
+$ أم | 1/6 | 4 → 1 ; ^ ; 7
+$_ عمود الكشف ; عمود الزوجية ; عمود الرد
+$= Kısaca çözümü: İlk etapta karı-koca dışındaki ashâb-ı ferâizin payları sadeleştirilir, sonra toplanır ve çıkan sonuç olan (4) bir kenara yazılır. Zevciyye bölümünde karının payı mahreç yapılır ve kendisine siham olarak (1) verildikten sonra geriye kalan (7) diğer ashâb-ı ferâizin tamamı için yazılır. Keşf bölümünde ashâb-ı ferâizin paylarının sadeleştirilmiş halinin toplamı (4), mahreç olan (8) ve karının payı olan (1) ile çarpılır ve red bölümüne yazılır (4 × 8 = 32, 4 × 1 = 4). Daha sonra sırasıyla kızın payı olan (3), (7) ile çarpılıp 21 olarak kıza verildi. Annenin payı olan (1), (7) ile çarpılıp (7) olarak red bölümünde anneye verildi.
+: Amûdu’l-keşf «عَمُودُ الْكَشْف» = Reddiyenin 4. kısmında payların normal dağıtıldığı ve eşler dışındakilerin paylarının sadeleştirildiği ilk sütun.
+: Amûdu’z-zevciyye «عَمُودُ الزَّوْجِيَّة» = Eşin payının mahreç yapıldığı, eşe sehminin verilip kalanın diğerlerine ayrıldığı ikinci sütun.
+: Amûdu’r-red «عَمُودُ الرَّدّ» = Keşf ve zevciyye sütunlarının çarpılmasıyla bulunan son payların yazıldığı sütun.
+& زوجة ، أخت لأم (2) ، جدة
+& زوجة ، بنت (2) ، أم
+& زوجة (2) ، بنت ، أم
+& زوج ، بنت ، بنت ابن
+* Reddiyenin 4 kısmı: eşsiz tek farz (mahreç = aded-i rüûs), eşsiz çok farz (mahreç = sihamların toplamı), eşli tek farz (mahreç = eşin payı; kalan diğerine), eşli çok farz (keşf, zevciyye ve red sütunları).
+* İçinde asabe olan mesele reddiye olamaz. Âdile, avliye, reddiye tespiti için “bir saat = 60 dakika” ölçüsü: 1/2 = 30, 2/3 = 40 dk; toplam 60’ı geçerse avliye.

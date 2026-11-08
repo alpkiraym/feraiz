@@ -1,0 +1,155 @@
+# Feraiz İlmine Giriş
+> Feraizin tanımı, bu alandaki eserler, İslam'dan önce miras, feraiz ilminin önemi, öne çıkan sahabeler ve miras ayetleri.
+
+## Feraiz Nedir?
+: Feraiz (kelime) = Kelime olarak “takdir edilen pay” anlamına gelen «فَرِيضَة» kelimesinin çoğuludur.
+¶ Bu şekilde isimlendirilmesinin sebebi Tevbe sûresinde geçen şu ayettir: «فَرِيضَةً مِنَ اللَّهِ» [Tevbe 9/60]. Aynı zamanda hadislerde de “feraiz” kelimesi yer almaktadır: «تَعَلَّمُوا الْفَرَائِضَ».
+¶ Bundan dolayı bu ilme “ilmü’l-ferâiz” denmeye ve konu klasik fıkıh kitaplarında “kitâbü’l-ferâiz” başlığı altında ele alınmaya başlanmıştır. Bu konuda uzmanlaşan âlimlere de fâriz, ferâizî, farazî denilmiştir.
+¶ Istılahi anlamı ise alimler tarafından şu ifadelerle aktarılmıştır:
+@ هُوَ قَوَاعِدُ فِقْهِيَّةٌ وَحِسَابِيَّةٌ يُعْرَفُ بِهَا نَصِيبُ كُلِّ وَارِثٍ مِنَ التَّرِكَةِ
+@ وَعَرَّفَهُ ابْنُ عَابِدِينَ بِقَوْلِهِ: هُوَ عِلْمٌ بِأُصُولٍ مِنْ فِقْهٍ وَحِسَابٍ تُعَرِّفُ حَقَّ كُلِّ وَاحِدٍ مِنَ الْوَرَثَةِ مِنَ التَّرِكَةِ وَالْحُقُوقِ
+: Feraiz (ıstılah) = [[Terikeden her varisin payının bilindiği fıkhî ve hesabî kaideler (İbn Âbidîn: varislerden her birinin terikedeki ve haklardaki payını bildiren fıkıh ve hesap esaslarına dair ilim).]]
+: Feraiz = İslam miras hukukunu inceleyen ilim dalı; varislere verilmesi nass ile tayin edilen paylar.
+: Miras = Ölen bir kimsenin mal varlığının akıbetini düzenleyen kuralların bütünü.
+* Feraiz «فَرِيضَة» (takdir edilen pay) kelimesinin çoğuludur; adını Tevbe 9/60'taki «فَرِيضَةً مِنَ اللَّهِ» ifadesinden ve «تَعَلَّمُوا الْفَرَائِضَ» hadisinden alır.
+
+## Feraiz Alanındaki Eserler
+¶ Ferâiz konusunda ilk eseri ashaptan **Zeyd b. Sâbit**’in (ö. 45/665) telif ettiği, tâbiînden **Ebü’z-Zinâd**’ın (ö. 130/748) bu esere şerh yazdığı, Eyyûb es-Sahtiyânî, İbn Şübrüme, İbn Ebû Leylâ gibi tâbiîn âlimlerinin de ferâizle ilgili eserlerinin bulunduğu şeklindeki rivayetler göz önüne alınarak bu alanda eser telif ve tedvinine fıkıh ekollerinin oluşumundan çok önce başlandığı söylenebilir.
+¶ Yine Süfyân es-Sevrî (ö. 161/778), Hasan b. Ziyâd, Ebû Hâzim el-Kādî, Muhammed b. Nasr el-Mervezî ve Tahâvî de bu alanda müstakil eser yazan ilk müellifler arasında gösterilir. Kâtib Çelebi ferâiz konusunda elliye yakın eser veya müelliften söz etmektedir. Bunlar arasında Hanefî ulemâsından **Secâvendî**’nin el-Ferâiżü’s-Sirâciyye, Şâfiî fakihi **İbnü’l-Mütefennine er-Rahbî**’nin el-Ferâiżü’r-Raḥbiyye adlı eserleri rağbet görmüş ve üzerlerinde birçok şerh ve hâşiye çalışması yapılmıştır.
+¶ Ferâiz ilmi Hanefi furû eserlerinde genelde “Kitâbu’l-Vesâyâ” veya “Kitâbu’l-Ferâiz” şeklinde eserlerin son bölümünde yer almaktadır. Meselâ; Kudûrî ve Muhtâr metinlerinde durum böyledir. Bazı eserlerde ise sadece “Kitâbu’l-Vesâyâ” zikredilmiş, ferâize yer verilmemiştir. Meselâ; İmam Muhammed’in “Câmiu’s-Sağîr” ve “Câmiu’l-Kebîr”inde yer almamıştır. “Kitâbu’l-Asl”da, hatta Merğînânî’nin “el-Hidâye”sinde de ferâiz bulunmamaktadır.
+¶ Ferâiz ilminin gelenekte müstakil olarak okunması onun ehemmiyetinden, matematik ilmiyle olan özel münasebetinden kaynaklanmış olabilir. Müslümanların inşa ettiği medreselerdeki ders sırasında da müstakil olarak okunması onun nev’i şahsına münhasır bir önemi hâiz olduğunu göstermektedir. Bu nedenle özel metinler yazılmış ve çok sayıda şerhler yapılmıştır.
+### Sirâciyye ve şerhleri
+¶ Bu sahanın en meşhur metni, Ebû Tâhir Sirâcüddin Muhammed b. M. Abdürreşîd es-Secâvendî el-Hanefî’ye ait “**Metnu’s-Sirâciyye fi’l-Ferâiz**”dir. Doğum tarihi bilinmeyen müellifin 596/1200’lü yıllarda sağ olduğu kanaati yaygındır.
+¶ Es-Sirâciyye üzerine pek çok şerh ve haşiye çalışması yapılmıştır. Medreselerde mütedâvil olan **Seyyid Şerîf Cürcânî**’nin (816/1413) yaptığı şerh en meşhurudur. Diğer şerhler ise şunlardır:
+1. Ebû Bekir el-Kelebâzî (700/1300), Dav’u’s-Sirâciyye
+2. Hıdır el-Halebî el-Herevî (830/1427), Şerhu’s-Sirâciyye
+3. İbnü’l-Hanbelî (971/1563), Şerhu’s-Sirâciyye
+4. Bedrüddin (956/1549), Şerhu’s-Sirâciyye
+5. Molla Fenârî, Şerhu’l-Ferâizi’s-Sirâciyye. En güzel şerhlerden biridir.
+6. Şehabeddin A. b. Mahmûd es-Sivâsî, el-Muhtâc ale’l-Ferâizi’s-Sirâciyye
+7. İbnü’l-Hâc Muhammed b. el-Hâc Ahmed el-Farazî, et-Tahkîk fî Şerhi’l-Ferâizi’s-Sirâciyye
+8. M. Muhyiddin Abdülhamîd (Sirâciyye’nin şerhidir).
+9. İbn Kemal, Şerhu’l-Ferâizi’s-Sirâciyye
+10. Şeyhzâde Muhyiddin Mehmed, Şerhu’l-Ferâizi’s-Sirâciyye
+11. Mustafa Dîb el-Buğa, er-Rahbiyyetü fî İlmi’l-Ferâiz, Dımeşk 1994
+### Rahbiyye ve şerhleri
+¶ Şâfiî mezhebine göre yazılmış en meşhur eser, İbnü’l-Mütefennine er-Rahbî’nin (ö. 577/1182) manzum olarak kaleme aldığı “**Buğyetü’l-bâhis an cümeli’l-mevâris**” isimli eserdir. İlim çevrelerinde “Manzûmetü’r-Rahbiyye” diye meşhur olan bu eserin bazı şerhleri şunlardır:
+1. Sıbtu’l-Mardînî, Şerḥu’r-Raḥbiyye
+2. Abdullah b. Muhammed eş-Şinşevrî, el-Fevâʾidü’ş-Şinşevriyye fî Şerḥi’l-Manẓûmeti’r-Raḥbiyye
+3. İbn Galbûn el-Mısrâtî, Tuḥfetü’l-iḫvâni’l-behiyye ʿale’l-Muḳaddimeti’r-Raḥbiyye
+4. Ebû Bekir b. Ahmed es-Sebtî, Şerḥu’r-Raḥbiyye
+¶ Bunlardan başka Cemâleddin el-İsnevî, Muhammed b. İbrâhim es-Sellâmî, Celâleddin es-Süyûtî’nin şerhleri anılabilir.
+### Günümüzdeki çalışmalar
+¶ Günümüzde de ferâizle ilgili pek çok çalışma yapılmıştır. Bunlar;
+1. Ali Haydar Efendi, Teshîlü’l-Ferâiz.
+2. Ali Himmet Berki – İrfan Yücel, İslam Hukukunda Ferâiz ve İntikal.
+3. Hamza Aktan, Mukayeseli İslam Miras Hukuku.
+4. Ömer Nasuhi Bilmen, Hukûk-ı İslâmiyye Kâmusu V.
+5. Hayreddin Karaman, Mukayeseli İslam Hukuku I.
+6. Ali Bardakoğlu, “Ferâiz”, DİA, TDV Yayınları, C. XII, 1995.
+7. Rifat Oral, Takrîbü’l-Ferâiz.
+* İlk ferâiz eseri Zeyd b. Sâbit’e (ö. 45/665) nispet edilir; Ebü’z-Zinâd (ö. 130/748) şerh yazmıştır.
+* Hanefîlerin en meşhur metni Secâvendî’nin es-Sirâciyye’sidir; en meşhur şerhi Seyyid Şerîf Cürcânî’nin (816/1413) şerhidir.
+* Şâfiîlerin en meşhur eseri İbnü’l-Mütefennine er-Rahbî’nin (ö. 577/1182) manzum Buğyetü’l-bâhis’idir (Manzûmetü’r-Rahbiyye).
+* Kudûrî ve Muhtâr’da ferâiz son bölümde yer alır; Câmiu’s-Sağîr, Câmiu’l-Kebîr, el-Asl ve el-Hidâye’de ferâiz yoktur.
+
+## İslam Miras Hukukundan Önceki Durum
+### 1. Roma hukukunda miras
+¶ Romalılarda miras şifahi vasiyetlerle intikal etmiştir. Bu vasiyet bir satış akdi şeklini aldığından mûsâ leh, mûsînin mal ve ailesi üzerinde istediği tasarrufa sahip olurdu.
+¶ Daha sonra vasiyet yazılı şekle çevrilmiştir. Bu, ölüme bağlı bir tasarruf olarak kabul edilirdi. Eğer vasiyet yoksa miras akrabalara kalırdı. İmparator Jüstinyen 543 yılında neşrettiği 118 numaralı emirname ile tevârüste hısımlık esasını kabul etmiş, hısımları da sınıflara ayırmıştır. Şöyle ki:
+| Sınıf | Hısımlar
+| **Birinci sınıf** | Ne kadar aşağı giderse gitsin, furû
+| **İkinci sınıf** | Usul ve öz kardeşler
+| **Üçüncü sınıf** | Ana veya baba tarafından kardeşler
+| **Dördüncü sınıf** | Yukarıdakilerin dışında kalan hısımlar
+¶ Buraya kadar sayılan hısımlar mevcut oldukça karı ve koca varis olamazdı. Terike, menkul, gayrimenkul mal, alacak ve borç olarak bütünüyle intikal ederdi. Buna **küllî halefiyet** denir. Dolayısıyla terike borca kâfi gelmediğinde vârisler borcu öderlerdi.
+### 2. Eski Yunan'da miras
+¶ Eski Yunan'da miras, meclis önünde muhakeme usulüyle intikal ederdi. Daha sonra sadece erkekler vasıtasıyla ölüye bağlı hısımlar vâris oldu. Üçüncü merhalede erkek hısımların yokluğu halinde kadınlara da miras verilmesi hükmü benimsendi. Kızların ve kadınların mahrumiyetini gidermek için evlenirken belirli bir meblağ (Drahoma) verilirdi.
+### 3. Yahudilerde miras
+¶ Nikâh veya zina mahsulü olup olmadığına bakılmaksızın bekar erkek çocuklar diğer kardeşlerinin iki katı miras alırdı. Kız çocuğu erkek kardeşleriyle beraber olsa da mirasçı olamıyordu. Ancak erkek kardeşi ona 12 yaşına kadar bakmakla mükellef tutulurdu. Ölenin erkek çocuğu ve oğlunun oğlu yoksa o zaman kızlar mirasçı olurdu. Çocukların olmadığı durumda miras baba gibi usule kalır, usulde bulunmazsa terike yan hısımlara intikal etmekteydi.
+¶ Yahudiliği terk eden kimse Yahudi hısımlarına varis olamıyor fakat Yahudi hısımları ona varis oluyorlardı. Yahudi dinine giren putperest kendi hısımlarına varis olur ama hısımları ona varis olamazdı. Anne ve babasını iz bırakacak şekilde döven kimseler ebeveynine varis olamazdı. Varisi kızlardan ibaret olan kimse başkalarına vasiyet edebilir ancak erkek çocukları varsa vasiyet edemezdi. Çocuğu olmadan ölen kadının mirasçısı ise kocası olurdu.
+### 4. İslam’dan önce Araplarda miras
+¶ Araplardaki göçebelik mirasa etki etmiştir. Bu yüzden silah taşımayan çocuklar ve kadınlar mirasçı sayılmamıştır. Hatta kadınlar mirasa konu olmamışlardır. Araplarda tevârüsün üç sebebi, iki şartı vardı.
+| Miras sebepleri | Şartlar
+| 1. Hısımlık | 1. Erkek olmak
+| 2. Velâ | 2. Ergenlik çağı ve silah taşıma gücü olmak
+| 3. Evlatlık | —
+### 5. Günümüz hukuk sistemlerinde miras
+¶ Fransız, Alman, İngiliz ve Sovyetler Birliği’nde genelde miras kabul edilmiş üç aşağı beş yukarı birbirine yakın kanunlar benimsenmiştir. Sadece Komünizm döneminde ferdî mülkiyet kaldırıldığından miras hukuku da hayli hayli ortadan kalkmış ancak günümüzde yeni düzenlemeler yapılmaktadır.
+### 6. İslâm’dan önce Türk toplumunda miras
+¶ İslâm’dan önce Türk toplumlarında hem kanuni hem de vasiyet yoluyla veraset vardır. Prensip olarak bütün çocukların baba ve analarının mirasında hisseleri vardı. Babalardan ayrılan erkekler (bir miktar mal ile) ve yine aileden çeyiz alarak evlenen kızlar daha sonra mirasçı olamazdı. Kocanın vefatı halinde karısı malın ¼’ünü alır, oğulları olmadığı zaman babalar da varistir. Erkekler yoksa, evlenmiş kızlar da miras alırdı.
+¶ Babanın oturduğu evin varisi en küçük oğludur. Buna mukabil öz ve üvey analara bakar, evlenmemiş kız kardeşlerinin çeyizlerini hazırlarlar. Evlatlık da hukuki babasından miras alır. İslâmiyet’ten sonra miras hukukuna göre amel etmişlerdir. 1926’da yapılan hukuk inkılabından sonra halkımızın bir kısmı şer’î hukuka göre miras taksimi yaptırırken isteyen de mer’î hukuka göre miras taksimini yaptırmaktadır.
+* Roma: Jüstinyen (543, 118 numaralı emirname) hısımları dört sınıfa ayırdı; bunlar varken karı-koca varis olamazdı; terike borçlarıyla bütünüyle intikal ederdi (küllî halefiyet).
+* İslam öncesi Araplar: üç sebep (hısımlık, velâ, evlatlık), iki şart (erkek olmak, ergenlik ve silah taşıma gücü).
+* İslam öncesi Türkler: kocanın vefatında karı malın ¼’ünü alır; babanın oturduğu evin varisi en küçük oğuldur.
+
+## Feraiz İlminin Önemi
+### A. Ferâiz ilminin önemi ile ilgili ayetler
+¶ Tarih boyunca mal bütün insanlar için çok önemli olmuştur. Bu öneme binaen Allah, malın taksimini ne bir peygambere ne bir meleğe ne de başka birine tevdi etmeden Kur’an-ı Kerim'de bizzat kendisi yapmıştır. Kur'an-ı Kerim'de geçen ve İslam'ın şartlarından olan namaz, oruç, zekât gibi ibadetler mücmel bir şekilde yer alırken, miras ayrıntılarıyla yer almaktadır. Bu da bu ilmin önemini göstermektedir.
+¶ Bununla beraber Kur’an-ı Kerim'de miras taksimi ile alakalı olan Nisâ sûresi 11. ve 12. ayetlerden sonra gelen şu ayet, bu ilme verilmesi gereken değeri ortaya koymakta ve yüz çevrilmesi halinde duçar olunacak cezayı gözler önüne sermektedir;
+@ ﴿تِلْكَ حُدُودُ اللَّهِ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ﴾ [النساء ١٣] ﴿وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ وَيَتَعَدَّ حُدُودَهُ يُدْخِلْهُ نَارًا خَالِدًا فِيهَا وَلَهُ عَذَابٌ مُهِينٌ﴾ [النساء ١٤]
+### B. Ferâiz ilminin önemi ile ilgili hadisler
+@ عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «يَا أَبَا هُرَيْرَةَ، تَعَلَّمُوا الْفَرَائِضَ وَعَلِّمُوهُ، فَإِنَّهُ نِصْفُ الْعِلْمِ، وَهُوَ يُنْسَى، وَهُوَ أَوَّلُ شَيْءٍ يُنْزَعُ مِنْ أُمَّتِي». (رواه ابن ماجه والدارقطني كلهم من حديث أبي هريرة وقد ضعفه الحافظ)
+?? Ferâiz neden ilmin yarısı sayılmıştır? | Mirasla alakası olmayan insan yoktur. İlimler hayat ve memat ile ilgili olarak ikiye taksim edilirse; feraiz mematla ilgilidir, bu da ilmin yarısıdır. İlimleri nassa ve akla (kıyasa) dayalı diye ikiye ayırırsak, feraiz nassa dayananlardan olur. Mülkiyet edinme cebrî ve ihtiyarî olmak üzere ikiye ayrılırken, feraiz cebrî mülkiyet edinme kısmındandır. Feraiz kelimesinin lügat anlamı kastedilerek mükellefiyetleri farz olanlar ve olmayanlar diye ikiye ayırırsak, feraiz farz olanları ifade ederek diğer yarıyı gösterebilir. Feraiz ilmi bir kefede, diğerleri bir kefede kabul edilmiştir.
+@ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «الْعِلْمُ ثَلَاثَةٌ، وَمَا سِوَى ذَلِكَ فَهُوَ فَضْلٌ: آيَةٌ مُحْكَمَةٌ، أَوْ سُنَّةٌ قَائِمَةٌ، أَوْ فَرِيضَةٌ عَادِلَةٌ». رواه أبو داود وابن ماجه
+@ عَنِ ابْنِ مَسْعُودٍ رَفَعَهُ: «تَعَلَّمُوا الْفَرَائِضَ وَعَلِّمُوهَا النَّاسَ فَإِنِّي امْرُؤٌ مَقْبُوضٌ، وَإِنَّ الْعِلْمَ سَيُقْبَضُ حَتَّى يَخْتَلِفَ الِاثْنَانِ فِي الْفَرِيضَةِ فَلَا يَجِدَانِ مَنْ يَفْصِلُ بَيْنَهُمَا»
+@ عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَلْحِقُوا الْفَرَائِضَ بِأَهْلِهَا، فَمَا بَقِيَ فَهُوَ لِأَوْلَى رَجُلٍ ذَكَرٍ». ق
+### C. Sahabeler ve selef âlimleri nezdinde feraiz ilminin önemi
+¶ Hz. Ömer feraiz ilminin önemi ile ilgili şunları söylemektedir:
+@ «تَعَلَّمُوا الْفَرَائِضَ فَإِنَّهَا مِنْ دِينِكُمْ» — «تَعَلَّمُوا الْفَرَائِضَ وَالنَّحْوَ وَالسُّنَّةَ كَمَا تَعَلَّمُونَ الْقُرْآنَ»
+¶ İbn Mes’ûd feraiz ilminin önemi ile ilgili şunları söylemektedir:
+@ «مَنْ قَرَأَ الْقُرْآنَ فَلْيَتَعَلَّمِ الْفَرَائِضَ» — «تَعَلَّمُوا الْقُرْآنَ وَالْفَرَائِضَ فَإِنَّهُ يُوشِكُ أَنْ يَفْتَقِرَ النَّاسُ إِلَى عِلْمِ مَنْ يَعْلَمُهَا»
+@ وَقَالَ أَبُو مُوسَى الْأَشْعَرِيُّ رَضِيَ اللَّهُ عَنْهُ: «مَنْ عَلِمَ الْقُرْآنَ وَلَمْ يَعْلَمِ الْفَرَائِضَ فَإِنَّ مَثَلَهُ مَثَلُ الْبُرْنُسِ لَيْسَ لَهُ وَجْهٌ»
+* Feraiz ilmin yarısı sayılır: herkesin mirasla ilgisi vardır; memata dairdir; nassa dayanır; cebrî mülkiyet edinme yoludur.
+* Nisâ 13–14. ayetler miras ayetlerinden sonra gelir; bu ilme verilmesi gereken değeri ve yüz çevirmenin cezasını gösterir.
+
+## Feraiz İlmi Konusunda Öne Çıkan Sahabeler
+### 1. Abdullah b. Mes’ûd
+¶ Ebû Mûsâ el-Eş’arî onun hakkında şöyle demiştir:
+@ «لَا تَسْأَلُونِي عَنْ أَشْيَاءَ مَا دَامَ هَذَا الْحَبْرُ فِيكُمْ»
+### 2. İbn Abbas
+¶ İbn Abbas feraiz ilmi konusunda en meşhur sahabelerdendir. Ancak İbn Abbas daha çok muhalefeti ile bilinir. Birçok meselede İbn Abbas sahabelerin genel görüşüne muhalefet etmiştir. Hatta bundan dolayı miras hukuku ile ilgili yazılmış müstakil bazı muasır eserlerde “Muhâlefetü İbn Abbas” başlığı açılmıştır.
+### 3. Hz. Ali (kerremallâhu vechehû)
+¶ Hz. Ali feraiz konusunda hazır cevaplılığı ile bilinen meşhur sahabelerdendir. Onun bu hazır cevaplılığı «مَسْأَلَةُ الْمِنْبَرِيَّة» diye bilinen şu olayda kendini göstermektedir: Hz. Ali camide kafiyeli bir vezin ile hutbe okurken bir anda cemaatten birisi kendisine “bir adam öldü. Geriye karısı, annesi, babası ve iki kızı kaldı. Taksim nasıl yapılır?” diye sorar. İmam Ali kafiyeyi hiç bozmadan ve hiç düşünmeden aynı vezin ile kendisine aşağıdaki şekilde cevap verir:
+@ الْحَمْدُ لِلَّهِ الَّذِي يَحْكُمُ بِالْحَقِّ قَطْعًا، وَيَجْزِي كُلَّ نَفْسٍ بِمَا تَسْعَى، وَإِلَيْهِ الْمَآبُ وَالرُّجْعَى، زَوْجَةً وَبِنْتَيْنِ وَأَبًا وَأُمًّا، وَالْمَرْأَةُ صَارَ ثُمُنُهَا تُسْعًا
+$$ 24 → 27 | Minberiye meselesi
+$ زوجة | 1/8 | 3
+$ بنتين | 2/3 | 16
+$ أب | 1/6+ع | 4
+$ أم | 1/6 | 4
+$= [[Mahreç 24 iken sihamların toplamı 27'dir: karının sekizde biri dokuzda bire döndü.]]
+¶ Yine «مَسْأَلَةُ الدِّينَارِيَّة» diye bilinen şu mesele de Hz. Ali’nin feraiz alanındaki ilmini göstermesi açısından önemlidir: Rivayet edildiğine göre bir kadın Hz. Ali'nin yanına gelir ve “kardeşim vefat etti. Geriye 600 dinar bıraktı. Bana sadece bir dinar verdiler” der. Bunun üzerine Hz. Ali sadece kadına 600 dinardan bir dinar verilmesinden yola çıkarak geriye kalan bütün varisleri tek tek sayar ve hakkının 600'de bir olduğunu söyler.
+$$ 24 | Dinariye meselesi (600 dinar)
+$ زوجة | 1/8 | 3 | 75
+$ أم | 1/6 | 4 | 100
+$ بنت (2) | 2/3 | 16 | 400
+$ أخ ش (12) | ع | 1 | 24
+$ أخت ش | ع | 1 | 1
+$= [[Kalan 1 sehim 12 öz erkek kardeş ile 1 öz kız kardeş arasında ikili birli bölünür: 25 dinarın 24'ü erkek kardeşlere, 1'i kız kardeşe.]]
+### 4. Zeyd b. Sâbit
+¶ Hz. Peygamber kendisi hakkında «أَفْرَضُكُمْ زَيْدُ بْنُ ثَابِتٍ» demiştir.
+: Minberiye meselesi = Hz. Ali'ye minberde sorulan mesele: karı, anne, baba ve iki kız. Mahreç 24 iken 27'ye avleder; karının 1/8'i 1/9'a döner.
+: Dinariye meselesi = Hz. Ali'ye 600 dinardan 1 dinar verilen kız kardeşin sorduğu mesele: karı, anne, iki kız, 12 öz erkek kardeş ve bir öz kız kardeş.
+* Abdullah b. Mes’ûd: Ebû Mûsâ “bu âlim aranızda oldukça bana sormayın” demiştir.
+* İbn Abbas daha çok muhalefeti ile bilinir; muasır eserlerde “Muhâlefetü İbn Abbas” başlığı açılmıştır.
+* Hz. Ali: Minberiye ve Dinariye meseleleri; Zeyd b. Sâbit: «أَفْرَضُكُمْ زَيْدُ بْنُ ثَابِتٍ».
+
+## Miras ile İlgili Ayetler
+¶ Kur’an-ı Kerim’de miras taksimi ile alakalı başlıca üç ayet vardır. Nisâ sûresinde geçen bu ayetler şunlardır:
+@ ﴿يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ فَإِنْ كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ وَإِنْ كَانَتْ وَاحِدَةً فَلَهَا النِّصْفُ وَلِأَبَوَيْهِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ مِمَّا تَرَكَ إِنْ كَانَ لَهُ وَلَدٌ فَإِنْ لَمْ يَكُنْ لَهُ وَلَدٌ وَوَرِثَهُ أَبَوَاهُ فَلِأُمِّهِ الثُّلُثُ فَإِنْ كَانَ لَهُ إِخْوَةٌ فَلِأُمِّهِ السُّدُسُ مِنْ بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا فَرِيضَةً مِنَ اللَّهِ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا﴾ [النساء ١١] | هذه الآية بينت إرث أولاد الميت الذكور والإناث كما بينت ميراث الأبوين
+@ ﴿وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ إِنْ لَمْ يَكُنْ لَهُنَّ وَلَدٌ فَإِنْ كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ الرُّبُعُ مِمَّا تَرَكْنَ مِنْ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَا أَوْ دَيْنٍ وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكْتُمْ إِنْ لَمْ يَكُنْ لَكُمْ وَلَدٌ فَإِنْ كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُمْ مِنْ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَا أَوْ دَيْنٍ وَإِنْ كَانَ رَجُلٌ يُورَثُ كَلَالَةً أَوِ امْرَأَةٌ وَلَهُ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ فَإِنْ كَانُوا أَكْثَرَ مِنْ ذَلِكَ فَهُمْ شُرَكَاءُ فِي الثُّلُثِ مِنْ بَعْدِ وَصِيَّةٍ يُوصَى بِهَا أَوْ دَيْنٍ غَيْرَ مُضَارٍّ وَصِيَّةً مِنَ اللَّهِ وَاللَّهُ عَلِيمٌ حَلِيمٌ﴾ [النساء ١٢] | وهذه الآية بينت ميراث الزوجين وميراث الإخوة والأخوات لأم. وتسمى هذه الآية بآية الشتاء
+@ ﴿يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ إِنِ امْرُؤٌ هَلَكَ لَيْسَ لَهُ وَلَدٌ وَلَهُ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ وَهُوَ يَرِثُهَا إِنْ لَمْ يَكُنْ لَهَا وَلَدٌ فَإِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَ وَإِنْ كَانُوا إِخْوَةً رِجَالًا وَنِسَاءً فَلِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ يُبَيِّنُ اللَّهُ لَكُمْ أَنْ تَضِلُّوا وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ﴾ [النساء ١٧٦] | وهذه الآية بينت ميراث الإخوة والأخوات الأشقاء أو لأب. وتسمى هذه الآية بآية الصيف لأنها نزلت في زمن الصيف، وقال البراء بن عازب: «هذه آخر آية نزلت من القرآن»
+| Ayet | Kimlerin mirasını beyan eder | Adı
+| **Nisâ 11** | Ölenin erkek ve kız çocukları ile anne-baba | —
+| **Nisâ 12** | Karı-koca ile anne bir kardeşler | Âyetü’ş-şitâ (kış ayeti)
+| **Nisâ 176** | Öz ve baba bir kardeşler | Âyetü’s-sayf (yaz ayeti); Berâ b. Âzib'e göre son inen ayet
+?? Kur’an-ı Kerim'de feraiz ilmi ile alakalı bu üç ayetten başka bir ayet var mıdır? | Evet, Kur’an-ı Kerim'de bu üç ayet dışında feraiz ile ilgili başka ayetler de vardır. Ancak bu ayetler icmâlî olarak feraizden bahsetmektedir. Herhangi bir tafsilata yer verilmemektedir.
+¶ Bu ayetler şunlardır:
+@ ﴿وَالَّذِينَ آمَنُوا مِنْ بَعْدُ وَهَاجَرُوا وَجَاهَدُوا مَعَكُمْ فَأُولَئِكَ مِنْكُمْ وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ﴾ [الأنفال ٧٥]
+@ ﴿النَّبِيُّ أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ وَأَزْوَاجُهُ أُمَّهَاتُهُمْ وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ مِنَ الْمُؤْمِنِينَ وَالْمُهَاجِرِينَ إِلَّا أَنْ تَفْعَلُوا إِلَى أَوْلِيَائِكُمْ مَعْرُوفًا كَانَ ذَلِكَ فِي الْكِتَابِ مَسْطُورًا﴾ [الأحزاب ٦]
+@ ﴿لِلرِّجَالِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ وَلِلنِّسَاءِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ نَصِيبًا مَفْرُوضًا﴾ [النساء ٧]
+@ ﴿وَإِذَا حَضَرَ الْقِسْمَةَ أُولُو الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينُ فَارْزُقُوهُمْ مِنْهُ وَقُولُوا لَهُمْ قَوْلًا مَعْرُوفًا﴾ [النساء ٨]
+: Âyetü’ş-şitâ = Karı-koca ile anne bir kardeşlerin mirasını beyan eden Nisâ 12. ayet (kışın indiği için “kış ayeti”).
+: Âyetü’s-sayf = Öz ve baba bir kardeşlerin mirasını beyan eden Nisâ 176. ayet (yazın indiği için “yaz ayeti”).
+* Başlıca üç miras ayeti: Nisâ 11 (çocuklar ve anne-baba), Nisâ 12 (eşler ve anne bir kardeşler; kış ayeti), Nisâ 176 (öz ve baba bir kardeşler; yaz ayeti).
+* İcmâlî miras ayetleri: Enfâl 75, Ahzâb 6, Nisâ 7, Nisâ 8.

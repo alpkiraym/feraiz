@@ -1,0 +1,127 @@
+# Zevi’l-erhâm
+> Ashâb-ı ferâiz ve asabe dışındaki kan hısımları: mezheplerin görüşleri, ehlü’l-karâbe, ehlü’t-tenzîl ve ehlü’r-rahim yöntemleri, miras alacakların sırası, genel kaideler ve ehlü’l-karâbenin dört sınıfı.
+
+## Zevi’l-erhâmın Tanımı
+: Zevi’l-erhâm «ذَوُو الْأَرْحَام» = Sözlükte “rahim veya nesep bağıyla birbirine bağlı akrabalar” anlamındaki zevi’l-erhâm (tekili zü’r-rahim / zî-rahim) terkibi, İslâm miras hukukunda ashâb-ı ferâizle asabe gruplarına dahil olmayan kan hısımlarını ifade eder.
+¶ Meselâ anne tarafından dedeler, kızın çocukları, yeğenler, dayı, teyze, hala, anne bir amca bu grupta yer alır. Bunların çoğu, kişinin annesi veya kızı yoluyla kan bağı bulunan akrabalarından oluşmakla birlikte hala gibi erkek tarafından bazı akrabaları da içerir.
+* Zevi’l-erhâm: ashâb-ı ferâiz ve asabe dışındaki kan hısımları (annenin babası, kızın çocukları, yeğenler, dayı, teyze, hala, anne bir amca).
+
+## Mezheplerin Görüşleri
+¶ **Miras alır:** Hanefî ve Hanbelîlere göre ve Şâfiî ile Mâlikî mezhebinin müteahhirûn alimlerine göre zevi’l-erhâm miras alır.
+¶ **Miras almaz:** Şâfiî ve Mâlikîlerin mütekaddimûn dönemi alimlerine göre zevi’l-erhâm miras almaz. Zevi’l-erhâmdan önce miras alacak olan sınıflardan hiçbiri yoksa mal beytülmâle kalır.
+| «ميراث ذوي الأرحام» | Görüş | Kimler
+| **«القول الشاذ»** (şâz görüş) | «أهل الرحم» | Hasan b. Müyesser ve Şîa’dan Nûh b. Derrâc
+| **«القول المعتمد»** (muteber görüş) | «أهل التنزيل» | Cumhur
+| | «أهل القرابة» | Hanefîler
+?? Ehlü’l-karâbe, ehlü’t-tenzîl ve ehlü’r-rahim arasında meselelerin çözümü noktasında nasıl bir fark vardır? | Ehlü’l-karâbe: tıpkı asabelerde olduğu gibi yakın olan uzak olanı hacbeder. Ehlü’t-tenzîl: fürûları silmek suretiyle mesele usule indirgenir; daha sonra usul baz alınarak mesele çözülür. Ehlü’r-rahim: bütün zevi’l-erhâm eşit derecede pay alır; aralarında kız-erkek dahil herhangi bir üstünlük yoktur, dolayısıyla bütün meselelerde mahreç aded-i rüûstur.
+| Varisler | «أهل القرابة» (1) | «أهل التنزيل» (6) | «أهل الرحم» (3)
+| «ابن بنت» — «فروع» | 1 | 3 (kızın yerine: 1/2) | 1
+| «أب أم» — «أصول» | — | 1 (annenin yerine: 1/6) | 1
+| «بنت عم» — «عمومة» | — | 2 (amcanın yerine: ع) | 1
+: Ehlü’l-karâbe «أَهْلُ الْقَرَابَة» = Hanefîlerin yöntemi: zevi’l-erhâm arasında asabelerde olduğu gibi yakın olan uzak olanı hacbeder.
+: Ehlü’t-tenzîl «أَهْلُ التَّنْزِيل» = Cumhurun yöntemi: her zü’r-rahim, kendisini ölüye bağlayan varisin yerine indirilir (fürû silinip usule gidilir), mesele o varislere göre çözülür.
+: Ehlü’r-rahim «أَهْلُ الرَّحِم» = Şâz görüş: bütün zevi’l-erhâm kız-erkek farkı olmadan eşit pay alır; mahreç aded-i rüûstur.
+?? Zevi’l-erhâm ne zaman mirastan pay alır? | Zevi’l-erhâm, miras alacak sınıflar arasında son sıradadır. Şayet zevi’l-erhâm da olmazsa mal beytülmâle kalır.
+* Hanefî, Hanbelî ve müteahhir Şâfiî-Mâlikîlere göre zevi’l-erhâm varis olur; mütekaddim Şâfiî-Mâlikîlere göre olmaz, mal beytülmâle kalır.
+* Yöntemler: ehlü’l-karâbe (Hanefî; yakın uzağı düşürür), ehlü’t-tenzîl (cumhur; usule indirilir), ehlü’r-rahim (şâz; herkes eşit).
+
+## Miras Alacakların Sıralaması
+>> «أصحاب الفرائض» — [[Ashâb-ı ferâiz]]
+>> «العصبة النسبية» — [[Asabe-i nesebiyye]]
+>> «العصبة السببية (المعتق)» — [[Asabe-i sebebiyye (azad eden)]]
+>> «عصبة الولاء السببية (عصبة المعتق مع ترتيبهم)» — [[Azad edenin asabeleri]]
+>> «الرد على غير الزوجين» — [[Eşler dışındakilere red]]
+>> «ذوو الأرحام» — [[Zevi’l-erhâm]]
+! Bir meselede yukarıdaki ilk 4 sınıftan biri, altıncı sırada olan zevi’l-erhâm ile beraber bulundukları zaman malın tamamını alırlar. Zevi’l-erhâm hiçbir şey almaz. Çünkü ilk sınıf olan ashâb-ı ferâiz bir meselede zevi’l-erhâm ile bulununca önce kendi payını alırlar. Geri kalanı ise reddiye yolu ile alırlar.
+$$ 1
+$ بنت | فرضا وردا | 1
+$ عمة | ^ | -
+$$ 1
+$ أم | فرضا وردا | 1
+$ خال | ^ | -
+$= Çözüm: Her iki misalde de önce ashâb-ı ferâiz kendi paylarını aldılar. Geriye kalan payı ise bir sonraki sınıfa dağıtmamız gerekiyor ancak burada ikinci, üçüncü ve dördüncü sınıflar olmadığı için sıra 5. sınıfa yani red yoluyla pay alan kimselere geldi. Red yoluyla pay alan kimseler ise karı koca dışındakilerdir. Dolayısıyla sıra henüz 6. mertebede olan zevi’l-erhâma gelmeden evvel paylar 5. mertebede olan kimselere dağıtılmak suretiyle tamamen tükenmiştir.
+¶ Ancak bir meselede zevi’l-erhâm karı koca ile bulundukları zaman karı koca kendi payını aldıktan sonra kalanı zevi’l-erhâm alır. Çünkü karı koca red yoluyla pay almadıkları için sıra altıncı mertebe olan zevi’l-erhâma gelir.
+$$ 2
+$ زوج | 1/2 | 1
+$ ابن بنت | ب | 1
+$$ 4
+$ زوجة | 1/4 | 1
+$ عمة | ب | 3
+! [[Tabloda «ب» = «الباقي»: zevi’l-erhâm kalanı alır.]]
+: Mukarrun leh bi’n-neseb ale’l-ğayr = Başkası üzerine nesebi ikrar edilen kimse.
+* Sıra: ashâb-ı ferâiz › asabe-i nesebiyye › azad eden › azad edenin asabesi › eşler dışındakilere red › zevi’l-erhâm (› beytülmâl).
+* Red yolu zevi’l-erhâmdan önce gelir; ama eşlere red yapılmadığı için eşle beraber bulunan zevi’l-erhâm kalanı alır.
+
+## Zevi’l-erhâm ile İlgili Genel Kaideler
+¶ Ehlü’l-karâbe ve ehlü’t-tenzîl için genel kaideler «الْقَوَاعِدُ الْعَامَّةُ لِذَوِي الْأَرْحَامِ»:
+### Birinci kaide
+@ لَا يَرِثُ ذَوُو الْأَرْحَامِ مَعَ مَرَاتِبِ الْخَمْسَةِ السَّابِقَةِ
+¶ Zevi’l-erhâmdan önce gelen 5 sınıftan herhangi birisi mevcut ise zevi’l-erhâm mirastan pay alamaz ve yanına «لا» yazılır.
+$$ 1
+$ بنت | فرضا وردا | 1
+$ عمة | ^ | -
+$$ 1
+$ ابن ابن | ع | 1
+$ ابن بنت | لا | -
+$$ 1
+$ أب | ع | 1
+$ خال | لا | -
+### İkinci kaide
+@ إِذَا انْفَرَدَ يَحُوزُ الْمَالَ كُلَّهُ
+¶ Bir meselede sadece zevi’l-erhâmdan bir kişi varsa malın tamamını alır.
+$$ 1
+$ أب أم | | 1
+$$ 1
+$ بنت أخ | | 1
+$$ 1
+$ خال | | 1
+### Üçüncü kaide
+@ يَرِثُ ذَوُو الْأَرْحَامِ مَعَ أَحَدِ الزَّوْجَيْنِ بَعْدَ أَنْ يَأْخُذَ أَحَدُ الزَّوْجَيْنِ نَصِيبَهُ
+¶ Bir meselede zevi’l-erhâm ve karı kocadan biri bulunursa karı koca kendi payını aldıktan sonra zevi’l-erhâm kalanı alır.
+$$ 4
+$ زوجة | 1/4 | 1
+$ بنت بنت | ب | 3
+$$ 4
+$ زوجة | 1/4 | 1
+$ ابن بنت | ب | 3
+$$ 2
+$ زوج | 1/2 | 1
+$ ابن بنت | ب | 1
+$$ 4
+$ زوجة | 1/4 | 1
+$ عمة | ب | 3
+! Son 3 misalde görüldüğü üzere zevi’l-erhâm karı kocanın payını etkilemiyor. Yani fürûun bulunması ile zevceyn hacb-ı noksana uğramıyor.
+* Genel kaideler: (1) önceki beş sınıftan biri varken zevi’l-erhâm almaz («لا»); (2) tek başına ise malın tamamını alır; (3) eşle beraberse eşin payından kalanı alır ve eşin payını düşürmez (kızın çocuğu kocayı 1/4’e indirmez).
+
+## Ehlü’l-karâbe ve Dört Sınıf
+¶ «الْأَصْنَافُ الْأَرْبَعَة»
+1. «الْبُنُوَّة»: «ابن بنت، بنت بنت، بنت ابن بنت…» ([[kızın çocukları ve aşağısı]])
+2. «الْأُبُوَّة»: «الجد الرحمي، الجدة الرحمية» ([[fasid dede ve fasid nene]])
+3. «فُرُوعُ الْأَبَوَيْنِ»: «بنات الإخوة، وأبناء الأخوات مطلقا» ([[kardeşlerin kızları, kız kardeşlerin çocukları]])
+4. «فُرُوعُ الْأَجْدَادِ»: «خالات وعمات وأخوال مع أولادهم وبنات الأعمام» ([[teyze, hala, dayı ve çocukları, amcaların kızları]])
+@ تَنْبِيهٌ: أَبْنَاءُ الْإِخْوَةِ مِنَ الْعَصَبَاتِ وَإِنْ نَزَلُوا كَابْنِ ابْنِ الْأَخِ، وَلَكِنَّ بَنَاتِهِنَّ رَحِمِيَّةٌ كَبِنْتِ الْأَخِ وَبِنْتِ ابْنِ الْأَخِ. وَأَمَّا أَبْنَاءُ وَبَنَاتُ الْأَخَوَاتِ فَكُلُّهُنَّ رَحِمِيَّةٌ مُطْلَقًا كَابْنِ الْأُخْتِ وَبِنْتِ الْأُخْتِ وَإِنْ نَزَلُوا. وَلَا فَرْقَ بَيْنَ الْإِخْوَةِ وَالْأَخَوَاتِ مِنَ الْأَعْيَانِ وَالْعَلَّاتِ
+| Sınıf | Kimler
+| **1. Bunuvvet** | [[Kızın oğlu, kızın kızı, kızın oğlunun kızı… (ölenin zevi’l-erhâm olan fürûu)]]
+| **2. Ubuvvet** | [[Fasid dede, fasid nene]]
+| **3. Ebeveynin fürûu** | [[Erkek kardeşin kızları, kız kardeşin oğulları ve kızları]]
+| **4. Dedelerin fürûu** | [[Teyzeler, halalar, dayılar ve çocukları, amcanın kızları]]
+### Ehlü’l-karâbe için genel kaideler «الْقَوَاعِدُ الْعَامَّةُ لِأَهْلِ الْقَرَابَة»
+1. Önce gelen sınıf sonra gelen sınıfı hacbeder. «الصِّنْفُ الْأَوَّلُ يَحْجُبُ الَّذِي بَعْدَهُ وَهَكَذَا»
+$$ 1 | Ehlü’l-karâbeye göre
+$ ابن بنت (1. sınıf) | ع | 1
+$ ابن أخت (3. sınıf) | لا | -
+$$ 2 | Ehlü’t-tenzîle göre
+$ ابن بنت (1. sınıf) | 1/2 | 1
+$ ابن أخت (3. sınıf) | ع | 1
+& ابن أخت ، عمة
+& ابن بنت ، خال
+& ابن أخت لأم ، بنت عم
+2. Derece bakımından yakın olan uzak olanı hacbeder. «الْقَرِيبُ يَحْجُبُ الْبَعِيدَ مُطْلَقًا»
+$$ 1
+$ ابن بنت | | 1
+$ بنت بنت بنت | | -
+$$ 1
+$ بنت بنت بنت | | 1
+$ بنت بنت ابن ابن | | -
+* Ehlü’l-karâbenin dört sınıfı: bunuvvet (kızın çocukları), ubuvvet (fasid dede-nene), ebeveynin fürûu (kardeş kızları, kız kardeş çocukları), dedelerin fürûu (hala, teyze, dayı, amca kızları).
+* Ehlü’l-karâbede önce gelen sınıf sonrakini, aynı sınıfta yakın derece uzak dereceyi düşürür.

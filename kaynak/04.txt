@@ -1,0 +1,81 @@
+# Hacb ve Ashâb-ı Ferâiz
+> Hacbin kısımları ve kaideleri, hacb-ı noksanın meydana gelme şekilleri; on iki ashâb-ı ferâiz, kırk hal ve Kur'an'daki altı pay.
+
+## Hacbin Tanımı ve Önemi
+: Hacb «الْحَجْب» = Normalde mirastan pay alacak kimselerin belli durumlarda paylarının engellenmesidir.
+¶ Hacb konusu feraiz ilmindeki en önemli konulardan bir tanesidir. Hatta alimler bu konu hakkında şöyle demişlerdir:
+@ يَحْرُمُ عَلَى مَنْ لَمْ يَعْرِفِ الْحَجْبَ أَنْ يُفْتِيَ فِي الْفَرَائِضِ
+¶ Hacb ikiye ayrılır: hacb bilvasf ve hacb bişşahs.
+: Hacb bilvasf «حَجْبٌ بِالْوَصْف» = İleride okuyacağımız üzere mirası engelleyen 3 durum vardır: «الْقَتْل، الرِّقّ، اخْتِلَافُ الدِّين» (kölelik, öldürme, din değişikliği). Bu üç sebepten bir tanesi ile mirastan men olmaya hacb bilvasf denir. (hacb bilvasf = mahrum)
+: Hacb bişşahs «حَجْبٌ بِالشَّخْص» = Normalde mirastan pay alacak olan birinin cihet, derece veya kuvvet-i karâbet yönünden kendisinden önde olan birisi sebebiyle mirastan pay alamamasıdır.
+: Dede yetimi = Babası, dedesinden daha önce öldüğü için mirastan (dedenin mirasından) mahrum kalan çocuktur.
+* Hacb bilvasf = mahrumiyet (katl, kölelik, din farkı); hacb bişşahs = önde olan bir varis yüzünden pay alamamak.
+
+## Hacb-ı Hirman
+: Hacb-ı hirman = Varislerden birinin mirastan tamamen men olmasıdır.
+¶ Hacb-ı hirmana hiç uğramayan 6 kişi vardır. Bunlar: oğul, kız, anne, baba, karı, koca. «الْأَبَوَانِ، الزَّوْجَانِ، الِابْنُ وَالْبِنْتُ»
+### Hacb-ı hirmanın 3 kaidesi
+@ الْقَاعِدَةُ الْأُولَى: كُلُّ مَنْ يَصِلُ إِلَى الْمَيِّتِ بِوَاسِطَةٍ فَتُحْجَبُ بِتِلْكَ الْوَاسِطَةِ | [[Ölüye bir vasıta ile ulaşan, o vasıta ile hacbolur.]]
+@ مِثَال: ابْنُ الِابْنِ يُحْجَبُ بِالِابْنِ، وَالْجَدُّ يُحْجَبُ بِالْأَبِ، وَأُمُّ الْأُمِّ تُحْجَبُ مَعَ الْأُمِّ، وَبِنْتُ الِابْنِ تُحْجَبُ مَعَ الِابْنِ
+@ اسْتِثْنَاء: وَاسْتُثْنِيَتْ مِنْ هَذِهِ الْقَاعِدَةِ الْأَخُ وَالْأُخْتُ لِأُمٍّ يَصِلَانِ إِلَى الْمَيِّتِ بِوَاسِطَةِ الْأُمِّ وَلَكِنَّهُمَا لَا يُحْجَبَانِ مَعَ وُجُودِ الْأُمِّ
+@ الْقَاعِدَةُ الثَّانِيَة: خَاصَّةٌ بِالْعَصَبَةِ، وَهِيَ التَّقْدِيمُ بِالْجِهَةِ وَالتَّقْدِيمُ بِالدَّرَجَةِ وَالتَّقْدِيمُ بِالْقَرَابَةِ
+@ الْقَاعِدَةُ الثَّالِثَة: الْأُصُولُ لَا يُحْجَبُونَ إِلَّا بِالْأُصُولِ، وَالْفُرُوعُ لَا يُحْجَبُونَ إِلَّا بِالْفُرُوعِ، وَالْحَوَاشِي يُحْجَبُونَ بِالْأُصُولِ وَالْفُرُوعِ وَالْحَوَاشِي | (havâşî: usul ve fürû dışındaki asabeler)
+| Kaide | Özü | İstisna / not
+| **1. Vasıta kaidesi** | [[Ölüye bir vasıtayla ulaşan o vasıtayla düşer (oğlun oğlu oğulla, dede babayla)]] | [[Anne bir kardeşler anne ile düşmez]]
+| **2. Asabe kaidesi** | [[Cihet, derece ve karâbetle öncelik]] | [[Yalnız asabeler arasında]]
+| **3. Usul–fürû–havâşî** | [[Usul yalnız usulle, fürû yalnız fürûla düşer; havâşî üçüyle de düşer]] | —
+* Hacb-ı hirmana hiç uğramayan 6 kişi: oğul, kız, anne, baba, karı, koca.
+* Vasıta kaidesinin istisnası: anne bir kardeşler ölüye anne vasıtasıyla ulaştıkları halde anne ile hacbolmaz.
+
+## Hacb-ı Noksan
+: Hacb-ı noksan = Varislerden birinin payının azalmasıdır.
+?? Hacb bilvasf ve hacb bişşahs arasında ne fark vardır? | Hacb bilvasf olduğu zaman mahcub olan kişi yok hükmündedir. Kendisi mirastan pay alamadığı gibi hiç kimsenin payını da etkileyemez (misal: «زوجة، أب، ابن قاتل»). Hacb bişşahs ile mahcub olan kimse ise mirastan pay almamakla beraber başkasının payını etkiler. Yani pay almadığı halde var hükmündedir (misal: «أب، أم، أخ ش (2)»).
+### Hacb-ı noksanın meydana gelme şekilleri
+#### 1. Ashâb-ı ferâizin payının azalması «الِانْتِقَالُ مِنْ فَرْضٍ إِلَى فَرْضٍ أَقَلَّ مِنْهُ»
+| Varis | Normal payı | Düştüğü pay | Ne zaman
+| **Koca** | 1/2 | 1/4 | Ölenin fürûu varsa
+| **Karı** | 1/4 | 1/8 | Ölenin fürûu varsa
+| **Anne** | 1/3 | 1/6 | Ölenin fürûu veya birden fazla kardeşi varsa
+| **Oğlun kızı** | 1/2 | 1/6 | Ölenin kızı varsa
+| **Baba bir kız kardeş** | 1/2 | 1/6 | Öz kız kardeş ile beraber
+#### 2. Ashâb-ı ferâizin asabeye dönüşmesi «الِانْتِقَالُ مِنْ فَرْضٍ إِلَى التَّعْصِيبِ»
+¶ Mirasın yarısını yani 1/2 alan kadınlar, kardeşleriyle beraber olunca asabeye dönüşürler. Kız oğul ile, oğlun kızı oğlunun oğlu ile, öz kız kardeş öz erkek kardeş ile, baba bir kız kardeş baba bir erkek kardeş ile beraber olunca payları 1/2'den asabeliğe dönüşür.
+#### 3. Asabelikten ashâb-ı ferâize dönüşmesi «الِانْتِقَالُ مِنَ التَّعْصِيبِ إِلَى الْفَرْضِ»
+¶ Bu madde baba ve dedeyi kapsamaktadır. Baba ve dede normalde asabe olarak malın tamamını alırlar. Ancak ölenin erkek fürûu ile beraber aynı meselede bulundukları zaman asabelik yönleri hacbolup sadece ashâb-ı ferâiz olarak kendi farzlarını alırlar.
+#### 4. Asabe maa’l-gayrdan asabe bi’l-gayra intikal etmesi «الِانْتِقَالُ مِنَ الْعَصَبَةِ مَعَ الْغَيْرِ إِلَى الْعَصَبَةِ بِالْغَيْرِ»
+¶ Öz kız kardeş veya baba bir kız kardeş bir meselede ölenin kızı veya oğlunun kızı ile beraber bulunduklarında asabe maa’l-gayr olurlar. Aynı meselede öz kız kardeşinin yanına öz erkek kardeş veya baba bir kız kardeşin yanına baba bir erkek kardeş eklenince artık o kız kardeşler asabe maa’l-gayr olmaktan çıkıp kendi erkek kardeşleri ile beraber asabe bi’l-gayr olurlar. Bu da paylarının düşmesine sebep olur.
+* Hacb bilvasf ile düşen yok hükmündedir, kimsenin payını etkilemez; hacb bişşahs ile düşen başkasının payını etkileyebilir (iki kardeş babayla düşer ama annenin payını 1/6’ya indirir).
+* Hacb-ı noksanın 4 şekli: daha az farza inmek, farzdan asabeliğe, asabelikten farza (baba ve dede), maa’l-gayrdan bi’l-gayra geçmek.
+
+## Ashâb-ı Ferâiz ve Kırk Hal
+: Ashâb-ı ferâiz = Kitap, Sünnet ve İcmâda kendilerine belli bir pay takdir edilmiş olan kimselerdir.
+¶ Ashâb-ı ferâiz, dördü erkek sekizi kadın olmak üzere on iki kişidir. Kırk hal dediğimiz durum da bu on iki kişinin halleridir.
+| Varis | Tabloda | Hal sayısı
+| **1. Koca** | «زوج» | 2
+| **2. Karı** | «زوجة» | 2
+| **3. Baba** | «أب» | 3
+| **4. Dede** | «الجد الصحيح / أب الأب» | 4
+| **5. Ana bir erkek kardeş** | «بنو الأخياف» | 3
+| **6. Ana bir kız kardeş** | «بنو الأخياف» | 3
+| **7. Kız** | «بنت» | 3
+| **8. Oğlun kızı** | «بنت الابن» | 6
+| **9. Ana baba bir kardeşler** | «بنو الأعيان» | 5
+| **10. Baba bir kardeşler** | «بنو العلات» | 7
+| **11. Anne** | «أم» | 3
+| **12. Nine** | «أم الأم / أم الأب» | 2
+| **Toplam** | | **40 hal**
+! Ashâb-ı ferâizden bazıları bazen sadece asabe olurlar. Bunlardan yalnızca baba ve dede aynı anda hem ashâb-ı ferâiz hem de asabe olabilirler.
+* Ashâb-ı ferâiz 12 kişidir (4 erkek, 8 kadın); halleri toplam 40’tır. Yalnızca baba ve dede aynı anda hem farz sahibi hem asabe olabilir.
+
+## Kur'an'daki Altı Pay
+¶ Kur'an-ı Kerim'de zikredilen 6 pay vardır. Bunlar:
+| Pay | Arapça | Kimler alır | Kişi sayısı
+| **1/2** | «النصف» | «الزوج، والبنت، وبنت الابن، والأخت الشقيقة، والأخت لأب» | 5
+| **1/4** | «الربع» | «الزوج والزوجة» | 2
+| **1/8** | «الثمن» | «الزوجة» | 1
+| **2/3** | «الثلثان» | «البنت، وبنت الابن، والأخت الشقيقة، والأخت لأب» | 4
+| **1/3** | «الثلث» | «الأم، والأخت لأم» | 2
+| **1/6** | «السدس» | «الأب، والجد، والأم، والجدة الصحيحة، وبنت الابن، والأخت لأب، والأخت لأم» | 7
+! Kur'an-ı Kerim'de toplam 6 pay 21 varise verilmiştir. Burada ismi zikredilen 21 kişiden bazılarının asabe oldukları durumları da göz önünde bulundurduğumuz zaman toplam 40 hal ortaya çıkmaktadır.
+! Bu 6 payın yanında bir de sadece anneye has olan kalanın üçte biri «ثُلُثُ الْبَاقِي» diye bir pay vardır ki o da ileride gelecektir.
+* Altı pay: 1/2 (5 kişi), 1/4 (2), 1/8 (1), 2/3 (4), 1/3 (2), 1/6 (7) → 21 varis; asabelik halleriyle 40 hal. Ayrıca anneye has “kalanın üçte biri”.

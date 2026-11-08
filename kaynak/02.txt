@@ -1,0 +1,81 @@
+# Feraiz Istılahları
+> Feraiz ilminde kullanılan 33 temel terim: pay ve varis adları, kardeş grupları, asabe ve hacb, avl–red–âdile, tashih ve nisbetler, tehârüc ve münâsaha.
+
+## Pay ve Varislerle İlgili Terimler
+: Farz «الْفَرْض» = Şâriin vâris için takdir ettiği paydır. 1/6, 1/2, 1/8 gibi...
+: Ashâb-ı ferâiz «أَصْحَابُ الْفَرَائِض» = Kitapta (karı gibi), sünnette (nene gibi) veya icmâda (dede gibi) kendilerine mukadder bir pay verilen kimselerdir.
+: Sehm «السَّهْم» = Her bir vârise verilen miktara denir.
+~ Mahrecin 24 olduğu bir meselede ölen kişi geride bir kız çocuğu ve baba bırakmışsa bu kız çocuğunun aldığı pay 1/2'dir. Buna «فَرْض» denir. Bu 1/2 kızın 24'ten 12 pay alacağı anlamına gelir. Bu aldığı 12'ye ise «سَهْم» veya «نَصِيب» denir.
+: Mahreç = Terikenin kaç sehime bölündüğünü gösteren sayı; ortak payda.
+: Cem’ ve aded «الْجَمْعُ وَالْعَدَد» = Bir meseledeki birden fazla varis anlamına gelir. Mesela iki tane kız varsa buna cem’ denir. İbn Abbas’a göre cem’ olması için en az üç kız olmalı.
+: Asıl «الْأَصْل» = Baba, anne, babanın babası ve yukarısı, anneanne ve babaanne. (Annenin babası ceddü’l-fâsid, annenin babasının annesi ceddetü’l-fâside.)
+: Fer’ «الْفَرْع» = Ölen kişinin oğlu, kızı, oğlunun oğlu, oğlunun kızı ve aşağısını ifade eder.
+: Havâşî «الْحَوَاشِي» = Usul ve fürû dışındaki akrabalar. (Erkek ve kız kardeşler ve onların çocukları, amcalar ve çocukları)
+: Vâris «الْوَارِث» = Varis demektir; malı alacak kimse.
+: Mûris «الْمُورِث» = Miras bırakan kişi.
+: Mevrûs / Terike = Ölünün geride bıraktığı mal varlığı.
+: Tevrîs = Varis kılmak.
+* Farz = şâriin takdir ettiği pay (1/2, 1/6…); sehm = o payın mahreçteki karşılığı (24’te 12 gibi).
+* Asıl: baba, anne, dedeler, neneler. Fer’: oğul, kız, oğlun oğlu, oğlun kızı ve aşağısı. Havâşî: kardeşler, amcalar ve çocukları.
+
+## Kardeş Grupları
+: Benü’l-a’yân «بَنُو الْأَعْيَان» = Anne baba bir kız ve erkek kardeşlere denir: «الْأَخُ الشَّقِيقُ وَالْأُخْتُ الشَّقِيقَة». (Mesele çözerken «أخ ش»، «أخت ش» şeklinde yazılır.)
+: Benü’l-allât «بَنُو الْعَلَّات» = Baba bir kız ve erkek kardeşlere denir: «الْأَخُ لِأَبٍ وَالْأُخْتُ لِأَبٍ». (Mesele çözerken «أخ لأب»، «أخت لأب» şeklinde yazılır.)
+: Benü’l-ahyâf «بَنُو الْأَخْيَاف» = Anne bir kız kardeşlere ve erkek kardeşlere denir. (Mesele çözerken «أخ لأم»، «أخت لأم» şeklinde yazılır.)
+| Grup | Kimler | Tabloda yazılışı
+| **Benü’l-a’yân** | Anne baba bir (öz) kardeşler | «أخ ش» · «أخت ش»
+| **Benü’l-allât** | Baba bir kardeşler | «أخ لأب» · «أخت لأب»
+| **Benü’l-ahyâf** | Anne bir kardeşler | «أخ لأم» · «أخت لأم»
+* Benü’l-a’yân öz, benü’l-allât baba bir, benü’l-ahyâf anne bir kardeşlerdir.
+
+## Asabe, Hacb ve Mahrumiyet
+: Asabe «الْعَصَبَة» = Sözlükte baba tarafından olan akraba demektir. Bir ve birden ziyade erkeğe ve kadına söylenir. (Mutlak olarak asabe denince akla asabe binefsihi gelir.) Muayyen hisse sahipleri yani ashâb-ı ferâiz kendi hisselerini aldıktan sonra geriye kalanı alırlar. Ashâb-ı ferâiz yoksa malın tamamını alırlar. (Mesele çözerken «ع» diye yazılır.)
+: Hacb «الْحَجْب» = Bir veya birkaç şahsın mirastan alacakları payların tamamının veya bir kısmının engellenmesidir.
+¶ Hacb ikiye ayrılır: 1. Hacb bilvasf, 2. Hacb bişşahs. Mirası engelleyen üç sebep vardır. Bu üç sebepten bir tanesi ile mirastan men olmaya hacb bilvasf (mahrum) denir.
+¶ Hacb bişşahs ikiye ayrılır: Hacb-ı hirman, hacb-ı noksan. Hacb-ı hirman bir kişinin mirastan alacağı payın tamamen engellenmesidir; oğlun kardeşleri hacbetmesi gibi. Hacb-ı noksan ise bir kişinin mirastan alacağı payın bir kısmının engellenmesidir; oğlun karının payını 1/4'ten 1/8’e düşürmesi gibi.
+: Mahcûb «الْمَحْجُوب» = Hacbolan kişi demektir. (Mesele çözerken «م» diye yazılır.)
+: Mahrûm «الْمَحْرُوم» = Katl gibi bir sebepten dolayı normalde pay alacakken mirastan men olan kişi. (Mesele çözerken «مح» diye yazılır.)
+: Sâkıt = Mirastan tamamen düşen.
+| İşaret | Anlamı
+| «ع» | Asabe (kalanı alır)
+| «م» | Mahcûb (başka bir varis yüzünden düştü)
+| «مح» | Mahrûm (katl gibi bir mâni yüzünden düştü)
+* Tablo işaretleri: «ع» asabe, «م» mahcûb, «مح» mahrûm.
+* Hacb-ı hirman payın tamamen, hacb-ı noksan bir kısmının engellenmesidir (oğul karının payını 1/4’ten 1/8’e düşürür).
+
+## Mesele Türleri: Avl, Red, Âdile
+: Avl «الْعَوْل» = Varislerin sehimlerinin/paylarının toplamının mahreçten büyük olduğu meselelerdir.
+@ أَنْ تَزِيدَ سِهَامُ الْفَرِيضَةِ عَنْ أَصْلِ هَذِهِ الْمَسْأَلَةِ فَيَدْخُلَ النُّقْصَانُ عَلَى أَهْلِ الْفَرَائِضِ | Misal: «زوج، أخت ش، أخت لأب»
+: Red «الرَّدّ» = Varislerin paylarının toplamının mahreçten küçük olduğu meselelerdir. Bir meselenin reddiye olabilmesi için asabelerden kimsenin olmaması gerekir.
+@ نَقْصٌ فِي أَصْلِ الْمَسْأَلَةِ وَزِيَادَةٌ فِي مَقَادِيرِ السِّهَامِ الْمَفْرُوضَةِ | Misal: «أخت ش، أخت لأب»
+: Âdile «عَادِلَة» = Varislerin paylarının toplamının mahrece eşit olduğu meselelerdir.
+: el-Aslü’l-âdil «الْأَصْلُ الْعَادِل» = Âdile meselelerindeki mahrece denir.
+: el-Aslü’n-nâkıs «الْأَصْلُ النَّاقِص» = Reddiye meselelerindeki mahrece denir. Mesela mahreç 6 iken payların toplamı 4 çıkıyorsa bu dörde aslü’n-nâkıs denir.
+: el-Aslü’l-âil «الْأَصْلُ الْعَائِل» = Avliye meselelerindeki mahrece denir.
+| Mesele | Sihamların toplamı | Mahrecin adı
+| **Âdile** | Mahrece eşit | el-Aslü’l-âdil
+| **Avliye** | Mahreçten büyük | el-Aslü’l-âil
+| **Reddiye** | Mahreçten küçük (asabe yok) | el-Aslü’n-nâkıs
+* Toplam = mahreç → âdile; toplam > mahreç → avliye; toplam < mahreç ve asabe yok → reddiye.
+
+## Tashih ve Dört Nisbet
+: Tashih «التَّصْحِيح» = Varislerden bazılarının payının aded-i rüûsa tam bölünememesi sebebiyle yapılan işlemdir. Misal: Dinariye meselesi. (tashîhu’l-inkisâr)
+: İnkisar «إِنْكِسَار» = Varislerden bazılarının payının aded-i rüûsa tam bölünememesiyle ortaya çıkan küsuratlı duruma denir.
+: Cüz’ü’s-sehm «جُزْءُ السَّهْم» = Mesele tashih edilirken payların çarpıldığı sayıdır.
+: en-Nisebü’l-erbaa «النِّسَبُ الْأَرْبَعَة» = Aded-i rüûs ile sihâm arasındaki temâsül, tedâhül, tevâfuk ve tebâyün durumlarına denir.
+: Temâsül «التَّمَاثُل» = Aded-i rüûs ile sihâm aynı ise buna temâsül denir. Mesela bir meselede üç amca varsa ve üç amcaya düşen pay da üç ise bu üçler arasında temâsül vardır.
+: Tedâhül «التَّدَاخُل» = Aded-i rüûs ile sihâmın birbirine bölünebilmesidir. Misal: 3=6, 4=8. Diğer bir ifade ile sayılardan biri diğerinin katıdır.
+: Tevâfuk «التَّوَافُق» = Aded-i rüûs ile sihâmın birbirine bölünemeyip üçüncü bir ortak bölene kalansız bölünebilmesidir. Bu ortak sayıya «الْقَاسِمُ الْمُشْتَرَك» denir. Misal: 4=6, ikisinin ortak böleni 2’dir.
+: Tebâyün «التَّبَايُن» = Aded-i rüûs ile sihâmın birbirine bölünemeyip üçüncü bir ortak bölene de kalansız bölünememesidir. Misal: 4 ile 3 birbirine bölünmezler. Aynı zamanda aralarında ortak bir bölen de yoktur.
+| Nisbet | Ne demek | Misal
+| **Temâsül** | İki sayı aynı | 3 amca – 3 sehim
+| **Tedâhül** | Biri diğerinin katı | 3–6, 4–8
+| **Tevâfuk** | Birbirine bölünmez, ortak böleni var | 4–6 (ortak bölen 2)
+| **Tebâyün** | Birbirine bölünmez, ortak böleni yok | 4–3
+* Dört nisbet (aded-i rüûs ile sihâm arasında): temâsül (eşit), tedâhül (biri diğerinin katı), tevâfuk (ortak böleni var), tebâyün (ortak böleni yok).
+* Cüz’ü’s-sehm: tashihte payların çarpıldığı sayı.
+
+## Tehârüc ve Münâsaha
+: Tehârüc «التَّخَارُج» = Varislerden birinin veya birkaçının terikeden muayyen bir miktar mal alarak mirastan çekilmek için diğer varisler ile sulh yapmasıdır.
+: Münâsaha «الْمُنَاسَخَة» = Ölen kişinin mirası henüz paylaştırılmadan varislerden birinin ölmesidir. Münâsaha birkaç dereceli olabilir. Yani vefat eden kişinin malı paylaştırılmadan daha sonra gelen varisler vefat etmiş olabilir.
+* Tehârüc: bir varisin mal karşılığında sulh ile mirastan çekilmesi. Münâsaha: miras paylaştırılmadan bir varisin de ölmesi.

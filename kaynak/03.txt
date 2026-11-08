@@ -1,0 +1,93 @@
+# Asabe
+> Asabenin tanımı ve kısımları: asabe binefsihi ve öncelik sırası (cihet, derece, kuvvet-i karâbet), asabe bi-gayrihi, asabe maa’l-gayr ve asabe-i sebebiyye.
+
+## Asabenin Tanımı ve Kısımları
+: Asabe «الْعَصَبَة» = Sözlükte baba tarafından olan akraba demektir. Bir ve birden ziyade erkeğe ve kadına söylenir. (Mutlak olarak asabe denince akla asabe binefsihi gelir.) Muayyen hisse sahipleri yani ashâb-ı ferâiz kendi hisselerini aldıktan sonra geriye kalanı alırlar. Ashâb-ı ferâiz yoksa malın tamamını alırlar.
+¶ Asabe ikiye ayrılır:
+- a. Asabe-i nesebiyye
+- b. Asabe-i sebebiyye
+: Asabe-i nesebiyye = Ölenle neseb/kan yönünden hısımlı olan kimselerdir ki bunlar üçe ayrılır: asabe binefsihi, asabe bi-gayrihi, asabe maa’l-gayr.
+| Asabe | Kısmı | Kimler
+| **Asabe-i nesebiyye** | Binefsihi | Ölene araya kadın girmeden ulaşan erkekler
+| | Bi-gayrihi | Erkek kardeşleriyle asabe olan kadınlar
+| | Maa’l-gayr | Başka bir kadınla asabe olan kadınlar
+| **Asabe-i sebebiyye** | — | Mevle’l-atâka (azad eden)
+* Asabe ashâb-ı ferâizden kalanı, onlar yoksa malın tamamını alır. Kısımları: nesebiyye (binefsihi, bi-gayrihi, maa’l-gayr) ve sebebiyye.
+
+## Asabe Binefsihi
+: Asabe binefsihi = Vefat eden kimse ile araya kadın girmeden ulaşan erkek yakınlardır. Baba, oğul, babanın babası, oğlun oğlu gibi...
+### Bu asabelerin öncelik sıralaması
+1. Oğul
+2. Oğlun oğlu
+3. Oğlun oğlunun oğlu
+4. Baba
+5. Dede
+6. Babanın babasının babası
+7. Öz erkek kardeş
+8. Baba bir erkek kardeş
+9. Öz erkek kardeş oğlu
+10. Baba bir erkek kardeş oğlu
+11. Öz amca
+12. Baba bir amca
+13. Öz amca oğlu
+14. Baba bir amca oğlu
+- Bu asabeler bir meselede tek başına iseler malın tamamını alırlar. Misal: tek öz erkek kardeş.
+- Bu asabeler ashâb-ı ferâiz ile bulununca ashâb-ı ferâiz paylarını aldıktan sonra kalanı alırlar. Misal: karı, 4 tane baba bir kardeş ve amca.
+- Bazen ashâb-ı ferâiz paylarını aldıktan sonra geriye asabe için hiç mal kalmaz. Misal: koca, öz kız kardeş ve amca.
+* Asabe binefsihi sırası: oğul › oğlun oğlu › baba › dede › öz erkek kardeş › baba bir erkek kardeş › bunların oğulları › öz amca › baba bir amca › amca oğulları.
+
+## Asabeler Arasında Öncelik
+?? Asabelerde öncelik sıralaması nasıldır? Hangi asabenin diğer asabeden önce geldiği neye göre belirlenir? | Bir asabenin diğer bir asabeye tercih edilmesi ve öncelenmesi sırasıyla şu 3 maddeye göre yapılır: kurb-i cihet, kurb-i derece, kuvvet-i karâbet.
+### 1. Kurb-i cihet
+@ بُنُوَّة، أُبُوَّة، أُخُوَّة، عُمُومَة
+¶ Bu 4 maddeden her birine cihet denir. Buna göre bir meselede oğul varsa baba veya dede asabe olmaz. Bir meselede baba varsa kardeş, kardeş varsa amcalardan biri asabe olamazlar. Diğer bir ifade ile cihet yönünden önce gelen sonra geleni hacbeder.
+¶ Burada akıllara şu soru gelebilir: Bir meselede baba ve oğul varsa, oğul babayı hacbedebilir mi? Buradaki öncelik sonralık sıralaması sadece asabeler arasındadır. Baba ise hem asabedir hem de ashâb-ı ferâizdendir. Dolayısıyla evet, bir meselede baba ve oğul varsa, oğul babanın asabelik yönünü hacbeder yani baba malın kalanını alamaz. Ancak babanın ashâb-ı ferâiz olma özelliğini hacbedemez. Bir meselede oğul varsa bile baba yine ashâb-ı ferâizdendir ve Kur'an-ı Kerim'de kendisine belirtilmiş olan 1/6 payını alır. Dede konusunda da aynı durum söz konusudur.
+~ Misaller: «أب، ابن» — «أب، أخ ش» — «أخ ش، عم ش»
+### 2. Kurb-i derece
+: Kurb-i derece = Her bir cihet içerisindeki asabelerin yakından uzağa doğru olan sıralamasına denir.
+¶ Mesela «بُنُوَّة» ciheti içerisinde yer alan «ابن – ابن الابن – ابن ابن الابن» ayrı ayrı derecelerdirler. Buna göre bunuvvet ciheti içerisinde oğul varken oğlun oğlu, oğlun oğlu varken daha aşağısı asabe olamaz. Aynı şekilde ubuvvet ciheti içerisinde baba varken dede asabe olamaz. Uhuvvet ciheti içerisinde kardeş varken kardeşin oğlu asabe olamaz. Umûmet ciheti içerisinde amca varken amcanın oğlu asabe olamaz.
+~ Misaller: «زوجة، ابن، ابن الابن» — «زوج، عم، ابن العم»
+### 3. Kuvvet-i karâbet
+: Kuvvet-i karâbet = Aynı cihet ve derece içerisinde yer alan asabelerin murise olan yakınlıklarının kuvvetini ifade eder.
+¶ Burada kastedilen sadece öz erkek kardeşin baba bir erkek kardeşe olan üstünlüğüdür. Bir meselede öz erkek kardeş varsa baba bir erkek kardeş asabe olamaz.
+~ Misaller: «زوجة، أخ ش، أخ لأب» — «زوج، عم ش، عم لأب»
+| Ölçü | Ne demek | Örnek
+| **1. Kurb-i cihet** | Bunuvvet › ubuvvet › uhuvvet › umûmet | Oğul varken baba asabe olmaz
+| **2. Kurb-i derece** | Aynı cihette yakın olan uzağı düşürür | Oğul varken oğlun oğlu asabe olmaz
+| **3. Kuvvet-i karâbet** | Aynı cihet ve derecede öz olan baba bir olanı düşürür | Öz erkek kardeş varken baba bir erkek kardeş asabe olmaz
+* Asabeler arasında öncelik sırasıyla: kurb-i cihet (bunuvvet, ubuvvet, uhuvvet, umûmet), kurb-i derece, kuvvet-i karâbet.
+* Oğul babanın asabelik yönünü hacbeder ama 1/6’sını hacbedemez; dede için de aynısı geçerlidir.
+
+## Asabe Bi-gayrihi
+: Asabe bi-gayrihi = Erkek kardeşleri ile birlikte olunca asabe olan, erkek kardeşleri olmayınca da belirli pay sahibi olan kadınlardır.
+¶ Bunlar 5 sınıftır:
+- Kız oğlanla beraber,
+- Oğlun kızı kendi derecesinde bulunan oğlunun oğlu ile beraber,
+- Oğlun kızı kendisinden daha aşağıdaki bir oğul ile asabe bi-gayrihi olabilir. Ancak o oğlun kızının normalde mahcub olması şartıyla. Misal: 2 kız, 1 oğlun kızı bir de oğlun oğlunun oğlu. (Buradaki kardeş «ابن المبارك»)
+- Ana baba bir kız kardeş ana baba bir erkek kardeşiyle beraber,
+- Baba bir kız kardeş baba bir erkek kardeşiyle beraber asabe olur.
+! Bir meselede öz kız kardeş ve baba bir erkek kardeş varsa burada asabelik söz konusu olmaz. Öz kız kardeş 1/2 alır, baba bir erkek kardeş kalanı alır. Yani burada öz kız kardeş ile baba bir erkek kardeş beraber asabe olup ikili birli almazlar. Aynı şekilde öz erkek kardeş ile baba bir kız kardeş bir meselede bulunduğu zaman da asabe olup malı paylaşmaları söz konusu değildir. Öz erkek kardeş asabedir. Baba bir kız kardeş hacb olur.
+! Asabe bi-gayrihi murisin fürûu ne kadar aşağı inerse insin devam eder. Mesela dördüncü kuşaktaki oğul dördüncü kuşaktaki kızı asabe yapar. Ancak bu durum sadece murisin fürûu konusunda böyledir. Murisin kardeşlerinin çocukları böyle değildir. Mesela murisin kız kardeşi erkek kardeşiyle beraber asabe bi-gayrihi olur. Ancak murisin erkek kardeşinin oğlu murisin erkek kardeşinin kızını asabe yapmaz.
+: İbnü’l-mübârek «ابْنُ الْمُبَارَك» = Kendisinden yukarıdaki, normalde mahcub olan oğlun kızını asabe bi-gayrihi yapan aşağı derecedeki oğul (misal: 2 kız, oğlun kızı, oğlun oğlunun oğlu).
+* Asabe bi-gayrihi 5 sınıf: kız (oğulla), oğlun kızı (oğlun oğluyla veya aşağıdaki oğulla), öz kız kardeş (öz erkek kardeşle), baba bir kız kardeş (baba bir erkek kardeşle).
+* Asabe bi-gayrihi fürûda ne kadar aşağı inerse insin devam eder; kardeş çocuklarında olmaz (kardeşin oğlu kız kardeşini asabe yapmaz).
+
+## Asabe Maa’l-gayr
+: Asabe maa’l-gayr = Diğer bir kadın ile bulunduklarında asabe olan kadınlardır.
+- Öz kız kardeş: kızla veya oğlun kızı veyahut oğlun oğlunun kızı ile beraber. (Örneğin bir meselede kız ve öz kız kardeş varsa kız malın yarısını alır, geri kalanı kız kardeş alır çünkü asabedir.)
+- Baba bir kız kardeş: kızla veya oğlun kızı veyahut oğlunun oğlunun kızı ile beraber olunca asabe olurlar.
+?? Asabe bi-gayrihi ile maa’l-gayr arasında ne fark vardır? | Aralarında 3 fark vardır: (1) Asabe bi-gayrihi, kadınların erkeklerle aynı meselede bulunması ile olur; asabe maa’l-gayr ise kadınların kadınlarla beraber aynı meselede olması ile olur. (2) Asabe bi-gayrihi'de kadın ile erkek beraber aynı malı ikili birli paylaşırlar: «وَلِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ». (3) Asabe maa’l-gayr'de ise ashâb-ı ferâiz payını alır, asabe maa’l-gayr olan kişi kalanı alır. Bazen de hiçbir şey kalmaz. Misal: kız, oğlun kızı ve öz kız kardeş. Misal: koca, 2 kız, anne, öz kız kardeş.
+~ Misaller: «بنت، أخت لأب، عم ش» — «بنت، أخت ش، عم ش» — «بنت، أخت ش» — «بنت (2)، بنت ابن، أخت ش، أخ لأب»
+@ قَاعِدَة: إِذَا اجْتَمَعَتْ عَصَبَةٌ بِغَيْرِهِ وَعَصَبَةٌ مَعَ غَيْرِهِ تُقَدَّمُ عَصَبَةٌ بِغَيْرِهِ عَلَى عَصَبَةٍ مَعَ غَيْرِهِ | Misal: «زوجة، بنت، أخت لأب، أخ لأب»
+| | Asabe bi-gayrihi | Asabe maa’l-gayr
+| **Kiminle** | Erkek kardeşiyle | Başka bir kadınla (kız, oğlun kızı)
+| **Kimler** | Kız, oğlun kızı, öz ve baba bir kız kardeş | Öz ve baba bir kız kardeş
+| **Nasıl alır** | Erkekle beraber ikili birli | Ashâb-ı ferâizden kalanı (bazen hiç kalmaz)
+* Asabe maa’l-gayr: öz veya baba bir kız kardeş, kız veya oğlun kızı ile beraber olunca kalanı alır.
+* Kaide: asabe bi-gayrihi ile asabe maa’l-gayr bir araya gelirse bi-gayrihi öne geçer.
+
+## Asabe-i Sebebiyye
+: Asabe-i sebebiyye = Mevle’l-atâka: bir köle veya cariyeyi, gerek erkek olsun gerek kadın olsun, azad eden kimsedir ve onun asabesidir.
+¶ Mesela azad edilmiş bir köle veya cariye öldüğünde neseb yönünden asabesi yoksa sıra sebebî asabelere gelir ki o da kendisini azad eden efendisidir. Efendi onun varisi olur.
+: Mevle’l-muvâlât yoluyla asabe = Bir kimse diğerine “sen benim velimsin; öldüğüm zaman bana varis olacaksın, bir cinayet işlediğim zaman benim yerime diyet ödeyeceksin” der ve o da kabul ederse aralarında asabelik oluşur.
+* Asabe-i sebebiyye: köleyi azad eden efendi (mevle’l-atâka); nesebî asabe yoksa varis olur.

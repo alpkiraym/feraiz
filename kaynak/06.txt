@@ -1,0 +1,97 @@
+# Mirasın Rükün, Şart, Sebep ve Mânileri
+> Mirasın üç rüknü ve üç şartı (murisin ölümü, varisin hayatta olması, yakınlık cihetinin bilinmesi), üç sebebi (neseb, nikâh, velâ) ve mirası engelleyen mâniler (kölelik, katl, din ve ülke ayrılığı).
+
+## Mirasın Rükünleri
+¶ Mirasın rükün, şart ve sebepleri «أَرْكَانُ الْمِيرَاثِ وَشُرُوطُهُ وَأَسْبَابُهُ»:
+1. Varis (miras alacaklar)
+2. Muris (miras bırakan ölü)
+3. Mevrûs (miras malı)
+* Mirasın rükünleri: varis, muris, mevrûs.
+
+## Mirasın Şartları
+### 1. Murisin ölümü «مَوْتُ الْمُورِث»
+¶ Ölüm üç kısma ayrılır: hakikaten ölüm, hükmen ölüm, takdiren ölüm.
+: Hakikaten ölüm «الْمَوْتُ الْحَقِيقِيّ» = Kişinin hakikaten ölmesidir. Bu da ya şahitlerin bildirmesi ya da duyma ile veya öldüğüne dair bir delilin elde edilmesiyle sabit olur.
+@ هُوَ انْعِدَامُ الْحَيَاةِ إِمَّا بِالْمُعَايَنَةِ كَمَا إِذَا شُوهِدَ مَيِّتًا، أَوْ بِالسَّمَاعِ أَوْ بِالْبَيِّنَةِ
+: Hükmen ölüm «الْمَوْتُ الْحُكْمِيّ» = Hâkimin hükmüyle sabit olan ölüm; mefkûdun ölümü gibi.
+@ هُوَ أَنْ يَكُونَ بِحُكْمِ الْقَاضِي، مِثَالُهُ: الْمَفْقُودُ. وَمَوْتُ الْمَفْقُودِ يَثْبُتُ بِشَهَادَةِ شَاهِدَيْنِ أَوْ بِحُكْمِ الْقَاضِي. وَإِذَا قَضَى الْقَاضِي بِحُكْمِ مَوْتِ الْمَفْقُودِ فَتَارِيخُ وَفَاتِهِ مِنْ وَقْتِ قَرَارِ الْقَاضِي
+¶ Mefkûdun ölümü ya iki şahidin şehadetiyle veya kâdının/hâkimin hükmetmesi ile belli olur. Bir kişinin ölü olduğuna dair hâkim tarafından karar verilmedikçe o kişi hayatta sayılır. Hâkim karar verdikten sonra ise o kişinin ölüm tarihi hâkimin karar verdiği gündür. Mefkûd olan kişi bir başkasına varis olmuşsa sağ bir şekilde geri dönünceye kadar veya ölü olduğuna hükmedilinceye kadar kendi payı bekletilir. Diğer varisler arasında taksim edilmez.
+: Takdiren ölüm «الْمَوْتُ التَّقْدِيرِيّ» = Ceza olarak düşürene ğurre (tam diyetin 20'de biri yani Hanefilere göre 500, cumhura göre 600 dirhem) diye bir tazminat ödettirilen, ana karnındaki yavrunun ölümüdür.
+@ هُوَ إِلْحَاقُ الشَّخْصِ بِالْمَوْتَى تَقْدِيرًا، وَذَلِكَ فِي الْجَنِينِ الَّذِي انْفَصَلَ بِجِنَايَةٍ عَلَى أُمِّهِ، وَهِيَ الَّتِي تُوجِبُ الْغُرَّةَ بِأَنْ يَضْرِبَ شَخْصٌ امْرَأَةً حَامِلًا فَتُلْقِيَ جَنِينًا مَيِّتًا فَتَجِبَ الْغُرَّةُ، وَتُقَدَّرُ بِنِصْفِ عُشْرِ الدِّيَةِ الْكَامِلَةِ. لَكِنِ اخْتَلَفَ الْفُقَهَاءُ فِي هَذَا الْجَنِينِ: قَالَ أَبُو حَنِيفَةَ إِنَّ هَذَا الْجَنِينَ يَرِثُ وَيُورَثُ لِأَنَّهُ يُقَدَّرُ أَنَّهُ كَانَ حَيًّا وَقْتَ الْجِنَايَةِ وَأَنَّهُ مَاتَ بِسَبَبِهَا، وَقَالَ الْجُمْهُورُ لَا يَرِثُ هَذَا الْجَنِينُ لِأَنَّهُ لَمْ تَتَحَقَّقْ حَيَاتُهُ فَلَمْ تَتَحَقَّقْ أَهْلِيَّتُهُ لِلتَّمَلُّكِ
+¶ Bu düşük çocuk takdiren ölmüş kabul edilir. Bu çocuk muris sayılır. Çocuğun düşmesine sebep olan muskitin «مُسْقِط» ödeyeceği ğurre ise terike sayılıp geri kalan varisler arasında paylaştırılır.
+¶ Eğer herhangi bir müdahale olmadan cenin kendisi anne karnında ölürse bütün alimlerin ittifakıyla o cenin mirastan pay alamaz «لَا يَرِثُ وَلَا يُورَثُ». Ancak cenin kürtaj veya anne karnına darp gibi dışarıdan bir müdahale ile ölürse bu durumda ceninin varis ve muris olup olamayacağı konusunda ihtilaf vardır:
+| Görüş | Hüküm | Gerekçe
+| **Cumhur** | «لا يرث ولا يورث» | Mirasın şartlarından biri hayatta olmaktır.
+| **Hanefî** | «يرث ويورث» | Dışarıdan bir müdahale ile hayatına son verildiği için çocuk hükmen de olsa hayatta sayılır.
+: Ğurre = Hamile kadına yapılan darp sonucu düşen cenin için ödenen tazminat; tam diyetin yirmide biri (Hanefilere göre 500, cumhura göre 600 dirhem).
+### 2. Vârisin hayatta olması «حَيَاةُ الْوَارِث»
+@ قَالَ تَعَالَى: ﴿يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ﴾ فَحَرْفُ اللَّامِ لِلتَّمْلِيكِ، وَالتَّمْلِيكُ لَا يَكُونُ إِلَّا لِحَيٍّ، فَلَا بُدَّ مِنْ تَحْقِيقِ حَيَاةِ الْوَارِثِ بَعْدَ مَوْتِ الْمُورِثِ وَلَوْ لِلَحَظَاتٍ
+: Hakikaten hayatta olmak «الْحَيَاةُ الْحَقِيقِيَّة» = Muris öldükten sonra varisin gerçek manada hayatta olması ve yaşıyor olmasıdır.
+: Hükmen hayatta olmak «الْحَيَاةُ الْحُكْمِيَّة» = Anne karnındaki ceninin hayatı. Muris vefat ettiği anda ceninin hayatta olduğu biliniyorsa ister mudğa olsun ister alaka şeklinde olsun o cenin hükmen hayatta sayılır ve mirasçı olur.
+@ وَالْجَنِينُ يَرِثُ وَيُورَثُ بِشَرْطَيْنِ: الْأَوَّلُ: أَنْ يَكُونَ حَيًّا فِي بَطْنِ أُمِّهِ لَحْظَةَ وَفَاةِ الْمُورِثِ، وَالثَّانِي: أَنْ يَخْرُجَ مِنْ بَطْنِ أُمِّهِ حَيًّا | [[Cenin iki şartla varis olur: murisin vefatı anında anne karnında hayatta olması ve anne karnından canlı doğması.]]
+### 3. Yakınlık cihetinin bilinmesi «الْعِلْمُ بِجِهَةِ الْمِيرَاث»
+¶ Vefat eden kişinin ardında kalan kimselerin vefat eden kişiyle aralarındaki yakınlık bağının bilinmesi. Bu yakınlık zevciyet, neseb veya velâ olabilir. Şayet bu durum bilinmiyorsa mirasçı olamazlar.
+| Şart | Kısımları
+| **1. Murisin ölümü** | Hakikaten · hükmen (mefkûd) · takdiren (ğurre gerektiren cenin)
+| **2. Varisin hayatta olması** | Hakikaten · hükmen (anne karnındaki cenin)
+| **3. Yakınlık cihetinin bilinmesi** | Zevciyet · neseb · velâ
+* Mirasın şartları: murisin ölümü (hakikî, hükmî, takdirî), varisin hayatta olması (hakikî, hükmî), yakınlık cihetinin bilinmesi.
+* Mefkûdun ölüm tarihi hâkimin karar günüdür; o güne kadar mefkûdun payı bekletilir.
+* Müdahale ile düşen cenin: Hanefîlere göre varis olur ve kendisine varis olunur; cumhura göre olmaz. Kendiliğinden ölen cenin ittifakla varis olmaz.
+
+## Mirasın Sebepleri
+### 1. Neseb «نَسَب»
+@ كُلُّ وَاحِدٍ مِنْ أَصْحَابِ الْفَرَائِضِ وَالْعَصَبَةِ وَذَوِي الْأَرْحَامِ يَصِلُونَ إِلَى الْمُورِثِ بِسَبَبِ النَّسَبِ، وَهُمْ يَتَشَكَّلُونَ مِنَ الْأُصُولِ وَالْفُرُوعِ وَالْحَوَاشِي
+¶ Varis ile muris arasındaki yakınlığın sebebinin kan bağı olmasıdır. Karı ve koca dışındaki bütün ashâb-ı ferâiz, asabe-i nesebiyye ve zevi'l-erhamın varis olmaları neseb sebebi ile gerçekleşmektedir.
+### 2. Nikâh «نِكَاح»
+@ إِذَا تَمَّ عَقْدُ النِّكَاحِ بَيْنَ الزَّوْجَيْنِ سَيَثْبُتُ التَّوَارُثُ بَيْنَهُمَا وَلَا يُشْتَرَطُ فِيهِ الدُّخُولُ وَالْخَلْوَةُ، وَإِذَا كَانَ الْعَقْدُ بَاطِلًا أَوْ فَاسِدًا لَا تَوَارُثَ بَيْنَهُمَا
+¶ Eşler arasında nikâh kıyıldıktan sonra zifaf ve halvet meydana gelmese bile birbirlerine mirasçı olurlar. Boşanma durumunda kadın ric'î talaktan dolayı iddet bekliyorsa kocasına mirasçı olur. Eğer talak bâin ise mirasçı olmazlar. Fasid ve batıl nikâhlarda ise tevârüs yoktur.
+### 3. Velâ «وَلَاء»
+¶ Velâ iki kısımdır:
+: Mevle’l-atâka = Bir kimsenin kölesini azad etmesi veya müdebber yahut cariye bulunan yakın akrabasını satın alması gibi. Burada köle değil onu azad eden mirasçı olur. Köle mirasçı olmaz.
+: Mevle’l-muvâlât = Nesebi bilinmeyen bir kimsenin başka bir kimseye “sen benim mevlamsın. Ölürsem benim vârisimsin. Bir cinayet işlersem diyetimi sen ödersin” dese ve o kimse de öylece kabul etse bir muvâlât akdi yapılmış olur ki ikinci şahıs nesebi bilinmeyen birinci şahsın mevlası olur.
+* Mirasın sebepleri: neseb (eşler dışındaki bütün varisler), nikâh (zifaf şart değil; ric'î talakın iddetinde miras var, bâinde yok; fasid ve batıl nikâhta yok), velâ (atâka ve muvâlât).
+
+## Mirasın Mânileri
+¶ Mezhep alimlerinin tamamı 3 mâni hakkında ittifak etmişlerdir «الرِّقُّ وَالْقَتْلُ وَاخْتِلَافُ الدِّين». Hanefi mezhebi mirası engelleyen bu üç maddeye ek olarak «اخْتِلَافُ الدَّار» maddesini eklemişlerdir. Maliki mezhebine göre ise mirası engelleyen maddeler 7 tanedir.
+### Hanefi mezhebine göre irsin mânileri
+¶ Mirası engelleyen 3 durum vardır: Bunlar kölelik, katl ve din ayrılığıdır. Kölelik ve din ayrılığı iki tarafın da birbirine mirasçı olmasını engeller. Adam öldürme ise sadece katilin öldürülene varis olmasını engeller. Ancak maktul katile varis olabilir. Mesela katil maktulde öldürücü bir yaraya sebep olursa ve kendisi maktulden önce herhangi bir sebeple vefat ederse, şayet aralarında mirasın sebeplerinden biri varsa maktul katile mirasçı olabilir.
+@ مَوَانِعُ الْإِرْثِ ثَلَاثَةٌ: اثْنَانِ مِنْهَا تَمْنَعُ الْمِيرَاثَ مِنْ جَانِبَيْنِ وَهُمَا الرِّقُّ وَاخْتِلَافُ الدِّينِ، وَوَاحِدٌ مِنْهَا تَمْنَعُ الْإِرْثَ مِنْ جَانِبٍ وَاحِدٍ وَهُوَ الْقَتْلُ، فَالْقَاتِلُ لَا يَرِثُ مِنَ الْمَقْتُولِ وَلَكِنَّ الْمَقْتُولَ يَرِثُ مِنَ الْقَاتِلِ إِذَا تُوُفِّيَ الْقَاتِلُ قَبْلَ مَوْتِ الْمَقْتُولِ
+### 1. Kölelik «الرِّقّ»
+¶ Kölelik gerek tam olsun ve gerekse köle müdebber, ümm-i veled veya mu'teku'l-ba'z olsun mirastan mahrumiyete sebeptir.
+¶ Mesela bir kimse ölse ve oğlu Zeyd bir başkasının kölesi bulunsa, Zeyd babasına vâris olamaz. Çünkü kölenin malı efendisine aittir. Bu takdirde Zeyd babasına vâris olsaydı, yabancı bulunan efendisinin vâris olması anlamına gelirdi ki yabancının yabancıya vâris olması icmâ ile batıldır.
+: Müdebber = Efendisi tarafından azad edilmesi efendisinin ölümüne bağlanmış köledir.
+: Ümmü veled = Efendisinden çocuk doğurmuş bulunan cariyedir. Ümmü veled azad olmaktan başka bir surette mevlasının mülkünden çıkmaz. Mevla ölür ölmez ümmü veled azad olur.
+: Mu'teku'l-ba'z = Kısmen azadlı köledir. Bir kölenin 1/3'ünün azad olması gibi. Böyle azadlama sadece İmam-ı Âzam'a göredir. İmameyn ve diğer üç mezhebe göre kısmen azad olunmuş bir köle, tamamen azad edilmiş olur.
+### 2. Katl «الْقَتْل»
+¶ İslam hukukunda katlin iki ana şekli vardır:
+#### A. Özür veya hakka dayanan katl «قَتْلٌ بِحَقٍّ أَوْ عُذْرٍ»
+1. Kısas «الْقِصَاص»: Celladın murisine kısas uygulaması,
+2. Had «الْحَدّ»: Mürted olup dinden çıkanın öldürülmesi,
+3. Nefsi müdafaa «دِفَاعٌ عَنِ النَّفْس»: Nefsini, malını veya ırzını korumak amacıyla birini öldürme.
+¶ Öldürme bu şekilde gerçekleşmiş ise burada kısas, diyet, kefaret ve günah yoktur. Aynı zamanda bu tarz bir öldürme mirasa engel de değildir.
+#### B. Özür veya hakka dayanmayan katl «قَتْلٌ بِغَيْرِ حَقٍّ أَوْ عُذْرٍ»
+: Amden katl «الْقَتْلُ الْعَمْد» = Öldürücü bir alet ile kasten vurup öldürme. Kısas gerektirir.
+: Şibh-i amd «شِبْهُ الْعَمْد» = Öldürücü olmayan bir alet ile kasten vurup öldürme. Burada fiil kastı vardır. Ancak öldürme kastı yoktur. Kefaret (yani bir köle azad etme veya 60 gün oruç tutma) ve diyet (yani yüz deve) gerektirir.
+: Hataen katl «خَطَأً» = Öldürme veya başka bir fiilin kastedilmediği halde ölümün cereyan ettiği durumlardır. Mesela kişinin bir avı vurmaya çalışırken hataen insanı vurması, arabayla birine çarpmak, elindeki taşın düşüp aşağıda birinin başına değmesi gibi... Kefaret ve diyet gerektirir.
+: Katl tesebbüben «الْقَتْلُ تَسَبُّبًا» = Kişinin kendisine ait bir bahçede kuyu kazması ve birinin de o kuyuya düşüp ölmesi gibi ki bu durumda ölüme sebebiyet verilmiştir. Doğrudan bir müdahale yoktur. Sadece diyet gerekir.
+: Mâ cerâ mecrâ’l-hata «مَا جَرَى مَجْرَى الْخَطَأ» = Uykudayken farkında olmadan bebeğini öldüren annenin durumu gibi. Diyet ve kefaret gerektirir.
+¶ Burada hata ile adam öldürmeden farkı şudur: Hata ile adam öldürmede kişiden bizzat isteği ile sadır olan bir fiil vardır. Burada ise böyle bir fiil yoktur.
+| Katl çeşidi | Gerektirdiği | Hanefî: mirasa engel mi? | Şâfiî: mirasa engel mi?
+| **Amden** | Kısas | Evet | Evet
+| **Şibh-i amd** | Kefaret + diyet | Evet | Evet
+| **Hataen** | Kefaret + diyet | Evet | Evet
+| **Tesebbüben** | Yalnız diyet | Hayır | Evet
+| **Mâ cerâ mecrâ’l-hata** | Diyet + kefaret | Evet | Evet
+! Şafii’ye göre bu 5 öldürme şeklinden hepsi mirasa engeldir. Yani Şafii’ye göre öldürme hangi sebeple olursa olsun öldürmenin her çeşidi katili mirastan alıkoyar. Hanefi mezhebine göre ise sadece 4. madde, yani öldürmeye sebep olmak mirasa engel değildir. Diğer 4 madde mirasa engeldir.
+¶ Özet olarak Şafii’ye göre öldürmenin her çeşidi mirasa engeldir. Hanefi mezhebine göre sadece kısas gerektiren veya diyet ve kefareti beraber gerektiren öldürme çeşitleri mirasa engeldir.
+### 3. Din ayrılığı «اخْتِلَافُ الدِّين»
+¶ Gayrimüslim, müslümana vâris olmaz. Bu meselede ittifak edilmiştir. Aynı şekilde Müslüman da gayrimüslime mirasçı olmaz. Sahabe ve tâbiînden bazıları müslümanın, gayrimüslime mirasçı olacağı görüşündedir.
+¶ Burada söz konusu olan ihtilâf-ı din, müslümanla gayrimüslim arasında mevcut olan din farklılığıdır. Yoksa gayrimüslim milletlerin kendileri arasındaki din farklılığı irse mâni değildir. Buna göre Yahudiler Hıristiyanlara, Hıristiyanlar Yahudilere, her iki taife Mecusilere, Mecusiler onlara mirasçı olabilir. Nitekim Hıristiyanlığın çeşitli mezhepleri birbirlerine muhalif olsalar bile yine birbirlerinin mirasçısı olabilirler. Ermeni, Rum, Ortodoks ve Katolik gibi.
+### 4. İhtilâf-ı dâr (tebaa ayrılığı)
+: İhtilâf-ı dâr = Uyruk (tebaa) ayrılığı; vâris ile muris arasında velayetin inkıtaına sebebiyet verdiği için irse mâni haller arasında sayılmıştır. Çünkü irs, velayete dayalıdır.
+¶ İhtilâf-ı dâr devlet başkanı ve ordunun ayrı olmasıyla meydana gelir. Bu şekilde meydana gelecek olan ihtilâf-ı dâr, iki devlet arasında güvenlik yok olacağından ve her biri diğerine karşı harp açabileceğinden iki devlet fertleri arasında velayeti yok eder fakat iki devlet arasında düşmanlarına karşı savunma ortaklığı varsa dâr birleşmiş ve veraset cereyan etmiş olur.
+* İttifakla üç mâni: kölelik, katl, din ayrılığı; Hanefîler ihtilâf-ı dârı ekler, Mâlikîlere göre mâniler 7’dir.
+* Kölelik ve din ayrılığı iki taraflı, katl tek taraflı mânidir: katil maktule varis olamaz ama maktul (katil ondan önce ölürse) katile varis olabilir.
+* Hanefîlere göre yalnız tesebbüben öldürme mirasa engel değildir; Şâfiîlere göre her çeşidi engeldir.
+* İhtilâf-ı din yalnız müslüman ile gayrimüslim arasındadır; gayrimüslimler birbirine varis olur.

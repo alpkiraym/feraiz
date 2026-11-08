@@ -1,0 +1,168 @@
+# Kırk Hal (2): Anne, Nene, Kız Kardeşler, Kız ve Oğlun Kızı
+> Annenin üç hali ve Ömeriyye (Ğarrâveyn) meselesi; sahih ve fasid nene ve neneyi hacbeden kaideler; öz ve baba bir kız kardeşlerin halleri; kız, oğlun kızı ve tekmiletü’s-sülüseyn.
+
+## Anne
+1. Fürû veya birden fazla kardeş varsa 1/6 alır. «السُّدُسُ مَعَ وُجُودِ الْفَرْعِ أَوْ تَعَدُّدِ الْإِخْوَةِ»
+¶ Ölen kişinin fürûu varsa anne 1/6 alır. Aynı şekilde ölen kişinin birden fazla kardeşi varsa anne 1/6 alır. Bu kardeşlerin erkek veya kız olması, anne bir, baba bir veya anne baba bir olmaları arasında bir fark yoktur. Hatta bu birden fazla kardeş bir meselede mahcub olsa dahi yine de annenin payını 1/6'ya düşürürler. Ancak mahrum olsalar payı etkilemezler.
+2. Fürû veya birden fazla kardeş yoksa 1/3 alır. «الثُّلُثُ مَعَ عَدَمِ وُجُودِ الْفَرْعِ أَوْ تَعَدُّدِ الْإِخْوَةِ»
+@ ﴿وَلِأَبَوَيْهِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ مِمَّا تَرَكَ إِنْ كَانَ لَهُ وَلَدٌ فَإِنْ لَمْ يَكُنْ لَهُ وَلَدٌ وَوَرِثَهُ أَبَوَاهُ فَلِأُمِّهِ الثُّلُثُ فَإِنْ كَانَ لَهُ إِخْوَةٌ فَلِأُمِّهِ السُّدُسُ﴾ | Delil
+3. Anne, baba ve eş ile bir arada bulunursa kalanın 1/3'ünü alır. «ثُلُثُ الْبَاقِي مَعَ وُجُودِ الْأَبِ وَالزَّوْجِ أَوِ الزَّوْجَةِ»
+¶ Bir meselede anne baba artı karı veya kocadan biri bulunursa anne kalanın 1/3'ünü alır. Mesele çözülürken önce eşe payı verilir. Eşin payı verildikten sonra geriye kalanın üçte biri anneye verilir.
+$$ 6
+$ زوج | 1/2 | 3
+$ أم | 1/3 | 2
+$ عم | ع | 1
+$$ 6
+$ أم | 1/6 | 1
+$ أب | 1/6+ع | 1+1
+$ بنت | 1/2 | 3
+$$ 6
+$ أم | 1/6 | 1
+$ ابن | ع | 5
+* Anne: fürû veya birden fazla kardeş varsa 1/6 (kardeşler mahcub olsa da; mahrum olsalar etkilemez), yoksa 1/3; baba ve eşle beraberse kalanın 1/3’ü.
+
+## Ömeriyye (Ğarrâveyn) Meselesi
+¶ Annenin bu üçüncü haline «غَرَّاوَيْن» veya «عُمَرِيَّتَيْن» denir. Bu şekilde isimlendirilmesinin sebebi Hz. Ömer'in bu meselede bu şekilde hüküm vermesindendir.
+¶ Bir meselenin Ömeriyye olabilmesi için o meselede anne baba artı eşlerden birinin olması gerekir. Bu da baba ile dede arasındaki farklardan bir tanesidir. Zira bir meselede dede artı anne ve eşlerden birisi olursa bütün fakihlere göre bu mesele Ömeriyye meselesi olmaz. Sadece İbn Mes'ûd ve Hanefilerden Ebû Yûsuf bu konuda dedeyi de baba gibi görmüştür. Yani bir meselede dede ve anne eşlerden birisi ile bulunursa bu mesele Ömeriyye olur.
+¶ İbn Kudâme'ye göre Hz. Ömer'in bu ictihadına Osman b. Affân, Zeyd b. Sâbit, İbn Mes'ûd, Hz. Ali, Hz. Hasan, Süfyân es-Sevrî, İmam Mâlik ve İmam Şâfiî tâbi olmuştur. Ancak İbn Abbas her iki meselede de anneye üçte birin tamamını vermiştir. Zira ona göre Allah Kur’an-ı Kerim'de çocuk ve birden fazla kardeş olmayınca anneye 1/3 vermiştir. Burada da çocuk ve birden fazla kardeş yoktur. Dolayısıyla anneye 1/3 verilmelidir.
+@ قَالَ ابْنُ قُدَامَةَ رَحِمَهُ اللَّهُ: هَاتَانِ الْمَسْأَلَتَانِ تُسَمَّيَانِ الْعُمَرِيَّتَيْنِ، لِأَنَّ عُمَرَ بْنَ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ قَضَى فِيهِمَا بِهَذَا الْقَضَاءِ، فَتَبِعَهُ فِي ذَلِكَ عُثْمَانُ بْنُ عَفَّانَ، وَزَيْدُ بْنُ ثَابِتٍ، وَابْنُ مَسْعُودٍ، وَرُوِيَ ذَلِكَ عَنْ عَلِيٍّ، وَبِهِ قَالَ الْحَسَنُ، وَالثَّوْرِيُّ، وَمَالِكٌ، وَالشَّافِعِيُّ رَضِيَ اللَّهُ عَنْهُمْ، وَأَصْحَابُ الرَّأْيِ. وَجَعَلَ ابْنُ عَبَّاسٍ ثُلُثَ الْمَالِ كُلِّهِ لِلْأُمِّ فِي الْمَسْأَلَتَيْنِ، لِأَنَّ اللَّهَ تَعَالَى فَرَضَ لَهَا الثُّلُثَ عِنْدَ عَدَمِ الْوَلَدِ وَالْإِخْوَةِ، وَلَيْسَ هَاهُنَا وَلَدٌ وَلَا إِخْوَةٌ
+@ وَخُلَاصَةُ الْأَمْرِ: أَنَّ جُمْهُورَ الصَّحَابَةِ وَالْفُقَهَاءِ لَمْ يَجْعَلُوا الْجَدَّ فِي مَقَامِ الْأَبِ فِي الْغَرَّاوَيْنِ إِلَّا عِنْدَ ابْنِ مَسْعُودٍ وَأَبِي يُوسُفَ صَاحِبِ أَبِي حَنِيفَةَ رَحِمَهُمَا اللَّهُ
+: Ömeriyye / Ğarrâveyn «الْعُمَرِيَّتَان / الْغَرَّاوَان» = Anne ve babanın eşlerden biriyle (karı veya koca) bulunduğu iki mesele: anne, eşe payı verildikten sonra kalanın üçte birini alır. Hz. Ömer böyle hükmettiği için bu adı almıştır.
+! Ömeriyye meselesi iki şekilde bozulur: 1. Ölenin fürûu varsa, 2. Birden fazla kardeş varsa.
+$$ 6
+$ زوج | 1/2 | 3
+$ أب | ع | 2
+$ أم | 1/3 الباقي | 1
+$= Çözüm: Bu mesele Ömeriyye/Ğarrâviyyedir. Anne-baba artı eş olduğu için anne kalanın 1/3’ünü alır. Mesele çözülürken evvela kocanın sehmi olan üçü kocaya veririz. Geriye kalan üçün 1/3’ünü ise anneye veririz. Anne 1/3’ünü aldıktan sonra kalanı asabe olan babaya veririz.
+$$ 12
+$ زوجة | 1/4 | 3
+$ أخت لأم (3) | م | -
+$ أب | ع | 7
+$ أم | 1/6 | 2
+$= Burada kardeşlerin sayısı birden fazla olduğu için mahcub olmalarına rağmen annenin payını etkileyip 1/3’ten 1/6’ya düşürdüler.
+* Ömeriyye (Ğarrâveyn): anne + baba + eşlerden biri → anne kalanın 1/3’ünü alır. Fürû veya birden fazla kardeş varsa bozulur. Dede babanın yerine geçerse Ömeriyye olmaz (İbn Mes’ûd ve Ebû Yûsuf hariç); İbn Abbas anneye malın 1/3’ünü verir.
+
+## Nene
+¶ İslam miras hukukunda cedde ikiye ayrılır: sahih cedde, fasid cedde.
+: Sahih cedde «الْجَدَّةُ الصَّحِيحَة» = Kendisi ile ölen kişi arasına fasid ceddin girmediği nenedir.
+: Fasid cedde «الْجَدَّةُ الْفَاسِدَة» = Kendisiyle ölen kişi arasına fasid ceddin girdiği nenedir. Zevi'l-erhamdandır.
+¶ Daha açık bir ifade ile belirtmek gerekirse vefat eden kişinin annesinin babası fasid dededir. Yani zevi'l-erham'dan olduğu için mirastan pay almaz. Bu fasid ceddin annesi ise fasid cedde olur. Bundan sonra ölüye fasid cedde aracılığıyla ulaşan bütün neneler fasid cedde olurlar.
+@ الْجَدَّةُ تَنْقَسِمُ إِلَى قِسْمَيْنِ: الْجَدَّةُ الصَّحِيحَةُ وَالْجَدَّةُ الْفَاسِدَةُ. الْجَدَّةُ الصَّحِيحَةُ: كُلُّ أُمٍّ تُدْلِي إِلَى الْمَيِّتِ بِوَاسِطَةِ الْأُمِّ أَوِ الْأَبِ، وَالْجَدَّةُ الْفَاسِدَةُ هِيَ كُلُّ أُمٍّ تُدْلِي إِلَى الْمَيِّتِ بِوَاسِطَةِ ذَكَرٍ بَيْنَ أُنْثَيَيْنِ، وَبِعِبَارَةٍ أُخْرَى الْجَدَّةُ الْفَاسِدَةُ هِيَ كُلُّ أُمٍّ تُدْلِي إِلَى الْمَيِّتِ بِوَاسِطَةِ الْجَدِّ الْفَاسِدِ
+¶ Konunun daha iyi anlaşılabilmesi için şöyle bir tablo çizebiliriz: anne tarafında fasid dede (annenin babası, «أب الأم») vasıtasıyla ölüye ulaşan anne fasid nenedir.
+| Taraf | Nene | Ölüye kimin vasıtasıyla ulaşır | Hükmü
+| **Anne tarafı** «جهة الأم» | «أم الأم» (anneanne) | Anne | Sahih
+| | «أم أم الأم» | Anneanne | Sahih
+| | «أم أب الأم» | Fasid dede (annenin babası) | Fasid
+| **Baba tarafı** «جهة الأب» | «أم الأب» (babaanne) | Baba | Sahih
+| | «أم أم الأب» | Babaanne | Sahih
+| | «أم أب الأب» | Dede (babanın babası) | Sahih
+### Sahih nenenin halleri
+1. Hacbeden yoksa 1/6 alır. «السُّدُسُ إِنْ لَمْ تُحْجَبْ»
+2. Mahcub olur. «الْحَجْبُ»
+¶ Delil: «السُّنَّةُ وَالْإِجْمَاعُ»
+@ حَدِيثُ قَبِيصَةَ بْنِ ذُؤَيْبٍ قَالَ: جَاءَتِ الْجَدَّةُ إِلَى أَبِي بَكْرٍ رَضِيَ اللَّهُ عَنْهُ تَسْأَلُهُ عَنْ مِيرَاثِهَا، فَقَالَ: «مَا لَكِ فِي كِتَابِ اللَّهِ شَيْءٌ، وَمَا عَلِمْتُ لَكِ فِي سُنَّةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ شَيْئًا، فَارْجِعِي حَتَّى أَسْأَلَ النَّاسَ»، فَسَأَلَ، فَقَالَ الْمُغِيرَةُ بْنُ شُعْبَةَ: شَهِدْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَعْطَاهَا السُّدُسَ، فَقَالَ: هَلْ مَعَكَ غَيْرُكَ؟ فَقَامَ مُحَمَّدُ بْنُ مَسْلَمَةَ فَقَالَ مِثْلَهُ، فَأَنْفَذَهُ لَهَا أَبُو بَكْرٍ. ثُمَّ جَاءَتِ الْجَدَّةُ الْأُخْرَى إِلَى عُمَرَ رَضِيَ اللَّهُ عَنْهُ تَسْأَلُهُ، فَقَالَ: «مَا لَكِ فِي كِتَابِ اللَّهِ شَيْءٌ، وَمَا كَانَ الْقَضَاءُ الَّذِي قُضِيَ بِهِ إِلَّا لِغَيْرِكِ، وَمَا أَنَا بِزَائِدٍ فِي الْفَرَائِضِ شَيْئًا، وَلَكِنْ هُوَ ذَلِكَ السُّدُسُ، فَإِنِ اجْتَمَعْتُمَا فَهُوَ بَيْنَكُمَا، وَأَيَّتُكُمَا خَلَتْ بِهِ فَهُوَ لَهَا»
+@ وَقَدْ رَوَى ابْنُ بُرَيْدَةَ عَنْ أَبِيهِ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ جَعَلَ لِلْجَدَّةِ السُّدُسَ إِذَا لَمْ يَكُنْ دُونَهَا أُمٌّ، وَهَذَا يَدُلُّ عَلَى أَنَّهَا لَا تَرِثُ مَعَهَا شَيْئًا، وَلِأَنَّ الْجَدَّةَ تُدْلِي بِالْأُمِّ فَسَقَطَتْ بِهَا كَسُقُوطِ الْجَدِّ بِالْأَبِ وَابْنِ الِابْنِ بِهِ
+### Nenenin mahcub olması ile ilgili kaideler «الْقَوَاعِدُ لِحَجْبِ الْجَدَّة»
+#### A. İttifak edilen kaideler «مَا اتُّفِقَ عَلَيْهَا الْمَذَاهِبُ»
+1. Anne bütün neneleri hacbeder. «الْأُمُّ تَحْجُبُ كُلَّ الْجَدَّاتِ»
+2. Anne tarafından yakın nene uzak neneyi hacbeder. «الْقَرِيبَةُ مِنْ جِهَةِ الْأُمِّ تَحْجُبُ الْبَعِيدَةَ مُطْلَقًا»
+#### B. İhtilaf edilen kaideler «مَا اخْتُلِفَ فِيهَا»
+1. Cumhura göre baba bütün neneleri hacbeder. Hanbelilere göre baba kendi annesini hacbetmez. Hanbelilere göre baba nasıl ki dört mezhebe göre anneanneyi hacbetmiyorsa aynı şekilde kendi annesini de hacbetmemesi lazım. «الْأَبُ يَحْجُبُ كُلَّ الْجَدَّاتِ عِنْدَ الْجُمْهُورِ، وَأَمَّا عِنْدَ الْحَنَابِلَةِ الْأَبُ لَا يَحْجُبُ أُمَّهُ»
+2. Hanefi ve Hanbeli mezhebine göre baba tarafından yakın olan nene, anne tarafından uzak olan neneyi hacbeder. Maliki ve Şafiilere göre ise hacbetmez, 1/6'da ortak olurlar. «الْجَدَّةُ الْقَرِيبَةُ مِنْ جِهَةِ الْأَبِ تَحْجُبُ الْجَدَّةَ الْبَعِيدَةَ مِنْ جِهَةِ الْأُمِّ عِنْدَ الْحَنَفِيَّةِ وَالْحَنَابِلَةِ، وَتَكُونَانِ مُشْتَرِكَتَيْنِ فِي السُّدُسِ عِنْدَ الشَّافِعِيَّةِ وَالْمَالِكِيَّةِ»
+3. Hanefi ve Şafii mezhebine göre yukarıya doğru çıktıkça hangi derecede olursa olsun bütün neneler varis olurlar. Hanbeli mezhebine göre sadece 3, Maliki mezhebine göre ise sadece 2 nene mirastan pay alır. «الشَّافِعِيَّةُ وَالْحَنَفِيَّةُ وَرَّثُوا كُلَّ الْجَدَّاتِ، أَمَّا الْحَنَابِلَةُ فَثَلَاثَ جَدَّاتٍ، وَالْمَالِكِيَّةُ جَدَّتَيْنِ»
+| Kaide | Hanefî | Şâfiî | Mâlikî | Hanbelî
+| **Baba neneleri düşürür mü?** | Hepsini | Hepsini | Hepsini | Kendi annesini düşürmez
+| **Baba tarafından yakın nene, anne tarafından uzak neneyi düşürür mü?** | Evet | Hayır, 1/6’da ortak | Hayır, 1/6’da ortak | Evet
+| **Kaç nene varis olur?** | Hepsi | Hepsi | 2 | 3
+! Hanefi mezhebine göre bu kuralların tamamını şu şekilde özetleyebiliriz: Anne bütün neneleri, baba baba tarafındaki bütün neneleri, yakın nene uzak neneleri hacbeder.
+$$ ?
+$ جدة | 1/6 | ?
+$ ابن | ع | ?
+$$ ?
+$ أب | ع | ?
+$ أم | 1/3 | ?
+$ أم أم | م | -
+$$ ?
+$ أم أب | 1/6 | ?
+$ أم أم | ^ | ^
+$$ ?
+$ أم أب | 1/6 | ?
+$ أم أب أب أب | م | -
+$= [[Bu tablolarda yalnız haller yazılmıştır; mahreç ve sihâmı siz bulun.]]
+& أم أم ، أم أم أم
+& أم ، أم أب أب ، أم أب أم
+& أم أم ، أب
+& أم أب ، أم أم أم | mezheplere göre (Hanefî–Hanbelî / Mâlikî–Şâfiî)
+& أب ، أم أب ، أم أم أم | mezheplere göre (Hanefî / Hanbelî / Mâlikî–Şâfiî)
+* Sahih nene: hacbeden yoksa 1/6 (birden fazla nene 1/6’yı paylaşır); delili sünnet ve icmâdır (Mugîre ve Muhammed b. Mesleme’nin şahitliği).
+* İttifakla: anne bütün neneleri, anne tarafından yakın nene uzak neneyi düşürür.
+* Hanefîlere göre özet: anne bütün neneleri, baba baba tarafındaki neneleri, yakın nene uzak neneleri hacbeder.
+
+## Öz Kız Kardeşler
+¶ «بَنُو الْأَعْيَان / الْأَخَوَاتُ الشَّقِيقَات»
+1. Tek başına olup asabe yapan ve hacbeden yoksa 1/2 alır. «النِّصْفُ عِنْدَ الْإِنْفِرَادِ وَعَدَمِ الْحَجْبِ وَالتَّعْصِيبِ»
+2. Birden fazla iseler ve asabe yapan bir de hacbeden yoksa 2/3 alırlar. «الثُّلُثَانِ عِنْدَ التَّعَدُّدِ وَعَدَمِ الْحَجْبِ وَالتَّعْصِيبِ»
+3. Öz erkek kardeşle beraber asabe bi-gayrihi olur. «تَكُونُ عَصَبَةً بِالْغَيْرِ مَعَ الْإِخْوَةِ الْأَشِقَّاءِ»
+4. Sulbiyye, o yoksa ibniyye ile asabe maa’l-gayr olur. (Kız kardeşler, bint ile asabe oldukları zaman ehu şakîk gibi hüküm giyerler. Kurbî cihetleri hacbederler. «اجْعَلُوا الْأَخَوَاتِ مَعَ الْبَنَاتِ عَصَبَةً») «تَكُونُ عَصَبَةً مَعَ الْغَيْرِ مَعَ وُجُودِ الْبِنْتِ أَوْ بِنْتِ الِابْنِ»
+5. Erkek usul ve fürû ile hacbolur. «تُحْجَبُ مَعَ الْأَصْلِ الْمُذَكَّرِ وَالْفَرْعِ الْمُذَكَّرِ»
+@ ﴿يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ إِنِ امْرُؤٌ هَلَكَ لَيْسَ لَهُ وَلَدٌ وَلَهُ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ وَهُوَ يَرِثُهَا إِنْ لَمْ يَكُنْ لَهَا وَلَدٌ فَإِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَ وَإِنْ كَانُوا إِخْوَةً رِجَالًا وَنِسَاءً فَلِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ يُبَيِّنُ اللَّهُ لَكُمْ أَنْ تَضِلُّوا وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ﴾ | Delil
+@ وَدَلِيلُ الْحَالَةِ الرَّابِعَةِ (عَصَبَةٌ مَعَ الْغَيْرِ) هُوَ قَضَاءُ رَسُولِ اللَّهِ بِالْبَاقِي لِلْأُخْتِ فِي حَدِيثِ ابْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ فِي ابْنَةٍ وَابْنَةِ ابْنٍ وَأُخْتٍ: إِنَّ لِلْبِنْتِ النِّصْفَ، وَلِابْنَةِ الِابْنِ السُّدُسَ تَكْمِلَةً لِلثُّلُثَيْنِ، وَالْبَاقِيَ لِلْأُخْتِ. وَعَنِ الْأَسْوَدِ: أَنَّ مُعَاذَ بْنَ جَبَلٍ رَضِيَ اللَّهُ عَنْهُ وَرَّثَ أُخْتًا وَابْنَةً، جَعَلَ لِكُلٍّ مِنْهُمَا النِّصْفَ، وَهُوَ بِالْيَمَنِ وَنَبِيُّ اللَّهِ يَوْمَئِذٍ حَيٌّ. وَهُنَاكَ قَاعِدَةٌ فِقْهِيَّةٌ فِي عِلْمِ الْفَرَائِضِ تَقُولُ: اجْعَلُوا الْأَخَوَاتِ مَعَ الْبَنَاتِ عَصَبَةً
+* Öz kız kardeş (5 hal): tek ise 1/2, birden fazla ise 2/3, öz erkek kardeşle asabe bi-gayrihi, kız veya oğlun kızıyla asabe maa’l-gayr; erkek usul ve erkek fürû ile düşer.
+* «اجْعَلُوا الْأَخَوَاتِ مَعَ الْبَنَاتِ عَصَبَةً»: kız kardeşler kızlarla beraber asabe olur.
+
+## Baba Bir Kız Kardeşler
+¶ «بَنُو الْعَلَّات / الْأَخَوَاتُ لِأَبٍ»
+1. Tek başına olup asabe yapan ve hacbeden yoksa 1/2 alır. «النِّصْفُ عِنْدَ الْإِنْفِرَادِ وَعَدَمِ الْحَجْبِ وَالتَّعْصِيبِ»
+2. Birden fazla iseler ve asabe yapan bir de hacbeden yoksa 2/3 alırlar. «الثُّلُثَانِ عِنْدَ التَّعَدُّدِ وَعَدَمِ الْحَجْبِ وَالتَّعْصِيبِ»
+3. Baba bir erkek kardeşle beraber asabe bi-gayrihi olur. «تَكُونُ عَصَبَةً بِالْغَيْرِ مَعَ الْإِخْوَةِ لِأَبٍ»
+4. Sulbiyye, o yoksa ibniyye ile asabe maa’l-gayr olur. «تَكُونُ عَصَبَةً مَعَ الْغَيْرِ مَعَ وُجُودِ الْبِنْتِ أَوْ بِنْتِ الِابْنِ»
+5. Erkek usul ve fürû, öz erkek kardeş ve asabe maa’l-gayr olan öz kız kardeş ile hacbolur. «تُحْجَبُ مَعَ الْأَصْلِ الْمُذَكَّرِ وَالْفَرْعِ الْمُذَكَّرِ وَالْأَخِ الشَّقِيقِ وَالْأُخْتِ الشَّقِيقَةِ الَّتِي تَكُونُ عَصَبَةً مَعَ الْغَيْرِ»
+6. Bir tane öz kız kardeş ile beraber olunca 1/6 alır (tekmiletü’s-sülüseyn). «السُّدُسُ مَعَ الْأُخْتِ الشَّقِيقَةِ الْوَاحِدَةِ»
+7. Birden fazla öz kız kardeş ile hacbolur. «تُحْجَبُ بِالْأُخْتَيْنِ الشَّقِيقَتَيْنِ»
+| | Öz kız kardeş | Baba bir kız kardeş
+| **Tek** | 1/2 | 1/2
+| **Birden fazla** | 2/3 | 2/3
+| **Erkek kardeşiyle** | Asabe bi-gayrihi (öz erkek kardeşle) | Asabe bi-gayrihi (baba bir erkek kardeşle)
+| **Kız veya oğlun kızıyla** | Asabe maa’l-gayr | Asabe maa’l-gayr
+| **Bir öz kız kardeşle** | — | 1/6 (tekmiletü’s-sülüseyn)
+| **Hacbedenler** | Erkek usul, erkek fürû | Erkek usul, erkek fürû, öz erkek kardeş, asabe maa’l-gayr olan öz kız kardeş, iki öz kız kardeş
+| **Hal sayısı** | 5 | 7
+### Alıştırmalar
+& جد ، أخت ش ، أخ ش ، أخ لأم
+& زوجة ، أب ، أم ، أخ ش ، عم
+& زوج ، أم ، أخت لأم (2) ، أخ ش
+& بنت ابن ، أخت ش
+& بنت (2) ، أخت ش
+& بنت ، أخت ش
+& بنت ابن (4) ، أخت ش (5)
+& أخت ش (2) ، أخ ش ، أخت لأب ، أخت لأم
+& أخت ش ، أخت لأب ، أخت لأم
+& أخ ش ، أخ لأب ، أخ لأم
+& أخت ش ، أخت لأب ، أخ لأب
+& زوج ، أم أم ، أخ ش ، أخت لأم ، أخ لأم ، أخت لأب
+& أخت ش ، أخت لأب ، أخت لأم ، أخ ش ، أخ لأب ، أخ لأم
+& بنت (2) ، أخت ش ، أخ لأب ، بنت ابن
+* Baba bir kız kardeş (7 hal): öz kız kardeşin 4 halinin aynısı + bir öz kız kardeşle 1/6 (tekmiletü’s-sülüseyn) + iki öz kız kardeşle düşer + öz erkek kardeş ve asabe maa’l-gayr öz kız kardeşle de düşer.
+
+## Kız (Sulbiyye)
+1. Tek sayıda ise 1/2 alır.
+2. Birden fazla ise 2/3 alırlar.
+3. Oğul (kızın kendi erkek kardeşi) ile asabe bi-gayrihi olur.
+: Sulbiyye = Ölenin öz kızı «بِنْت».
+: Tekmiletü’s-sülüseyn = 1/6 + 1/2 = 2/3. Tek sayıda 1/2 alanla birlikte 2/3’e tamamlanması için 1/6 almaya denir.
+¶ Tekmiletü’s-sülüseyn sadece şu ikisi arasında olur:
+1. Kız + oğlun kızı «بنت + بنت ابن»
+2. Ana baba bir kız kardeş + baba bir kız kardeş «أخت ش + أخت لأب»
+* Kız: tek ise 1/2, birden fazla ise 2/3, oğulla asabe bi-gayrihi. Hacb-ı hirmana hiç uğramaz.
+* Tekmiletü’s-sülüseyn yalnız iki yerde olur: kız + oğlun kızı, öz kız kardeş + baba bir kız kardeş.
+
+## Oğlun Kızı (İbniyye)
+1. Tek sayıda ise 1/2 alır.
+2. Birden fazla ise 2/3 alırlar.
+3. Oğlun oğlu ve aşağısı ile asabe olur.
+4. Bir sulbiyye (kız) ile 1/6 pay alarak tekmiletü’s-sülüseyn olur.
+5. Birden fazla sulbiyye ile mahcub olur.
+6. Ölenin oğlu ile kalırsa mahcub olur.
+: İbniyye = Ölenin oğlunun kızı «بِنْتُ ابْن».
+: Teşbîbü’l-benât = Oğlun kızlarına ait özel meselenin adı.
+* Oğlun kızı (6 hal): tek 1/2, çok 2/3, oğlun oğlu (ve aşağısı) ile asabe, bir kızla 1/6, iki kızla düşer (aşağıdaki oğul onu asabe yapmadıkça), oğulla düşer.

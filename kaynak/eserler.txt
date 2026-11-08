@@ -1,0 +1,19 @@
+# Eser–müellif listesi (eşleştirme, "… kimin eseridir?" soruları, sözlüğün Eserler sekmesi).
+# Biçim: <ünite no> | <bölüm başlığı> | <eser> | <müellif> | <not (isteğe bağlı)>
+# Bütün bilgiler ünite metinlerinden alınmıştır. Eser adında virgül kullanılmaz.
+1 | Feraiz Alanındaki Eserler | el-Ferâiżü’s-Sirâciyye | Secâvendî | Hanefîlerin en meşhur ferâiz metni
+1 | Feraiz Alanındaki Eserler | el-Ferâiżü’r-Raḥbiyye (Buğyetü’l-bâhis an cümeli’l-mevâris) | İbnü’l-Mütefennine er-Rahbî | Şâfiîlerin manzum metni
+1 | Feraiz Alanındaki Eserler | Dav’u’s-Sirâciyye | Ebû Bekir el-Kelebâzî | Sirâciyye şerhi
+1 | Feraiz Alanındaki Eserler | Şerhu’l-Ferâizi’s-Sirâciyye (Molla Fenârî) | Molla Fenârî | En güzel şerhlerden biri
+1 | Feraiz Alanındaki Eserler | el-Muhtâc ale’l-Ferâizi’s-Sirâciyye | Şehabeddin es-Sivâsî | Sirâciyye şerhi
+1 | Feraiz Alanındaki Eserler | et-Tahkîk fî Şerhi’l-Ferâizi’s-Sirâciyye | İbnü’l-Hâc el-Farazî | Sirâciyye şerhi
+1 | Feraiz Alanındaki Eserler | er-Rahbiyyetü fî İlmi’l-Ferâiz | Mustafa Dîb el-Buğa | Dımeşk 1994
+1 | Feraiz Alanındaki Eserler | el-Fevâʾidü’ş-Şinşevriyye | Abdullah b. Muhammed eş-Şinşevrî | Rahbiyye şerhi
+1 | Feraiz Alanındaki Eserler | Tuḥfetü’l-iḫvâni’l-behiyye | İbn Galbûn el-Mısrâtî | Rahbiyye şerhi
+1 | Feraiz Alanındaki Eserler | Şerḥu’r-Raḥbiyye (Sıbtu’l-Mardînî) | Sıbtu’l-Mardînî | Rahbiyye şerhi
+1 | Feraiz Alanındaki Eserler | Teshîlü’l-Ferâiz | Ali Haydar Efendi | Günümüz çalışması
+1 | Feraiz Alanındaki Eserler | İslam Hukukunda Ferâiz ve İntikal | Ali Himmet Berki – İrfan Yücel | Günümüz çalışması
+1 | Feraiz Alanındaki Eserler | Mukayeseli İslam Miras Hukuku | Hamza Aktan | Günümüz çalışması
+1 | Feraiz Alanındaki Eserler | Hukûk-ı İslâmiyye Kâmusu | Ömer Nasuhi Bilmen | Günümüz çalışması
+1 | Feraiz Alanındaki Eserler | Mukayeseli İslam Hukuku | Hayreddin Karaman | Günümüz çalışması
+1 | Feraiz Alanındaki Eserler | Takrîbü’l-Ferâiz | Rifat Oral | Günümüz çalışması

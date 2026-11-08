@@ -1,0 +1,67 @@
+# Terike Üzerindeki Haklar
+> Aynî haklar ve terikeden sırasıyla ödenen dört hak: teçhiz ve tekfin, borçlar, vasiyet ve mirasın taksimi.
+
+## Aynî Haklar
+¶ Terike üzerindeki haklar «الْحُقُوقُ الْمُتَعَلِّقَةُ بِالتَّرِكَة» ikiye ayrılır: başkasına ait haklar «الْحُقُوقُ الْعَيْنِيَّة» ve başkasına ait olmayan haklar.
+: Aynî haklar = Murisin ölmeden önce kendi malı üzerinde taalluk eden haklardır. Hanefi, Şafiî ve Malikilere göre bu haklar tekfin/teçhiz masrafından önce gelir. Hanbeli mezhebine göre ise kişi vefat ettikten sonra önce tekfin/teçhiz masrafları çıkarılır.
+### Aynî haklara şunları örnek olarak gösterebiliriz
+- Murisin hayattayken bir şey satıp parayı teslim alması ve henüz malı teslim etmeden önce vefat etmesi ki bu durumda ilk olarak malın teslim edilmesi için gereken masraf terikeden çıkartılır.
+- Murisin malının belli bir bölümünün onun borcu karşılığında başka birinde rehin olarak tutulması ki bu durumda murisin borcunun karşılığında o mal verilir.
+- Müstecirin peşin ödediği ücret. Burada önce müstecirin parası ödenir.
+- Murisin elindeki müstear mal
+- Emanetler
+### Terike üzerindeki hakların sırası
+| Sıra | Hanefî, Şâfiî, Mâlikî | Hanbelî, Zâhirî
+| **1** | «الحقوق العينية» | «التجهيز والتكفين»
+| **2** | «التجهيز والتكفين» | «الحقوق العينية»
+| **3** | «الديون المرسلة» | «الديون المرسلة»
+| **4** | «تنفيذ الوصايا» | «تنفيذ الوصايا»
+| **5** | «تقسيم الميراث» | «تقسيم الميراث»
+* Aynî haklar (rehin, satılmış ama teslim edilmemiş mal, peşin kira, ariyet, emanet) Hanefî, Şâfiî ve Mâlikîlere göre teçhiz-tekfinden önce, Hanbelîlere göre sonra gelir.
+
+## Başkasına Ait Haklar
+¶ Terike üzerindeki haklar denilince kastedilen bu bölümdür. Bu haklar 4 tanedir.
+>> **Teçhiz ve tekfin** «التجهيز والتكفين»
+>> **Kazâ-i düyûn** «قضاء الديون»
+>> **Vasiyet** «تنفيذ الوصايا»
+>> **Mirasın taksimi** «تقسيم التركة»
+### 1. Teçhiz ve tekfin «التَّجْهِيزُ وَالتَّكْفِين»
+¶ Bu maddeye ölünün yıkanması, kefenlenmesi, kabrinin [[kazılması]], kabre taşınması ve defnedilmesi gibi öldükten sonraki tüm masraflar girer.
+¶ Şafii mezhebine ve Ebû Yûsuf'a göre -ki Hanefilerde müftâ bih olan görüş budur- vefat eden muristen bir lahza dahi önce vefat etmiş olan ve nafakası murise bağlı olan baba, çocuk ve eş gibi kimselerin de teçhiz ve tekfinin masrafları murise bağlıdır. Yani muris kendisinden hemen önce vefat etmiş olan oğlunun, eşinin veya anne babasının bu masrafları da terikeden karşılanır.
+¶ Muris vefat edince geriye hiç mal bırakmazsa dünyada iken nafakası kimin üzerine lazım geliyorduysa teçhiz ve tekfin masrafları da o kimseye aittir. Mesela bir kimse ölse geriye oğlu ve annesi kalırsa teçhiz ve tekfin masrafları mirastaki hisse oranlarına göre bu iki varise aittir.
+¶ Teçhiz ve tekfin işlemleri tebzîr ve taktîre kaçmadan yapılır. Yani vefat eden kişinin kefenlenmesi veya mezarının yapılması konusunda israfa kaçılmamalıdır.
+: Tebzîr / taktîr = Teçhiz ve tekfinde kaçınılması gereken aşırılık (israf) ve cimrilik.
+### 2. Kazâ-i düyûn «قَضَاءُ الدُّيُون»
+¶ Düyûnü’l-mürsele ve mutlaka «الدُّيُونُ الْمُرْسَلَةُ أَوِ الْمُطْلَقَة» diye de isimlendirilen bu borçlar Allah borçları ve kul borçları diye ikiye ayrılır.
+: Allah borçları «دُيُونُ اللَّه» = Ölünün zekât, kefaret, adak, hac ve umre gibi borçlarıdır.
+¶ Hanefi mezhebine göre murisin vefat etmesi ile bu borçlar düşer. Ancak muris hayatta iken bunların ödenmesini vasiyet etmiş ise bu borçların malın üçte birinden karşılanması varislere vaciptir. Şayet vasiyet etmemişse varisler bu borçları eda etmek zorunda değiller. Şafiî mezhebine göre ise muris vasiyet etse de etmese de varisler bu borçları ödemek zorundalar.
+: Kul borçları «دُيُونُ الْعِبَاد» = Karz-ı hasen, alınan bir eşyanın parası, işçi ücreti ve zevceye verilecek mehir gibi borçlardır.
+¶ Hanefi mezhebine göre önce kul borçları ölünün geriye bıraktığı malın tamamından çıkarılır. Bu borçlar çıkarıldıktan sonra malın üçte biri henüz bitmemiş ise sıra Allah borçlarına gelir. Şafii mezhebine göre ise önce Allah borçları, sonra kul borçları karşılanır.
+¶ Kul borçları da «دُيُونُ الصِّحَّة» ve «دُيُونُ الْمَرَض» diye ikiye ayrılır.
+: Sıhhat borçları «دُيُونُ الصِّحَّة» = Kişinin henüz sağlığında iken üzerinde bulunduğundan söz ettiği borçlardır.
+: Hastalık borçları «دُيُونُ الْمَرَض» = Kişi ölüm döşeğinde iken üzerinde var olduğunu ikrar ettiği borçlardır.
+¶ Cumhura göre sıhhat ile hastalık borçları arasında herhangi bir öncelik sıralaması yoktur. İkisi de eşittir. Hanefi mezhebine göre ise sıhhat borçları hastalık borçlarından önce gelir.
+| Sıra | Şâfiî | Hanefî
+| **1** | «ديون الله» | «ديون الصحة»
+| **2** | «ديون العباد» (bu maddede sıhhat ve hastalık borçları eşittir) | «ديون المرض»
+| **3** | — | «ديون الله»
+### 3. Vasiyet «وَصِيَّة»
+¶ Vefat eden kimsenin teçhiz-tekfin ve borçlarından sonra geriye kalan malın üçte birinden vasiyeti yerine getirilir. Kur'an-ı Kerim'de her ne kadar vasiyet «مِنْ بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ» borçlardan önce zikredilmişse de sünnete baktığımız zaman uygulama, borçların vasiyetten önce gelmesi şeklindedir.
+@ عَنْ عَلِيٍّ: «أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَضَى بِالدَّيْنِ قَبْلَ الْوَصِيَّةِ»
+¶ Vasiyet, terike üzerindeki bütün haklar ödendikten sonra geriye kalan malın sadece üçte birinden yerine getirilir. Ancak vefat eden murisin varisleri duruma razı olurlarsa geriye kalan malın üçte birinden fazlası da verilebilir.
+~ Muris vefat edip geriye sadece 90.000 lira bırakırsa, eğer bir yere bağışlanması için 45 bin lira verilmesini vasiyet etmişse sadece 30 bin lira verilir. Ancak varisler razı olurlarsa veya muris vefat ettikten sonra geriye hiç varisi yoksa 45 bin lira verilir. Eğer vefat eden muris geriye 100.000 liralık borç bırakmışsa mirasın tamamı borçlulara gider, vasiyeti de yerine getirilmez.
+### 4. Mirasın taksimi «تَقْسِيمُ التَّرِكَة»
+¶ Kişi vefat ettikten sonra geriye bıraktığı maldan evvela teçhiz ve tekfin masrafları karşılanır. Sonra geriye kalan malın tümünden kul borçları çıkarılır. Kul borçları da çıkarıldıktan sonra geriye kalan malın üçte birinden Allah borçları çıkarılır. Allah borçları da çıkarıldıktan sonra geriye kalan malın üçte birinden vasiyet yerine getirilir. Vasiyet yerine getirildikten sonra geriye mal kaldıysa varisler arasında İslam miras hukukuna göre taksim edilir.
+>> Teçhiz ve tekfin masrafları karşılanır.
+>> Kalan malın tümünden kul borçları çıkarılır.
+>> Kalanın üçte birinden Allah borçları çıkarılır.
+>> Kalanın üçte birinden vasiyet yerine getirilir.
+>> Kalan mal varisler arasında taksim edilir.
+: Şer’î intikal = Ölünün terikesinin mirasçılara intikali.
+: Âdî intikal = Ölenin bıraktığı terikeden emîrî (mülkiyeti devlete ait) arazi ile müsakkafât ve müstağallât adı verilen vakıf arazi ve akarların özel kanunlara göre intikal hakkı sahiplerine geçmesidir.
+: Kazâ-i taksim = Terikenin nass (ayet ve hadis) ile belirlenen şekilde taksim edilmesi.
+: Rızâ-i taksim = Bütün varislerin anlaşıp rızalaşarak yaptığı taksim. Varisler arasında bulûğ çağına girmemiş çocuk varsa yapılamaz.
+* Terikeden sırasıyla: teçhiz-tekfin › kul borçları (malın tamamından) › Allah borçları (kalanın üçte birinden) › vasiyet (kalanın üçte birinden) › taksim.
+* Hanefîlere göre Allah borçları ancak vasiyet edilmişse üçte birden ödenir; Şâfiîlere göre vasiyet edilmese de ödenir ve kul borçlarından önce gelir.
+* Ayette vasiyet borçtan önce anılsa da Hz. Peygamber borcu vasiyetten önce ödemiştir.
+* Vasiyet üçte birle sınırlıdır; varisler razı olursa ya da hiç varis yoksa fazlası verilir.

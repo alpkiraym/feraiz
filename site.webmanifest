@@ -1,0 +1,25 @@
+{
+  "name": "Feraiz · Giray Akademi",
+  "short_name": "Feraiz",
+  "description": "Kırk hal, mesele tabloları ve 210 alıştırma",
+  "start_url": "/feraiz/",
+  "scope": "/feraiz/",
+  "display": "standalone",
+  "background_color": "#f7f3ea",
+  "theme_color": "#1f5a45",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/feraiz/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/feraiz/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
